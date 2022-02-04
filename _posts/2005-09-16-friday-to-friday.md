@@ -7,39 +7,41 @@ author:
   display_name: Edward
   login: admin
   email: edward@aldreth.com
-  url: ''
+  url: ""
 author_login: admin
 author_email: edward@aldreth.com
 wordpress_id: 167
 wordpress_url: http://tarrant.org.uk/2005/09/16/friday-to-friday/
-date: '2005-09-16 13:16:41 +0100'
-date_gmt: '2005-09-16 12:16:41 +0100'
+date: "2005-09-16 13:16:41 +0100"
+date_gmt: "2005-09-16 12:16:41 +0100"
 categories:
-- Cindy
+  - Cindy
 tags: []
 comments:
-- id: 12
-  author: Liz Piercy
-  author_email: piercys42@hotmail.com
-  author_url: ''
-  date: '2005-09-18 13:26:41 +0100'
-  date_gmt: '2005-09-18 13:26:41 +0100'
-  content: "Dear Edward, Toby, John and Rose\nI have only heard the news about Cindy
-    today.  I remember her warmth and concern for others even when she was very ill.
-    Her sense of humour made me laugh too.  The last time I met her she was on her
-    electric bike and she was telling me about the comments it drew, especially, for
-    some reason, from elderly men.  She spoke of her concern for all of you and how
-    sorry she would be to leave you. I will miss her too.  \nThinking of you all\nlove
-    from Liz    \n"
+  - id: 12
+    author: Liz Piercy
+    author_email: piercys42@hotmail.com
+    author_url: ""
+    date: "2005-09-18 13:26:41 +0100"
+    date_gmt: "2005-09-18 13:26:41 +0100"
+    content:
+      "Dear Edward, Toby, John and Rose\nI have only heard the news about Cindy
+      today.  I remember her warmth and concern for others even when she was very ill.
+      Her sense of humour made me laugh too.  The last time I met her she was on her
+      electric bike and she was telling me about the comments it drew, especially, for
+      some reason, from elderly men.  She spoke of her concern for all of you and how
+      sorry she would be to leave you. I will miss her too.  \nThinking of you all\nlove
+      from Liz    \n"
 ---
+
 <p><em>Written on Saturday 10th.</em></p>
-<p>On Friday we had planned to go to the hospital for Cindy to have a chest x-ray as a baseline for her new treatment (<a href="http://www.cancerbacup.org.uk/Treatments/Biologicaltherapies/Cancergrowthinhibitors/Erlotinib">Tarceva</a>).</p>
+<p>On Friday we had planned to go to the hospital for Cindy to have a chest x-ray as a baseline for her new treatment (<a href="https://www.cancerbacup.org.uk/Treatments/Biologicaltherapies/Cancergrowthinhibitors/Erlotinib">Tarceva</a>).</p>
 <p>However, in the morning, when she took her first tablet, which was one of the tarceva tablets, it got stuck in her throat, and she tried to have a coughing fit to dislodge it.  This exhausted her and caused her even more breathing problems than usual.  The oxygen we had at home didn't seem to be enough to help her, so I ended up ringing 999.  A paramedic arrived very quickly, shortly followed by an ambulance, who took Cindy and me to the hospital.</p>
 <p>This was all happening just at the normal getting ready for school time, so all three children were upset and frightened.  Rose had made her own packup, but John and Toby went to school without a lunch.  Rose went over to Jo's who put her hair in a bobble for her, John and Toby went straight off to school.  J + R were ok, I phoned Scarcroft who sorted out a lunch for John.  Toby was ok during the morning, but at lunch time he came home to find still no-one there.  He got upset and worried (understandably), phoned Lance and Mary and found Sam there, who came round and got him lunch and looked after him, so he didn't go back to school that afternoon.</p>
-<p>Cindy, meanwhile, was having heart traces that showed a heart rate of 140-160, which is slightly fast!  She was put on large amounts of oxygen, given <a href="http://www.cancerbacup.org.uk/Resourcessupport/Symptomssideeffects/Pain/Levelsofpaincontrol">oramorph</a> which as well as relieving pain helps with breathing problems and glycerine to try and help slow her heart rate.  She also had physiotherapy to help her try to shift the tablet and and any fluid on her chest.  At about 1 she was moved from A&E to the Medical Admissions Unit, first into a three bed room, and later into a room by herself.</p>
+<p>Cindy, meanwhile, was having heart traces that showed a heart rate of 140-160, which is slightly fast!  She was put on large amounts of oxygen, given <a href="https://www.cancerbacup.org.uk/Resourcessupport/Symptomssideeffects/Pain/Levelsofpaincontrol">oramorph</a> which as well as relieving pain helps with breathing problems and glycerine to try and help slow her heart rate.  She also had physiotherapy to help her try to shift the tablet and and any fluid on her chest.  At about 1 she was moved from A&E to the Medical Admissions Unit, first into a three bed room, and later into a room by herself.</p>
 <p>We saw the Lung Cancer Specialist Nurse, the hospital McMillan nurse and several doctors and made it clear that we wanted Cindy to come home as soon as possible.  I came home at about 2, buying breakfast and lunch on the way, saw Toby at home and then went to pick up John and Rose.</p>
-<p>Dr Schofield got a lot of oxygen delivered for when Cindy is able to come home but we're going to have an <a href="http://www.lunguk.org/oxygen.asp">oxygen concentrator</a> fitted next week.</p>
-<p>We had fish and chips for tea, watched Shrek.  I read Rose a huge chapter from <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0439010772/qid=1126354371/sr=8-3/ref=sr_8_xs_ap_i3_xgl/026-2073028-4623661">The Ruby in the Smoke</a> and then watched I dreadful outtakes programme.</p>
+<p>Dr Schofield got a lot of oxygen delivered for when Cindy is able to come home but we're going to have an <a href="https://www.lunguk.org/oxygen.asp">oxygen concentrator</a> fitted next week.</p>
+<p>We had fish and chips for tea, watched Shrek.  I read Rose a huge chapter from <a href="https://www.amazon.co.uk/exec/obidos/ASIN/0439010772/qid=1126354371/sr=8-3/ref=sr_8_xs_ap_i3_xgl/026-2073028-4623661">The Ruby in the Smoke</a> and then watched I dreadful outtakes programme.</p>
 <p>A doctor phoned during the evening to say that Cindy was still on too high concentrations of oxygen to come home immediately, but that she was settling down, her heart rate was slowing and she should be able to come home soon.</p>
 <p>This morning Rose danced, Toby went to squash, John and I tidied his room.  We're going to go and see Cindy this afternoon.  Jean went this morning.</p>
 <p><em>End of what was written on Saturday 10th.</em></p>

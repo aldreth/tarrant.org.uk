@@ -7,20 +7,21 @@ author:
   display_name: Edward
   login: admin
   email: edward@aldreth.com
-  url: ''
+  url: ""
 author_login: admin
 author_email: edward@aldreth.com
 wordpress_id: 93
 wordpress_url: http://tarrant.org.uk/2005/02/03/surprise-for-cindy/
-date: '2005-02-03 22:03:42 +0000'
-date_gmt: '2005-02-03 21:03:42 +0000'
+date: "2005-02-03 22:03:42 +0000"
+date_gmt: "2005-02-03 21:03:42 +0000"
 categories:
-- Edward &amp; Cindy
+  - Edward &amp; Cindy
 tags: []
 comments: []
 ---
+
 <p>As it is getting close to time for me to go back to school, I thought that Cindy and I should try and have a night away together.  I arranged with mum for child care for a night, and set about booking somewhere.</p>
-<p>On Monday night I told Cindy that we would be going out the next day to the <a href="http://www.thestaratharome.co.uk/">Star Inn</a>, in Harome near Helmsley.  Initially, she thought that we would be going for an evening meal, but I was able to tell her that we were staying the night as well.</p>
+<p>On Monday night I told Cindy that we would be going out the next day to the <a href="https://www.thestaratharome.co.uk/">Star Inn</a>, in Harome near Helmsley.  Initially, she thought that we would be going for an evening meal, but I was able to tell her that we were staying the night as well.</p>
 <p>I decided to tell her that evening, rather than the next morning as I had planned, because she kept saying she had a sore throat, or a bit of a cough and she might be going down with something.  I was starting to wonder who we could give the room to, as I would have to pay for it anyway!!  Anyway, this bit of news seemed to give her some more energy, and determination not to get ill quite yet!</p>
 <p>We went to the Star for lunch once last summer and had an absolutely superb meal - with the best summer pudding I've ever had, made even better by being served with a generous glass of home-made raspberry vodka.  So our hopes were very high for an evening meal and B&B.  I had had to reserve the largest room in the place, as I booked so late that that was the only one left, so we were expecting that to be quite nice as well.</p>
 <p>We had a lovely morning in York doing some shopping - Cindy had bought a skirt  (50p) and shoes (&Acirc;&pound;3) in Age Concern at the weekend and wanted a blouse to go with them (&Acirc;&pound;27 - not such a bargain).  She was able to wander around all morning, which is a huge improvement on a few months ago.  We went home for lunch, made a list of evening activities for my parents and set off.</p>

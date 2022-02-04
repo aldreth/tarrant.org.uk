@@ -7,19 +7,20 @@ author:
   display_name: Edward
   login: admin
   email: edward@aldreth.com
-  url: ''
+  url: ""
 author_login: admin
 author_email: edward@aldreth.com
 wordpress_id: 57
 wordpress_url: http://tarrant.org.uk/2004/11/25/york-christmas-lights-turned-on/
-date: '2004-11-25 22:57:06 +0000'
-date_gmt: '2004-11-25 21:57:06 +0000'
+date: "2004-11-25 22:57:06 +0000"
+date_gmt: "2004-11-25 21:57:06 +0000"
 categories:
-- Days with the Children
+  - Days with the Children
 tags: []
 comments: []
 ---
-<p>I got back from town with the children just a couple of hours ago.  We'd been into town to watch the lights being turned on, but the big attraction were <a href="http://www.hugepartyband.co.uk">Huge</a>.  They played for about 45 minutes before the lights were turned on - which was very dull, with the Lord Mayor, Sherriff, someone from Nestle and a couple of boring Radio York presenters - and then for about the same time afterwards.  All their usual songs - Jungle Book, Walking on Sunshine, American Pie,  Build Me Up Buttercup, Sit Down - and almost all with audience participation.  I really enjoyed it and so did the children.  It was exciting being out in town in the dark.</p>
+
+<p>I got back from town with the children just a couple of hours ago.  We'd been into town to watch the lights being turned on, but the big attraction were <a href="https://www.hugepartyband.co.uk">Huge</a>.  They played for about 45 minutes before the lights were turned on - which was very dull, with the Lord Mayor, Sherriff, someone from Nestle and a couple of boring Radio York presenters - and then for about the same time afterwards.  All their usual songs - Jungle Book, Walking on Sunshine, American Pie,  Build Me Up Buttercup, Sit Down - and almost all with audience participation.  I really enjoyed it and so did the children.  It was exciting being out in town in the dark.</p>
 <p>The photos are more impressionistic than realistic.  It was dark and too far away for the flash so most of them are a bit blurred, and possibly look all the better for that.</p>
 <p><wpg2>xmaslights</wpg2></p>
 <p>The rest of the day - I went to yoga and the supermarket, the children to school and Cindy rested.  She's ok, but has some aches and pains and feels drained.</p>

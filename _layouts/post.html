@@ -5,7 +5,7 @@ layout: default
 <article
   class="post h-entry"
   itemscope
-  itemtype="http://schema.org/BlogPosting"
+  itemtype="https://schema.org/BlogPosting"
 >
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">
@@ -18,22 +18,19 @@ layout: default
         itemprop="datePublished"
       >
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
-        -%}
-        {{ page.date | date: date_format }}
+        -%} {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%} •
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
-        ><span class="p-author h-card" itemprop="name">{{
-          page.author.display_name | escape
-        }}</span></span
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person"
+        ><span class="p-author h-card" itemprop="name"
+          >{{ page.author.display_name | escape }}</span
+        ></span
       >
       {%- endif -%}
     </p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
   {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
   endif -%}
