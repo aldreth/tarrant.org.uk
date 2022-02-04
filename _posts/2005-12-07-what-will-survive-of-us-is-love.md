@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<blockquote><strong>Philip Larkin - An Arundel Tomb</strong></p>
+<blockquote><strong>Philip Larkin - An Arundel Tomb</strong>
 <p>Side by side, their faces blurred,<br />
 The earl and countess lie in stone,<br />
 Their proper habits vaguely shown<br />
