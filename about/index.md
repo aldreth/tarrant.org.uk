@@ -20,13 +20,13 @@ comments: []
 ---
 
 <p><strong>Cindy Tarrant</strong></p>
-<p><img class="alignright" title="Cindy Tarrant" src="https://tarrant.org.uk/d/715-2/Cindy_Tarrant.jpg?g2_GALLERYSID=e5e1dddb92e367838451623a9b041b95" alt="Cindy Tarrant" /></p>
+<p><img class="alignright" title="Cindy Tarrant" src="./Cindy_Tarrant.jpg" alt="Cindy Tarrant" /></p>
 <p>Cindy was born in Emsworth and brought up in Bosham. She studied Home Economics at Surrey University and went on to do a PGCE in Bath. She worked for a couple of years at Sarah Bonnell School in east London, before deciding to stop working for a while and travel the world. She travelled across Nepal and China and lived and worked in Australia for 18 months. On her way back to Britain she met Edward in Beijing.</p>
 <p><strong>Edward Andrews</strong></p>
-<p><img class="alignleft" title="Edward Andrews" src="https://tarrant.org.uk/d/264-2/DSCF1197.jpg?g2_GALLERYSID=e5e1dddb92e367838451623a9b041b95" alt="Edward Andrews" /></p>
+<p><img class="alignleft" title="Edward Andrews" src="./DSCF1197.jpg" alt="Edward Andrews" /></p>
 <p>Edward was born and brought up in St Albans. After not finishing an electronics degree and doing some voluntary work, he decided that travelling the world was an interesting option. He went on a double decker bus from London to Kathmandu, and while in China met Cindy in Beijing.</p>
 <p><strong>Edward &amp; Cindy</strong></p>
-<p><img class="alignright" src="https://tarrant.org.uk/d/85-2/84050002_G.jpg?g2_GALLERYSID=e5e1dddb92e367838451623a9b041b95" alt="Photo of Edward &amp; Cindy" /></p>
+<p><img class="alignright" src="./84050002_G.jpg" alt="Photo of Edward &amp; Cindy" /></p>
 <p>After meeting in Beijing and travelling home together on the Trans-Siberian Express, they got it together romantically after a couple of months in Britain. They travelled together in Thailand and Indonesia, lived and worked in Australia and came back to the UK in the summer of 1990. Cindy worked in schools in Norton and then in Leeds, while Edward went to university and then looked after their children - Toby, John and Rose. Later, Edward did a primary PGCE and started working as a primary teacher.</p>
 <p>Cindy was first diagnosed with lung cancer in the autumn of 1997. She had had a couple of years of chest problems, including two bouts of pneumonia, and had been diagnosed as possibly having asthma. She was having tests for an inflamed area in her lung that produced a shadow on her chest x-rays.</p>
 <p>When she was finally diagnosed as having cancer - adenoid cystic carcinoma, an unusual type of cancer, that even more unusually had its primary site in Cindy's left lung. After a biopsy was taken, surgery followed very quickly. She had the biopsy and diagnosis at Castle Hill Hospital in Hull. She went for the results of the tests on one day, was kept in and had the surgery the next day - the whole of her left lung was removed. She spent one night in intensive cared and stayed in hospital for a fortnight. She came home and recovered amazingly quickly (although, looking back, she should have had longer off work!). By January she was back to work part-time, in spite of being on radiotherapy, and before Easter was working full-time again.</p>
