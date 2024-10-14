@@ -20,5 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>For <a href="https://www.rednoseday.com/">Red Nose Day</a> next Friday, John has decided to do a whole day's sponsored silence.  Everyone who know's him knows how difficult this will be for him!!</p>
-<p>If you'd like to sponsor him, <a href="https://www.tarrant.org.uk/2004/03/07/contact_us.html">contact us</a>.</p>
+For [Red Nose Day][1] next Friday, John has decided to do a whole day\'s
+sponsored silence. Everyone who know\'s him knows how difficult this
+will be for him!!
+
+If you\'d like to sponsor him, [contact us][2].
+
+
+
+[1]: https://www.rednoseday.com/
+[2]: https://www.tarrant.org.uk/2004/03/07/contact_us.html

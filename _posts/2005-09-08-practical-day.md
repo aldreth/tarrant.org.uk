@@ -35,6 +35,26 @@ comments:
       Phil and Marcia
 ---
 
-<p>Kate Hodge our MacMillan nurse came round today, to chat about practical things.  She's sorted out some extra painkillers for Cindy.  Cindy wanted to have some available, because she's worried about things getting worse at the weekends when everyone who knows her is unavailable.  Kate is also going to sort out a care plan for other weekend eventualities, so Cindy doesn't end up in hospital unnecessarily.</p>
-<p>We also wanted to talk to Kate about what benefits I should be claiming, now that I've finally finished being ill at Cawood.  It seems it's a good thing we spent all our savings on the kitchen!  I'm going to claim for income support and carer's allowance.  Income support is based on Cindy's income too, so we'll see what we get!</p>
-<p>This evening I went to a Year 6 parents' evening for John's class.  We were filled in on plans for the year, what and when the tests are, and lots of info about Sex Education (growing up) and PSHCE - which sounds fun.  John seems to have settled in really well and has decided he likes Mrs McClure following a chat about <a href="https://www.malorieblackman.co.uk/">Malorie Blackman</a>, whose books John is really enjoying at the moment.</p>
+Kate Hodge our MacMillan nurse came round today, to chat about practical
+things. She\'s sorted out some extra painkillers for Cindy. Cindy wanted
+to have some available, because she\'s worried about things getting
+worse at the weekends when everyone who knows her is unavailable. Kate
+is also going to sort out a care plan for other weekend eventualities,
+so Cindy doesn\'t end up in hospital unnecessarily.
+
+We also wanted to talk to Kate about what benefits I should be claiming,
+now that I\'ve finally finished being ill at Cawood. It seems it\'s a
+good thing we spent all our savings on the kitchen! I\'m going to claim
+for income support and carer\'s allowance. Income support is based on
+Cindy\'s income too, so we\'ll see what we get!
+
+This evening I went to a Year 6 parents\' evening for John\'s class. We
+were filled in on plans for the year, what and when the tests are, and
+lots of info about Sex Education (growing up) and PSHCE - which sounds
+fun. John seems to have settled in really well and has decided he likes
+Mrs McClure following a chat about [Malorie Blackman][1], whose books
+John is really enjoying at the moment.
+
+
+
+[1]: https://www.malorieblackman.co.uk/

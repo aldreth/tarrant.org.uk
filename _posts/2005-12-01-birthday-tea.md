@@ -20,5 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>We had a chinese takeaway this evening, by special request.  Katharine was here, and so were Lance and Mary.  Delicious meringues for pudding (in spite of being spooned out)!</p>
-<p>We finished off the evening by playing John's new board game - <a href="https://www.amazon.co.uk/exec/obidos/ASIN/B0001NE7CI/qid=1133476267/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-9699335-8864417">The Simpson's Game of Life</a>.  Enjoyed by all.  And <strong>I</strong> won!</p>
+We had a chinese takeaway this evening, by special request. Katharine
+was here, and so were Lance and Mary. Delicious meringues for pudding
+(in spite of being spooned out)!
+
+We finished off the evening by playing John\'s new board game - [The
+Simpson\'s Game of Life][1]. Enjoyed by all. And **I** won!
+
+
+
+[1]: https://www.amazon.co.uk/exec/obidos/ASIN/B0001NE7CI/qid=1133476267/sr=8-1/ref=sr_8_xs_ap_i1_xgl/026-9699335-8864417

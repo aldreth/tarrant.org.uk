@@ -20,6 +20,18 @@ tags: []
 comments: []
 ---
 
-<p>John has been off school today with tummy bug, but he was well enough to go round <a href="https://www.millthorpeschool.co.uk">Millthorpe School</a> in preparation for moving up next year.</p>
-<p>He recognised lots of the pupils who were there, which made him feel better the change - not that he seems worried.  All the pupils were very chatty and seemed well balanced enough!  I think it's really difficult to tell what a school is like from the outside though.  Toby seems to get on well there, so...</p>
-<p>All Saints next week, but I should think it'll be Millthorpe for John and Rose - there will have to be very compelling reasons if not.</p>
+John has been off school today with tummy bug, but he was well enough to
+go round [Millthorpe School][1] in preparation for moving up next year.
+
+He recognised lots of the pupils who were there, which made him feel
+better the change - not that he seems worried. All the pupils were very
+chatty and seemed well balanced enough! I think it\'s really difficult
+to tell what a school is like from the outside though. Toby seems to get
+on well there, so...
+
+All Saints next week, but I should think it\'ll be Millthorpe for John
+and Rose - there will have to be very compelling reasons if not.
+
+
+
+[1]: https://www.millthorpeschool.co.uk

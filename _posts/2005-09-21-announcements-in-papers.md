@@ -33,8 +33,15 @@ comments:
       My last memory of Cindy was just a few weeks ago when we visited for the weekend. Cindy and I spend 10 minutes talking and holding hands - we both knew it was our final time together. I am so grateful that I had this opportunity to say goodbye.
 ---
 
-<p>Today's Guardian has an announcement of Cindy's death and funeral.  Here's the page:<br />
-<img alt="Whole Guardian Page" src="https://www.tarrant.org.uk/wp-content/ber_36_050921_2281367.jpg" width="254" height="193"  /></p>
-<p>and the bottom right hand corner has this:<br />
-<img alt="Announcements" src="https://www.tarrant.org.uk/wp-content/ber_37_050921_2282286.jpg" width="250" height="249"  /></p>
-<p>The same text is in tonight's York Evening Press.</p>
+Today\'s Guardian has an announcement of Cindy\'s death and funeral.
+Here\'s the page:  
+ ![Whole Guardian
+Page](https://www.tarrant.org.uk/wp-content/ber_36_050921_2281367.jpg){:
+width="254" height="193"}
+
+and the bottom right hand corner has this:  
+ ![Announcements](https://www.tarrant.org.uk/wp-content/ber_37_050921_2282286.jpg){:
+width="250" height="249"}
+
+The same text is in tonight\'s York Evening Press.
+

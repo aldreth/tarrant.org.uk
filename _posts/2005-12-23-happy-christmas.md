@@ -19,4 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>I'm afraid I'm not going to get around to posting christmas cards this year, so here's wishing you a Merry Christmas and a Happy New Year.</p>
+
+I\'m afraid I\'m not going to get around to posting christmas cards this
+year, so here\'s wishing you a Merry Christmas and a Happy New Year.
+

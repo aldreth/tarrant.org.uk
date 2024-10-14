@@ -20,4 +20,9 @@ tags: []
 comments: []
 ---
 
-<p>Toby's got a new <a href="https://spaces.msn.com/members/TobyAndrews/">site</a> on MSN Spaces.  Let's see how long this one lasts!</p>
+Toby\'s got a new [site][1] on MSN Spaces. Let\'s see how long this one
+lasts!
+
+
+
+[1]: https://spaces.msn.com/members/TobyAndrews/

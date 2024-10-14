@@ -20,6 +20,16 @@ tags: []
 comments: []
 ---
 
-<p>I bought a pair of Doctor Marten's shoes (not boots) today. They are black with yellow stitching around the sole. Very 80s.</p>
-<p>They're not made in England anymore, but in Thailand. What a sign of globalisation.</p>
-<p><a href="https://tarrant.org.uk/wp-content/uploads/2006/05/shoe.jpg"><img class="alignleft size-medium wp-image-395" src="https://tarrant.org.uk/wp-content/uploads/2006/05/shoe-300x187.jpg" alt="Dr Marten's shoes" width="300" height="187" /></a></p>
+I bought a pair of Doctor Marten\'s shoes (not boots) today. They are
+black with yellow stitching around the sole. Very 80s.
+
+They\'re not made in England anymore, but in Thailand. What a sign of
+globalisation.
+
+[![Dr Marten\'s
+shoes](https://tarrant.org.uk/wp-content/uploads/2006/05/shoe-300x187.jpg){:
+.alignleft .size-medium .wp-image-395 width="300" height="187"}][1]
+
+
+
+[1]: https://tarrant.org.uk/wp-content/uploads/2006/05/shoe.jpg

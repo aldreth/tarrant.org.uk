@@ -19,5 +19,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Just finished taking my GCSEs so I'm on holiday for the next three months. Very happy! Got to wait till August until I get my results though, but they were quite easy.</p>
-<p>Toby</p>
+
+Just finished taking my GCSEs so I\'m on holiday for the next three
+months. Very happy! Got to wait till August until I get my results
+though, but they were quite easy.
+
+Toby
+

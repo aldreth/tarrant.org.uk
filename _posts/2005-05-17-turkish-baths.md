@@ -20,6 +20,16 @@ tags: []
 comments: []
 ---
 
-<p>I went with Ted today over to Harrogate to go to the Turkish Baths (info <a href="https://www.harrogate.gov.uk/harrogate-1100">here</a> and <a href="https://www.victorianturkishbath.org/_6DIRECTORY/AtoZEstab/England/HarrogRoyal/HarrogRoyalEng.htm">here</a>).</p>
-<p>As usual, wonderfully relaxing and pleasant experience.  Followed by tapas, then back on the train just in time to pick the children up from school.</p>
-<p>Sheer luxury - definitely better than being at work!</p>
+I went with Ted today over to Harrogate to go to the Turkish Baths (info
+[here][1] and [here][2]).
+
+As usual, wonderfully relaxing and pleasant experience. Followed by
+tapas, then back on the train just in time to pick the children up from
+school.
+
+Sheer luxury - definitely better than being at work!
+
+
+
+[1]: https://www.harrogate.gov.uk/harrogate-1100
+[2]: https://www.victorianturkishbath.org/_6DIRECTORY/AtoZEstab/England/HarrogRoyal/HarrogRoyalEng.htm

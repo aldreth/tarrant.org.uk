@@ -19,5 +19,13 @@ categories:
 tags: []
 comments: []
 ---
-<p>We <b>all</b> (Jayne, Steve, Christopher, Pat, Maurice, Mandy, David, Amy, Tom, Cindy, Me, Toby, John and Rose - Matthew AWOL) went out for Jayne's birthday last night to a very nice Italian restaraunt in Emsworth called Niccolino's.  David had said that the portions were big, but they were truly enormous. Really wide menu, very good pizza.</p>
-<p>We all had a really good time, especially when the waiter came round to help Steve sing to Jayne in Italian!</p>
+
+We **all** (Jayne, Steve, Christopher, Pat, Maurice, Mandy, David, Amy,
+Tom, Cindy, Me, Toby, John and Rose - Matthew AWOL) went out for
+Jayne\'s birthday last night to a very nice Italian restaraunt in
+Emsworth called Niccolino\'s. David had said that the portions were big,
+but they were truly enormous. Really wide menu, very good pizza.
+
+We all had a really good time, especially when the waiter came round to
+help Steve sing to Jayne in Italian!
+

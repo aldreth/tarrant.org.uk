@@ -20,7 +20,19 @@ tags: []
 comments: []
 ---
 
-<p>We've had Mandy, David, Amy and Tom to visit for the last few days.  They came up on Thursday and are leaving on Sunday.</p>
-<p>We've had a really good time, and have done a lot of things together.  Toby, David, Tom and I visited <a href="https://www.aerialextreme.co.uk/">Aerial Extreme</a> to pretend to be monkeys. And then fish and chips on the way home.  Cindy, Mandy, Amy, John and Rose went off to do some shopping.</p>
-<p>On Saturday morning, all the adults went out for a meal at La Piazza and had a really lovely time - see photo.</p>
-<p><wpg2>mandydavidoct04</wpg2></p>
+We\'ve had Mandy, David, Amy and Tom to visit for the last few days.
+They came up on Thursday and are leaving on Sunday.
+
+We\'ve had a really good time, and have done a lot of things together.
+Toby, David, Tom and I visited [Aerial Extreme][1] to pretend to be
+monkeys. And then fish and chips on the way home. Cindy, Mandy, Amy,
+John and Rose went off to do some shopping.
+
+On Saturday morning, all the adults went out for a meal at La Piazza and
+had a really lovely time - see photo.
+
+<wpg2>mandydavidoct04</wpg2>
+
+
+
+[1]: https://www.aerialextreme.co.uk/

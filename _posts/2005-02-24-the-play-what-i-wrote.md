@@ -20,6 +20,15 @@ tags: []
 comments: []
 ---
 
-<p>Cindy went to see <a href="https://www.theplaywhatiwrote.com/">The Play What I Wrote</a> with Judy Emerick and came home saying it was absolutely hilarious.</p>
-<p>So if you get a chance...</p>
-<p>We're off on Friday to see <a href="https://www.wyplayhouse.com/events/event_details.asp?event_ID=437">A Dolls House</a> - I don't expect it will be quite as funny!</p>
+Cindy went to see [The Play What I Wrote][1] with Judy Emerick and came
+home saying it was absolutely hilarious.
+
+So if you get a chance...
+
+We\'re off on Friday to see [A Dolls House][2] - I don\'t expect it will
+be quite as funny!
+
+
+
+[1]: https://www.theplaywhatiwrote.com/
+[2]: https://www.wyplayhouse.com/events/event_details.asp?event_ID=437

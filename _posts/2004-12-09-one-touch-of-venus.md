@@ -20,5 +20,17 @@ tags: []
 comments: []
 ---
 
-<p>Cindy and I went to see this <a href = "https://www.operanorth.co.uk/whatson.aspx">musical</a> at The Grand, Leeds.  It's by Kurt Weill with lyrics by Ogden Nash and apparently has never had a full performance in this country, and has not had one in the states since it was first performed in 1943.  It had really colourful costumes, great songs, good dancing and some slightly rude jokes.  An excellent evening out.</p>
-<p>We went on the last preview night, when tickets were half price.  This meant that seats in the dress circle were affordable, instead of extortionate.</p>
+Cindy and I went to see this [musical][1] at The Grand, Leeds. It\'s by
+Kurt Weill with lyrics by Ogden Nash and apparently has never had a full
+performance in this country, and has not had one in the states since it
+was first performed in 1943. It had really colourful costumes, great
+songs, good dancing and some slightly rude jokes. An excellent evening
+out.
+
+We went on the last preview night, when tickets were half price. This
+meant that seats in the dress circle were affordable, instead of
+extortionate.
+
+
+
+[1]: https://www.operanorth.co.uk/whatson.aspx

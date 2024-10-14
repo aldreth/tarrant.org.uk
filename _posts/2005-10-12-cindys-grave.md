@@ -36,7 +36,20 @@ comments:
       Phil...
 ---
 
-<p>I went to the cemetery yesterday and took some photos of where Cindy's ashes are buried.</p>
-<p>cindygrave</p>
-<p>Cindy's ashes are buried in <a href="https://www.yorkcemetery.co.uk/">York Cemetery</a> (<a href="https://www.multimap.com/map/browse.cgi?local=h&amp;scale=10000&amp;title=York%20Cemetery&amp;lon=-1.07294387297816&amp;lat=53.9500705020367&amp;icon=x">map</a>), here's a map of exactly where:</p>
-<p><a href="https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan.png"><img class="alignleft size-medium wp-image-392" src="https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan-212x300.png" alt="Map to Cindy's grave" width="212" height="300" /></a></p>
+I went to the cemetery yesterday and took some photos of where Cindy\'s
+ashes are buried.
+
+cindygrave
+
+Cindy\'s ashes are buried in [York Cemetery][1] ([map][2]), here\'s a
+map of exactly where:
+
+[![Map to Cindy\'s
+grave](https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan-212x300.png){:
+.alignleft .size-medium .wp-image-392 width="212" height="300"}][3]
+
+
+
+[1]: https://www.yorkcemetery.co.uk/
+[2]: https://www.multimap.com/map/browse.cgi?local=h&amp;scale=10000&amp;title=York%20Cemetery&amp;lon=-1.07294387297816&amp;lat=53.9500705020367&amp;icon=x
+[3]: https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan.png

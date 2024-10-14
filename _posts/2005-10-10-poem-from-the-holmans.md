@@ -49,17 +49,24 @@ comments:
 
     Phil...
 ---
-<p>This poem is one that the Holmans chose to read at Cindy's funeral, but didn't find a space to.</p>
-<blockquote><p>The Dead</p>
-<p>The dead are always looking down on us, they say,<br />
-while we are putting on our shoes or making a sandwich,<br />
-they are looking down through glass-bottom boats of heaven<br />
-as they row themselves slowly through eternity.</p>
-<p>They watch the tops of our heads moving below on earth,<br />
-and when we lie down in a field or on a couch,<br />
-drugged perhaps by the hum of a warm afternoon,<br />
-they think we are looking back at them,</p>
-<p>which makes them lift their oars and fall silent<br />
-and wait, like parents for us to close our eyes.</p>
-<p>Billy Collins
-</p></blockquote>
+
+This poem is one that the Holmans chose to read at Cindy\'s funeral, but
+didn\'t find a space to.
+
+> The Dead
+> 
+> The dead are always looking down on us, they say,  
+>  while we are putting on our shoes or making a sandwich,  
+>  they are looking down through glass-bottom boats of heaven  
+>  as they row themselves slowly through eternity.
+> 
+> They watch the tops of our heads moving below on earth,  
+>  and when we lie down in a field or on a couch,  
+>  drugged perhaps by the hum of a warm afternoon,  
+>  they think we are looking back at them,
+> 
+> which makes them lift their oars and fall silent  
+>  and wait, like parents for us to close our eyes.
+> 
+> Billy Collins
+

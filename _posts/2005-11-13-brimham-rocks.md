@@ -30,5 +30,17 @@ comments:
       like serial under-achiever whenever read yr blog) - take care
 ---
 
-<p>We went to <a href="https://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-brimhamrocks.htm">Brimham Rocks</a> today with Kath and Louis.  It was a fantastic day, really bright and warm (in the sun), but crisp and properly autumnal.  Apart from the caf&eacute;&nbsp;being rushed off their feet, and almost out of food, we had an excellent time.  Lots of climbing up and sliding down these really oddly shaped rocks.  Then we came back here for neck of lamb hotpot and pears and chocolate cake.</p>
-<p>The last time we went to Brimham Rocks was in the spring I think.  I seem to recall that it was one of the first places we took Cindy in the wheelchair.  It's very strange going back to places without her.</p>
+We went to [Brimham Rocks][1] today with Kath and Louis. It was a
+fantastic day, really bright and warm (in the sun), but crisp and
+properly autumnal. Apart from the café being rushed off their feet, and
+almost out of food, we had an excellent time. Lots of climbing up and
+sliding down these really oddly shaped rocks. Then we came back here for
+neck of lamb hotpot and pears and chocolate cake.
+
+The last time we went to Brimham Rocks was in the spring I think. I seem
+to recall that it was one of the first places we took Cindy in the
+wheelchair. It\'s very strange going back to places without her.
+
+
+
+[1]: https://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-brimhamrocks.htm

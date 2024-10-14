@@ -19,6 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>I've put some more photos on the website.  There are some of John and Rose ready for World Book Day, and one of us all at Alton Towers with Pauline.</p>
-<p><wpg2>wbd2006</wpg2></p>
-<p><wpg2>alton2006</wpg2></p>
+
+I\'ve put some more photos on the website. There are some of John and
+Rose ready for World Book Day, and one of us all at Alton Towers with
+Pauline.
+
+<wpg2>wbd2006</wpg2>
+
+<wpg2>alton2006</wpg2>
+

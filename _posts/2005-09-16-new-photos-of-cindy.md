@@ -20,6 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>Here's the first photo of Cindy that anyone has sent - from <a href="https://palmour.blogspot.com">Simon Palmour.</a></p>
-<p><wpg2>cindyphotos</wpg2></p>
-<p>More please, if you have any.</p>
+Here\'s the first photo of Cindy that anyone has sent - from [Simon
+Palmour.][1]
+
+<wpg2>cindyphotos</wpg2>
+
+More please, if you have any.
+
+
+
+[1]: https://palmour.blogspot.com

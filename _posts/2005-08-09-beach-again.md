@@ -19,5 +19,11 @@ categories:
 tags: []
 comments: []
 ---
-<p>Some people went off to Portmerion, but Mary and all 5 of us went off to Harlech Beach again.  Not quite as sunny, but still lovely.</p>
-<p>Katharine and Simon cooked a lovely barbeque this evening, then Will and I went off to explore climbing rocks for tomorrow's planned morning climb.</p>
+
+Some people went off to Portmerion, but Mary and all 5 of us went off to
+Harlech Beach again. Not quite as sunny, but still lovely.
+
+Katharine and Simon cooked a lovely barbeque this evening, then Will and
+I went off to explore climbing rocks for tomorrow\'s planned morning
+climb.
+

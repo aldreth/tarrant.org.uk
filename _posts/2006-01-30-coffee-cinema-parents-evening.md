@@ -20,6 +20,19 @@ tags: []
 comments: []
 ---
 
-<p>I had coffee this morning with Mark and Michelle - nice to see them at the same time!</p>
-<p>After lunch I went to the cinema to see <a href="https://www.imdb.com/title/tt0388795/">Brokeback Mountain</a> - in the afternoon, all by myself.&nbsp; Wonderfully decadent.&nbsp; It always seems strange coming out of the cinema into daylight.&nbsp; Great film, beautiful scenery, very touching love story.</p>
-<p>It was Toby's parents' evening today.&nbsp; What a star he is - his (in fact all three children's) parents' evenings are always very straightforward.&nbsp; Lovely to have people telling me such nice things about Toby!</p>
+I had coffee this morning with Mark and Michelle - nice to see them at
+the same time!
+
+After lunch I went to the cinema to see [Brokeback Mountain][1] - in the
+afternoon, all by myself.  Wonderfully decadent.  It always seems
+strange coming out of the cinema into daylight.  Great film, beautiful
+scenery, very touching love story.
+
+It was Toby\'s parents\' evening today.  What a star he is - his (in
+fact all three children\'s) parents\' evenings are always very
+straightforward.  Lovely to have people telling me such nice things
+about Toby!
+
+
+
+[1]: https://www.imdb.com/title/tt0388795/

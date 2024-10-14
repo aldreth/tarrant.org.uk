@@ -19,5 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>Went to Harlech beach - about a 20 minute drive. It's a lovely flat sandy beach, with views of Harlech Castle, the Llyn Peninsular and the Snowdonia hills behind it.  The sea was nice and warm - much warmer than the North Sea.</p>
-<p>John got quite badly sunburnt unfortunately, due to not having his sun cream renewed often enough.</p>
+
+Went to Harlech beach - about a 20 minute drive. It\'s a lovely flat
+sandy beach, with views of Harlech Castle, the Llyn Peninsular and the
+Snowdonia hills behind it. The sea was nice and warm - much warmer than
+the North Sea.
+
+John got quite badly sunburnt unfortunately, due to not having his sun
+cream renewed often enough.
+

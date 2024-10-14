@@ -19,5 +19,11 @@ categories:
 tags: []
 comments: []
 ---
-<p>I finished the film that was in Cindy's camera this weekend in Manchester.  It had some photos from the summer holiday on it, some from the day after Cindy died when we went to Whitby and a couple from Manchester.</p>
-<p><wpg2>cindycam</wpg2></p>
+
+I finished the film that was in Cindy\'s camera this weekend in
+Manchester. It had some photos from the summer holiday on it, some from
+the day after Cindy died when we went to Whitby and a couple from
+Manchester.
+
+<wpg2>cindycam</wpg2>
+

@@ -20,5 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>Rose is doing the Race for Life in aid of <a href="https://www.cancerresearchuk.org/">Cancer Research UK</a>.  It's a 5km run around the Knavesmire on June 27<sup>th</sup>.  Quite a lot of her friends are doing the run too, so it should be fun.</p>
-<p>You can sponsor her online <a href="https://www.raceforlifesponsorme.org/RoseAndrews2007">here</a>.</p>
+Rose is doing the Race for Life in aid of [Cancer Research UK][1]. It\'s
+a 5km run around the Knavesmire on June 27<sup>th</sup>. Quite a lot of
+her friends are doing the run too, so it should be fun.
+
+You can sponsor her online [here][2].
+
+
+
+[1]: https://www.cancerresearchuk.org/
+[2]: https://www.raceforlifesponsorme.org/RoseAndrews2007

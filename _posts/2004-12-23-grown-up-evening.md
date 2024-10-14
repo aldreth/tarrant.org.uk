@@ -31,9 +31,26 @@ comments:
       Bill
 ---
 
-<p>Last night we had Jo & Bill and Michelle & Mark round for a meal.  We had a fantastic time.  Lovely food - crostini and olives, goats cheese souffl&Atilde;&copy;, fish stew, diplomatico (an Italian chocolate pudding), cheese, coffee and chocs.  Very over the top.</p>
-<p>We also drank well, in particular the dessert wine was luscious.</p>
-<p>The children were fantastic - watching Strictly Come Dancing to start with and then more or less putting themselves to bed.  It makes things much easier now they are more grown up.</p>
-<p>We chatted till about 1:30, with not too much concentration on house prices and school politics - although Jo did reveal that Mrs Cornhill sent Kjartan a thong following his Magic with Pants gig and Mark was proud to show off the new <a href ="https://www.scarcroft.york.sch.uk/index.html">website</a> he's done for the school.</p>
-<p>Cindy took a couple of photos - here they are.</p>
-<p><wpg2>grownupeve</wpg2></p>
+Last night we had Jo & Bill and Michelle & Mark round for a meal. We had
+a fantastic time. Lovely food - crostini and olives, goats cheese
+soufflÃ©, fish stew, diplomatico (an Italian chocolate pudding), cheese,
+coffee and chocs. Very over the top.
+
+We also drank well, in particular the dessert wine was luscious.
+
+The children were fantastic - watching Strictly Come Dancing to start
+with and then more or less putting themselves to bed. It makes things
+much easier now they are more grown up.
+
+We chatted till about 1:30, with not too much concentration on house
+prices and school politics - although Jo did reveal that Mrs Cornhill
+sent Kjartan a thong following his Magic with Pants gig and Mark was
+proud to show off the new [website][1] he\'s done for the school.
+
+Cindy took a couple of photos - here they are.
+
+<wpg2>grownupeve</wpg2>
+
+
+
+[1]: https://www.scarcroft.york.sch.uk/index.html

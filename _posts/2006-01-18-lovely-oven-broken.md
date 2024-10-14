@@ -19,5 +19,11 @@ categories:
 tags: []
 comments: []
 ---
-<p>I used our super new oven to grill sausages on Saturday, then when I came to use it to make baked potatoes on Monday, it didn't work.</p>
-<p>Someone is coming to look at it on Tuesday next week.&nbsp; I hope they find something silly that I haven't noticed.&nbsp; I've tried everything obvious though, and it won't work.&nbsp; <strong>Urgh!</strong></p>
+
+I used our super new oven to grill sausages on Saturday, then when I
+came to use it to make baked potatoes on Monday, it didn\'t work.
+
+Someone is coming to look at it on Tuesday next week.  I hope they find
+something silly that I haven\'t noticed.  I\'ve tried everything obvious
+though, and it won\'t work.  **Urgh!**
+

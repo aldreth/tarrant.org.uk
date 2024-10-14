@@ -20,4 +20,8 @@ tags: []
 comments: []
 ---
 
-<p>Rose has got a website <a href="https://rose.aldreth.com">here</a>.</p>
+Rose has got a website [here][1].
+
+
+
+[1]: https://rose.aldreth.com

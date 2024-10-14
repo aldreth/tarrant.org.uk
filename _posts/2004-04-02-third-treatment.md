@@ -19,4 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Cindy started her third session as scheduled, in spite of still being tired from the previous one.  This time round things went much more smoothly and she was back home the following day.</p>
+
+Cindy started her third session as scheduled, in spite of still being
+tired from the previous one. This time round things went much more
+smoothly and she was back home the following day.
+

@@ -29,6 +29,11 @@ comments:
 
     ps, tell Toby, glad to hear his sea monkeys are alive and well!
 ---
-<p>Cindy's back home again, all having gone well with her fifth treatment.</p>
-<p>She got home at about 11:30, Lance giving her a lift home from the hospital.  She's been sick a bit, but not too much.</p>
-<p>Lovely to have her home.</p>
+
+Cindy\'s back home again, all having gone well with her fifth treatment.
+
+She got home at about 11:30, Lance giving her a lift home from the
+hospital. She\'s been sick a bit, but not too much.
+
+Lovely to have her home.
+

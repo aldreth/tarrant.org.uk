@@ -19,5 +19,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>The last treatment in this round of chemo has gone well, with Cindy out of hospital after only one night, and the side effects not being too awful.</p>
-<p>Roll on the day when the Hickman line comes out!</p>
+
+The last treatment in this round of chemo has gone well, with Cindy out
+of hospital after only one night, and the side effects not being too
+awful.
+
+Roll on the day when the Hickman line comes out!
+

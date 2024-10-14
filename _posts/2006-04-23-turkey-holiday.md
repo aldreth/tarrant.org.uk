@@ -19,7 +19,19 @@ categories:
 tags: []
 comments: []
 ---
-<p>We've just got back from a lovely holiday in Patara, Turkey.</p>
-<p>The hotel was pretty luxurious, and was run by two lovely people, Anne Louise and Muzaffer.  Muzaffer was a fascinating person, when he was growing up his family was still nomadic, and he was full of information about the region and its history.</p>
-<p>We spent most of our time on the beach, but we did visit some ruins, go on a boat trip, visit a couple of the local towns and play a lot of card games.  It was very sunny for most of the time, but it did rain for a couple of days, and was grey on a couple of others.  We've all come home very brown, and feeling rested.</p>
-<p><wpg2>turkey</wpg2></p>
+
+We\'ve just got back from a lovely holiday in Patara, Turkey.
+
+The hotel was pretty luxurious, and was run by two lovely people, Anne
+Louise and Muzaffer. Muzaffer was a fascinating person, when he was
+growing up his family was still nomadic, and he was full of information
+about the region and its history.
+
+We spent most of our time on the beach, but we did visit some ruins, go
+on a boat trip, visit a couple of the local towns and play a lot of card
+games. It was very sunny for most of the time, but it did rain for a
+couple of days, and was grey on a couple of others. We\'ve all come home
+very brown, and feeling rested.
+
+<wpg2>turkey</wpg2>
+

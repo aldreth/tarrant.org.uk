@@ -60,14 +60,30 @@ comments:
       miss her loads.\n\nChris, please get in touch if you read this!\n\n\nLove Jane\nxxxxxx\n\n"
 ---
 
-<p>We are very sorry to have to tell you of the death of </p>
-<p><strong>Cindy Tarrant.</strong></p>
-<p><wpg2>wales2005/DSCF1258.jpg</wpg2></p>
-<p>Cindy died calmly and peacefully on Sunday 11<sup>th</sup> September 2005 in York District Hospital.</p>
-<p>The funeral is to be held on Sunday 25th September 2005 at 3pm in Friargate Friends Meeting House, Friargate, York YO1 9RL.</p>
-<p>All are welcome.</p>
-<p>Edward Andrews<br />
-Toby John & Rose</p>
-<p>We are preparing a Book of Memories of Cindy's life.<br />
-If you have any favourite photos, or thoughts about Cindy you would like to write down for us, you can post them to me, add them as comments to this website or bring them to the funeral.</p>
-<p>No flowers.  donations to <a href="https://www.oxfam.org.uk/">Oxfam</a>.</p>
+We are very sorry to have to tell you of the death of
+
+**Cindy Tarrant.**
+
+<wpg2>wales2005/DSCF1258.jpg</wpg2>
+
+Cindy died calmly and peacefully on Sunday 11<sup>th</sup> September
+2005 in York District Hospital.
+
+The funeral is to be held on Sunday 25th September 2005 at 3pm in
+Friargate Friends Meeting House, Friargate, York YO1 9RL.
+
+All are welcome.
+
+Edward Andrews  
+ Toby John & Rose
+
+We are preparing a Book of Memories of Cindy\'s life.  
+ If you have any favourite photos, or thoughts about Cindy you would
+like to write down for us, you can post them to me, add them as comments
+to this website or bring them to the funeral.
+
+No flowers. donations to [Oxfam][1].
+
+
+
+[1]: https://www.oxfam.org.uk/

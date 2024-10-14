@@ -19,5 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Look at John doing backflips!</p>
-<p><wpg2>backflips</wpg2></p>
+
+Look at John doing backflips!
+
+<wpg2>backflips</wpg2>
+

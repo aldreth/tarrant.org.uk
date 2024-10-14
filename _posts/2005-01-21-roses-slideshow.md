@@ -29,4 +29,8 @@ comments:
 '
 ---
 
-<p>Rose has made a powerpoint slide show story - <a href="https://www.tarrant.org.uk/The Place.htm">have a look at it</a>.</p>
+Rose has made a powerpoint slide show story - [have a look at it][1].
+
+
+
+[1]: https://www.tarrant.org.uk/The Place.htm

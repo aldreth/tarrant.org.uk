@@ -20,6 +20,16 @@ tags: []
 comments: []
 ---
 
-<p>Just to let you know that all updates about my truck have been moved, to a new website that I am making myself, I'll probably post a few things about stuff going on, but not much. Mainly it will be about the truck. The website is set out the same way so it won't be hard to use. For your updates go to</p>
-<p><a href="https://www.toby.aldreth.com">www.toby.aldreth.com</a></p>
-<p>By the way the truck is going great!!!</p>
+Just to let you know that all updates about my truck have been moved, to
+a new website that I am making myself, I\'ll probably post a few things
+about stuff going on, but not much. Mainly it will be about the truck.
+The website is set out the same way so it won\'t be hard to use. For
+your updates go to
+
+[www.toby.aldreth.com][1]
+
+By the way the truck is going great!!!
+
+
+
+[1]: https://www.toby.aldreth.com

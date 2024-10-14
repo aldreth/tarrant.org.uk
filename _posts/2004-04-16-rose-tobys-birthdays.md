@@ -19,5 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Just a few photos of Toby and Rose's Birthdays.</p>
-<p><wpg2>trbday2004</wpg2></p>
+
+Just a few photos of Toby and Rose\'s Birthdays.
+
+<wpg2>trbday2004</wpg2>
+

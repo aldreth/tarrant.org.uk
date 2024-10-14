@@ -20,6 +20,17 @@ categories:
 tags: []
 comments: []
 ---
-<p>I had a lovely lunch today with Kath.  The last of the Ikea gravadlax, salad and a glass of wine.  Followed by a very nice chocolate cake that she had brought with her.</p>
-<p>I also went to the supermarket and continued to try to get to the bottom of the washing basket!</p>
-<p>Rose went to gymnastics for the first time this term, and Toby went off to squash practise.  He said it felt like hard work today, partly because he hasn't played over the holiday, and partly because he got put into a higher group.  I told him that I always lose, and that it must be good for his game!</p>
+
+I had a lovely lunch today with Kath. The last of the Ikea gravadlax,
+salad and a glass of wine. Followed by a very nice chocolate cake that
+she had brought with her.
+
+I also went to the supermarket and continued to try to get to the bottom
+of the washing basket!
+
+Rose went to gymnastics for the first time this term, and Toby went off
+to squash practise. He said it felt like hard work today, partly because
+he hasn\'t played over the holiday, and partly because he got put into a
+higher group. I told him that I always lose, and that it must be good
+for his game!
+

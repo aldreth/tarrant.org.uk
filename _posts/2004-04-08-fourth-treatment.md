@@ -19,4 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>As scheduled and amazingly easy again!</p>
+
+As scheduled and amazingly easy again!
+

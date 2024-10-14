@@ -19,5 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Taken before Helen Andrews' wedding.</p>
-<p><wpg2>CindyMay04</wpg2></p>
+
+Taken before Helen Andrews\' wedding.
+
+<wpg2>CindyMay04</wpg2>
+

@@ -19,4 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p><wpg2>jbday2004</wpg2></p>
+
+<wpg2>jbday2004</wpg2>
+

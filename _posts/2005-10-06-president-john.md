@@ -37,5 +37,11 @@ comments:
     Well done John! I hope you enjoy it.
     Love Alison
 ---
-<p>John was elected onto the school council a couple of weeks ago - a boy and each girl get chosen by each class.  Today they had their first meeting and John was selected to be President.  It was a very close run thing, he only won by one vote.  Tomorrow the world!</p>
-<p>I had lunch today with Cathy.  It was great to sit and chat with her.</p>
+
+John was elected onto the school council a couple of weeks ago - a boy
+and each girl get chosen by each class. Today they had their first
+meeting and John was selected to be President. It was a very close run
+thing, he only won by one vote. Tomorrow the world!
+
+I had lunch today with Cathy. It was great to sit and chat with her.
+

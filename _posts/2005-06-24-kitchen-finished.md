@@ -19,6 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>Dave has been here since Monday, working away with me in the kitchen.</p>
-<p>Floor's down, hob installed, skirting board and door frame fitted and painted.</p>
-<p>In fact, all is finished.  Mandy has come up today and we now have a restful weekend with them ahead of us.</p>
+
+Dave has been here since Monday, working away with me in the kitchen.
+
+Floor\'s down, hob installed, skirting board and door frame fitted and
+painted.
+
+In fact, all is finished. Mandy has come up today and we now have a
+restful weekend with them ahead of us.
+

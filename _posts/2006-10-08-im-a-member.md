@@ -19,5 +19,11 @@ categories:
 tags: []
 comments: []
 ---
-<p>Richard Ogden popped in on his way home from Monthly Meeting to say that I've been accepted as a member of Meeting.</p>
-<p>After 16 or so years of attending it feels more like an acknowledgement of a relationship that already exists than anything else!&nbsp; Now I'll have to make sure I'm good at saying no to more committees!</p>
+
+Richard Ogden popped in on his way home from Monthly Meeting to say that
+I\'ve been accepted as a member of Meeting.
+
+After 16 or so years of attending it feels more like an acknowledgement
+of a relationship that already exists than anything else!  Now I\'ll
+have to make sure I\'m good at saying no to more committees!
+

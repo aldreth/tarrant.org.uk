@@ -30,6 +30,19 @@ comments:
     Hopefully we'll get to see you sometime soon - we're coming to stay with Helen & Andy 1st weekend in Feb and hope to visit L & M so maybe we can meet up.
     love Kath Richard & Heather
 ---
-<p>We went to Bridlington today with Mary.  I enjoyed getting out in the fresh air, it wasn't quite as cold as it has been.</p>
-<p>We took the wheelchair for when Cindy got tired of walking.  Toby was in it for a while.  To start with I pushed him wildly and spun him round.  Then when we'd got tired of that, I pushed him sensibly for a while.  When an elderly couple were just walking towards us, he got out of the wheelchair and I turned to Cindy in amazement and said, "I told you the sea air would do him good!"  I don't think the couple were convinced that anything miraculous had happened - particularly as we were laughing like drains.</p>
-<p>In fact, Cindy laughed so hard she had to sit down in the wheelchair to recover!</p>
+
+We went to Bridlington today with Mary. I enjoyed getting out in the
+fresh air, it wasn\'t quite as cold as it has been.
+
+We took the wheelchair for when Cindy got tired of walking. Toby was in
+it for a while. To start with I pushed him wildly and spun him round.
+Then when we\'d got tired of that, I pushed him sensibly for a while.
+When an elderly couple were just walking towards us, he got out of the
+wheelchair and I turned to Cindy in amazement and said, \"I told you the
+sea air would do him good!\" I don\'t think the couple were convinced
+that anything miraculous had happened - particularly as we were laughing
+like drains.
+
+In fact, Cindy laughed so hard she had to sit down in the wheelchair to
+recover!
+

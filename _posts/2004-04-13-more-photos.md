@@ -19,5 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>To celebrate the birth of Thomas Austin Bowers on 10 April 2004, here are some old photos of Katharine and Simon's Wedding.<br />
-<wpg2>k-s-wedding</wpg2></p>
+
+To celebrate the birth of Thomas Austin Bowers on 10 April 2004, here
+are some old photos of Katharine and Simon\'s Wedding.  
+ <wpg2>k-s-wedding</wpg2>
+

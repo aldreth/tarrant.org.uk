@@ -19,46 +19,54 @@ categories:
 tags: []
 comments: []
 ---
-<blockquote><strong>Philip Larkin - An Arundel Tomb</strong>
-<p>Side by side, their faces blurred,<br />
-The earl and countess lie in stone,<br />
-Their proper habits vaguely shown<br />
-As jointed armour, stiffened pleat,<br />
-And that faint hint of the absurd -<br />
-The little dogs under their feet.</p>
-<p>Such plainness of the pre-baroque<br />
-Hardly involves the eye, until<br />
-It meets his left-hand gauntlet, still<br />
-Clasped empty in the other; and<br />
-One sees, with a sharp tender shock,<br />
-His hand withdrawn, holding her hand.</p>
-<p>They would not think to lie so long.<br />
-Such faithfulness in effigy<br />
-Was just a detail friends would see:<br />
-A sculptor's sweet commissioned grace<br />
-Thrown off in helping to prolong<br />
-The Latin names around the base.</p>
-<p>They would no guess how early in<br />
-Their supine stationary voyage<br />
-The air would change to soundless damage,<br />
-Turn the old tenantry away;<br />
-How soon succeeding eyes begin<br />
-To look, not read. Rigidly they</p>
-<p>Persisted, linked, through lengths and breadths<br />
-Of time. Snow fell, undated. Light<br />
-Each summer thronged the grass. A bright<br />
-Litter of birdcalls strewed the same<br />
-Bone-littered ground. And up the paths<br />
-The endless altered people came,</p>
-<p>Washing at their identity.<br />
-Now, helpless in the hollow of<br />
-An unarmorial age, a trough<br />
-Of smoke in slow suspended skeins<br />
-Above their scrap of history,<br />
-Only an attitude remains:</p>
-<p>Time has transfigures them into<br />
-Untruth. The stone fidelity<br />
-They hardly meant has come to be<br />
-Their final blazon, and to prove<br />
-Our almost-instinct almost true:<br />
-What will survive of us is love.</p></blockquote>
+
+> **Philip Larkin - An Arundel Tomb**
+> Side by side, their faces blurred,  
+>  The earl and countess lie in stone,  
+>  Their proper habits vaguely shown  
+>  As jointed armour, stiffened pleat,  
+>  And that faint hint of the absurd -  
+>  The little dogs under their feet.
+> 
+> Such plainness of the pre-baroque  
+>  Hardly involves the eye, until  
+>  It meets his left-hand gauntlet, still  
+>  Clasped empty in the other; and  
+>  One sees, with a sharp tender shock,  
+>  His hand withdrawn, holding her hand.
+> 
+> They would not think to lie so long.  
+>  Such faithfulness in effigy  
+>  Was just a detail friends would see:  
+>  A sculptor\'s sweet commissioned grace  
+>  Thrown off in helping to prolong  
+>  The Latin names around the base.
+> 
+> They would no guess how early in  
+>  Their supine stationary voyage  
+>  The air would change to soundless damage,  
+>  Turn the old tenantry away;  
+>  How soon succeeding eyes begin  
+>  To look, not read. Rigidly they
+> 
+> Persisted, linked, through lengths and breadths  
+>  Of time. Snow fell, undated. Light  
+>  Each summer thronged the grass. A bright  
+>  Litter of birdcalls strewed the same  
+>  Bone-littered ground. And up the paths  
+>  The endless altered people came,
+> 
+> Washing at their identity.  
+>  Now, helpless in the hollow of  
+>  An unarmorial age, a trough  
+>  Of smoke in slow suspended skeins  
+>  Above their scrap of history,  
+>  Only an attitude remains:
+> 
+> Time has transfigures them into  
+>  Untruth. The stone fidelity  
+>  They hardly meant has come to be  
+>  Their final blazon, and to prove  
+>  Our almost-instinct almost true:  
+>  What will survive of us is love.
+

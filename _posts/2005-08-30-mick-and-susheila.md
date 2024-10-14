@@ -19,4 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p>Mick, Cindy's colleague from Abbey Grange came round to see Cindy this afternoon, with his wife Susheila.  Cindy was still in bed unfortunately.  She hasn't got out of bed at all today, has been feeling very tired, breathless and achy.</p>
+
+Mick, Cindy\'s colleague from Abbey Grange came round to see Cindy this
+afternoon, with his wife Susheila. Cindy was still in bed unfortunately.
+She hasn\'t got out of bed at all today, has been feeling very tired,
+breathless and achy.
+

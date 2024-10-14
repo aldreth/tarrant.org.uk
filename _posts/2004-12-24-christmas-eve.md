@@ -20,5 +20,15 @@ tags: []
 comments: []
 ---
 
-<p>Last few preparations - present wrapping, turkey delivery (thanks Mark - who got up at four and got ours as well as his), a party this evening and carols at Meeting.  Rose is doing a reading at Meeting, which will be brilliant.  We've also got to try and fit in driving Toby's car this afternoon.</p>
-<p>Currently putting Cold War technology to good use by <a href="https://www.noradsanta.org/english/radar/index.html">tracking Santa</a>.</p>
+Last few preparations - present wrapping, turkey delivery (thanks Mark -
+who got up at four and got ours as well as his), a party this evening
+and carols at Meeting. Rose is doing a reading at Meeting, which will be
+brilliant. We\'ve also got to try and fit in driving Toby\'s car this
+afternoon.
+
+Currently putting Cold War technology to good use by [tracking
+Santa][1].
+
+
+
+[1]: https://www.noradsanta.org/english/radar/index.html

@@ -20,5 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>John, Rose and I have just cycled along the <a href="https://www.solar.york.ac.uk/">planet cycle path</a> to Uranus.  It took about an hour and twenty minutes and must have been about 16km.</p>
-<p>Lovely evening out there - lots of flies in our eyes, noses and mouths though.</p>
+John, Rose and I have just cycled along the [planet cycle path][1] to
+Uranus. It took about an hour and twenty minutes and must have been
+about 16km.
+
+Lovely evening out there - lots of flies in our eyes, noses and mouths
+though.
+
+
+
+[1]: https://www.solar.york.ac.uk/

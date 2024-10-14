@@ -20,13 +20,26 @@ categories:
 tags: []
 comments: []
 ---
-<p>We had a fantastic week in the Lake District, staying in Keswick.</p>
-<p>Some of the highlights included:</p>
-<p>Scrambling up a waterfall to the ridge on the west of Derwentwater, and running for half an hour from the top of Cat Bell to make sure we got the boat.</p>
-<p>Go Ape - high ropes through trees followed by mountain biking all afternoon.</p>
-<p>Tea at Bryson's in Keswick! Yum yum.</p>
-<p>Swimming and playing in Toby's new inflatable dinghy in the Lake.</p>
-<p>Card games on a rainy afternoon.</p>
-<p>Fish and chips - more food.</p>
-<p>A good time was had by all.<br />
-<wpg2>lakedistrict2005</wpg2></p>
+
+We had a fantastic week in the Lake District, staying in Keswick.
+
+Some of the highlights included:
+
+Scrambling up a waterfall to the ridge on the west of Derwentwater, and
+running for half an hour from the top of Cat Bell to make sure we got
+the boat.
+
+Go Ape - high ropes through trees followed by mountain biking all
+afternoon.
+
+Tea at Bryson\'s in Keswick! Yum yum.
+
+Swimming and playing in Toby\'s new inflatable dinghy in the Lake.
+
+Card games on a rainy afternoon.
+
+Fish and chips - more food.
+
+A good time was had by all.  
+ <wpg2>lakedistrict2005</wpg2>
+

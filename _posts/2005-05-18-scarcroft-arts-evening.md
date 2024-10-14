@@ -31,7 +31,27 @@ comments:
          I enjoy, from time to time, reading your blogs.
 ---
 
-<p><a href="https://scarcroft.york.sch.uk/">Scarcroft</a> - John and Rose's school ran an arts evening for parents and children that we've just got home from.</p>
-<p>It started off with Mrs Cornhill, the headteacher, giving a ten minute talk on how "the arts" (music, art, dance and drama) fit into the curricullum.  then there was the chance to take part in various workshops.  There was dance (no takers!), collage, art in ICT, drama, textile painting and drumming - which we did.</p>
-<p>Mrs Cornhill ran the drumming, with Mrs Ekers.  It started off with some rhythm copying and listening games.  The main part of the session was learning various drumming pattens and putting them together to make a piece.  We split into two groups and had the two groups doing their different rhythms fitting together and <strong>then</strong> Mrs Cornhill put some complicated rhythms on top of us.  I really enjoyed it and I think everyone else did too.</p>
-<p>I was really impressed at how many teachers had stayed to take part in the evening and what fun they seemed to be having.  We're very lucky to have such a good school on our doorstep.</p>
+[Scarcroft][1] - John and Rose\'s school ran an arts evening for parents
+and children that we\'ve just got home from.
+
+It started off with Mrs Cornhill, the headteacher, giving a ten minute
+talk on how \"the arts\" (music, art, dance and drama) fit into the
+curricullum. then there was the chance to take part in various
+workshops. There was dance (no takers!), collage, art in ICT, drama,
+textile painting and drumming - which we did.
+
+Mrs Cornhill ran the drumming, with Mrs Ekers. It started off with some
+rhythm copying and listening games. The main part of the session was
+learning various drumming pattens and putting them together to make a
+piece. We split into two groups and had the two groups doing their
+different rhythms fitting together and **then** Mrs Cornhill put some
+complicated rhythms on top of us. I really enjoyed it and I think
+everyone else did too.
+
+I was really impressed at how many teachers had stayed to take part in
+the evening and what fun they seemed to be having. We\'re very lucky to
+have such a good school on our doorstep.
+
+
+
+[1]: https://scarcroft.york.sch.uk/

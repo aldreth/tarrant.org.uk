@@ -19,5 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p>Jane and Andy got married in York Registry Office, followed by a party at Lance and Mary's on April 23<sup>rd</sup>.</p>
-<p><wpg2>janewedding</wpg2></p>
+
+Jane and Andy got married in York Registry Office, followed by a party
+at Lance and Mary\'s on April 23<sup>rd</sup>.
+
+<wpg2>janewedding</wpg2>
+

@@ -20,5 +20,13 @@ tags: []
 comments: []
 ---
 
-<p>I said the reiki made me feel more energetic - here's proof (perhaps).</p>
-<p>I beat Simon at badminton (notice Simon doesn't mention the result <a href="https://palmour.blogspot.com/2004/11/badminton.html">here</a>).  I very rarely beat him and today felt really good.  I always enjoy playing and feel I get a lot out of an hour of frantic running around.</p>
+I said the reiki made me feel more energetic - here\'s proof (perhaps).
+
+I beat Simon at badminton (notice Simon doesn\'t mention the result
+[here][1]). I very rarely beat him and today felt really good. I always
+enjoy playing and feel I get a lot out of an hour of frantic running
+around.
+
+
+
+[1]: https://palmour.blogspot.com/2004/11/badminton.html

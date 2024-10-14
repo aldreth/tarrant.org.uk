@@ -19,6 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>Toby and John have both brought home technology projects this week.</p>
-<p>Toby's was a DVD display stand that he made for graphics and John's is a pencil case designed to look like a pizza.  Both are excellent - really well made and designed.</p>
-<p><wpg2>technology</wpg2></p>
+
+Toby and John have both brought home technology projects this week.
+
+Toby\'s was a DVD display stand that he made for graphics and John\'s is
+a pencil case designed to look like a pizza. Both are excellent - really
+well made and designed.
+
+<wpg2>technology</wpg2>
+
