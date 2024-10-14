@@ -31,9 +31,9 @@ candles Pat and Maurice had sent for Cindy\'s anniversary and birthday.
 
 The text says:
 
-> Cindy Michele Tarrant  
->  9.10.1961 - 11.9.2005  
->  run because you can
+> Cindy Michele Tarrant<br>
+> 9.10.1961 - 11.9.2005<br>
+> run because you can
 
 \"Why the tiger?\" I hear you ask. It was Rose\'s idea, and it comes
 from something that Cindy used to joke about with the children. She
@@ -48,10 +48,5 @@ If you want to go and see her grave, it\'s in York Cemetery (the
 Victorian one on Cemetery Road near the Barbican) and here\'s a map to
 show you exactly where.
 
-[![Map to Cindy&#039;s
-grave](https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan-212x300.png){:
-width="212" height="300" .alignleft .size-medium .wp-image-392}][1]
-
-
-
-[1]: https://tarrant.org.uk/wp-content/uploads/2007/10/york_cemetery_plan.png
+![Map to Cindy\'s
+grave](/assets/images/2007-10/york_cemetery_plan.png "Map to Cindy's grave")
