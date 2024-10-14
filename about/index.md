@@ -19,36 +19,29 @@ tags: []
 comments: []
 ---
 
-**Cindy Tarrant**
+## Cindy Tarrant
 
-![Cindy Tarrant](./Cindy_Tarrant.jpg "Cindy Tarrant"){: .alignright}
-
-Cindy was born in Emsworth and brought up in Bosham. She studied Home
+![Cindy Tarrant](./Cindy_Tarrant.jpg "Cindy Tarrant"){: .alignright} Cindy was born in Emsworth and brought up in Bosham. She studied Home
 Economics at Surrey University and went on to do a PGCE in Bath. She
 worked for a couple of years at Sarah Bonnell School in east London,
 before deciding to stop working for a while and travel the world. She
 travelled across Nepal and China and lived and worked in Australia for
 18 months. On her way back to Britain she met Edward in Beijing.
 
-**Edward Andrews**
+## Edward Andrews
 
-![Edward Andrews](./DSCF1197.jpg "Edward Andrews"){: .alignleft}
-
-Edward was born and brought up in St Albans. After not finishing an
+![Edward Andrews](./DSCF1197.jpg "Edward Andrews"){: .alignleft} Edward was born and brought up in St Albans. After not finishing an
 electronics degree and doing some voluntary work, he decided that
 travelling the world was an interesting option. He went on a double
 decker bus from London to Kathmandu, and while in China met Cindy in
 Beijing.
 
-**Edward &amp; Cindy**
+## Edward &amp; Cindy
 
-![Photo of Edward &amp; Cindy](./84050002_G.jpg){: .alignright}
-
-After meeting in Beijing and travelling home together on the
+![Photo of Edward &amp; Cindy](./84050002_G.jpg){: .alignright} After meeting in Beijing and travelling home together on the
 Trans-Siberian Express, they got it together romantically after a couple
 of months in Britain. They travelled together in Thailand and Indonesia,
-lived and worked in Australia and came back to the UK in the summer of
-1990. Cindy worked in schools in Norton and then in Leeds, while Edward
+lived and worked in Australia and came back to the UK in the summer of 1990. Cindy worked in schools in Norton and then in Leeds, while Edward
 went to university and then looked after their children - Toby, John and
 Rose. Later, Edward did a primary PGCE and started working as a primary
 teacher.
@@ -94,4 +87,3 @@ Lakes, Cindy climbed Helvellyn and several other large hills!
 Cindy went on to have two more courses of chemotherapy and got
 progressively worse, more and more short of breath. She died on the 11th
 September 2005.
-
