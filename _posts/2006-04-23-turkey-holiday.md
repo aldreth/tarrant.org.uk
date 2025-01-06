@@ -7,15 +7,15 @@ author:
   display_name: Edward
   login: admin
   email: edward@aldreth.com
-  url: ''
+  url: ""
 author_login: admin
 author_email: edward@aldreth.com
 wordpress_id: 252
 wordpress_url: http://tarrant.org.uk/2006/04/23/turkey-holiday/
-date: '2006-04-23 23:41:10 +0100'
-date_gmt: '2006-04-23 22:41:10 +0100'
+date: "2006-04-23 23:41:10 +0100"
+date_gmt: "2006-04-23 22:41:10 +0100"
 categories:
-- Days with the Children
+  - Days with the Children
 tags: []
 comments: []
 ---
@@ -33,5 +33,6 @@ games. It was very sunny for most of the time, but it did rain for a
 couple of days, and was grey on a couple of others. We\'ve all come home
 very brown, and feeling rested.
 
-<wpg2>turkey</wpg2>
+<!-- TODO: improve photo & add gallery -->
 
+![Turkey](/assets/images/2006-04-23/turkey.jpg "Turkey")
