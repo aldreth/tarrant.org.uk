@@ -1,4 +1,13 @@
-# Eleventy Excellent
+# Tarrant.org.uk
+
+## Posts with images I've commented out for now
+* src/posts/2007-10-14-cindys-gravestone.md
+* src/posts/2006-05-02-blast-from-the-past.md
+* src/posts/2006-04-23-turkey-holiday.md
+* src/posts/2005-09-21-announcements-in-papers.md
+* src/posts/2005-09-19-photos-of-mandys-birthday.md
+* src/posts/2005-08-07-pool-in-stream.md
+* src/posts/2005-05-06-kitchen-photos.md
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
@@ -7,7 +16,8 @@ Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [bu
 
 If you end up using this starter, feel free to send me a link, I'd love to see it!
 
-- [Eleventy Excellent](#eleventy-excellent)
+- [Tarrant.org.uk](#tarrantorguk)
+	- [Posts with images I've commented out for now](#posts-with-images-ive-commented-out-for-now)
 	- [Preview](#preview)
 	- [Features](#features)
 	- [First steps](#first-steps)
