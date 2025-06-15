@@ -4,7 +4,7 @@ description: ""
 date: 2005-02-27
 permalink: 2005/02/27/a-dolls-house/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

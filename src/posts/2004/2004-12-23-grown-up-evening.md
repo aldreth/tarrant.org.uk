@@ -4,7 +4,7 @@ description: ""
 date: 2004-12-23
 permalink: 2004/12/23/grown-up-evening/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments:
   - id: 4

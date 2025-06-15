@@ -4,7 +4,7 @@ description: ""
 date: 2005-03-07
 permalink: 2005/03/07/supper-at-mark-and-michelles/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

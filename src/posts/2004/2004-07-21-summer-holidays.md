@@ -5,7 +5,7 @@ date: 2004-07-21
 permalink: 2004/07/21/summer-holidays/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

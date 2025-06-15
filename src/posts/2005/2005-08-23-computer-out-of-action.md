@@ -5,7 +5,7 @@ date: 2005-08-23
 permalink: 2005/08/23/computer-out-of-action/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

@@ -4,7 +4,7 @@ description: ""
 date: 2005-07-16
 permalink: 2005/07/16/a-child-of-our-time-proms/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

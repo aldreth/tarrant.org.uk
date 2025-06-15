@@ -4,7 +4,7 @@ description: ""
 date: 2005-07-06
 permalink: 2005/07/06/the-tasting-room/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Cindy
 comments: []
 ---

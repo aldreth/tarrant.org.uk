@@ -4,7 +4,7 @@ description: ""
 date: 2005-01-13
 permalink: 2005/01/13/kitchen-started/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

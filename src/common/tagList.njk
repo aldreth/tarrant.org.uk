@@ -6,7 +6,7 @@ pagination:
   alias: tag
 permalink: /tags/{{ tag | slugify }}/
 eleventyComputed:
-  title: '{{ meta.blog.tagSingle }}: {{ tag }}'
+  title: '{{ meta.blog.tagSingle }}: {{ tag|safe }}'
 ---
 
 <custom-masonry layout="50-50">

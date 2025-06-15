@@ -5,7 +5,7 @@ date: 2005-09-08
 permalink: 2005/09/08/practical-day/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments:
   - id: 11

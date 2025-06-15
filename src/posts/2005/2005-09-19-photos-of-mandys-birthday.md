@@ -5,7 +5,7 @@ date: 2005-09-19
 permalink: 2005/09/19/photos-of-mandys-birthday/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
   - Extended Family
 author: Edward
 comments: []

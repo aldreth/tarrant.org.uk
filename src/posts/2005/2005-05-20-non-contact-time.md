@@ -4,7 +4,7 @@ description: ""
 date: 2005-05-20
 permalink: 2005/05/20/non-contact-time/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

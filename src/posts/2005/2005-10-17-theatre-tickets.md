@@ -4,7 +4,7 @@ description: ""
 date: 2005-10-17
 permalink: 2005/10/17/theatre-tickets/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
   - Friends
 author: Edward
 comments: []

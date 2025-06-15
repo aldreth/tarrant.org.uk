@@ -4,7 +4,7 @@ description: ""
 date: 2004-12-31
 permalink: 2004/12/31/best-present/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

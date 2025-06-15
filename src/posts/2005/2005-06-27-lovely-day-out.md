@@ -4,7 +4,7 @@ description: ""
 date: 2005-06-27
 permalink: 2005/06/27/lovely-day-out/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

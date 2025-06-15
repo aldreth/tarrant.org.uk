@@ -4,7 +4,7 @@ description: ""
 date: 2004-12-09
 permalink: 2004/12/09/one-touch-of-venus/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

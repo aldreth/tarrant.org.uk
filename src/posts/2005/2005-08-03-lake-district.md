@@ -5,7 +5,7 @@ date: 2005-08-03
 permalink: 2005/08/03/lake-district/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

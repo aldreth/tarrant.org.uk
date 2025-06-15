@@ -5,7 +5,7 @@ date: 2005-08-04
 permalink: 2005/08/04/weekend-at-home/
 tags:
   - Days with the Children
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

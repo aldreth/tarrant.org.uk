@@ -4,7 +4,7 @@ description: ""
 date: 2005-02-03
 permalink: 2005/02/03/surprise-for-cindy/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments: []
 ---

@@ -4,7 +4,7 @@ description: ""
 date: 2005-07-14
 permalink: 2005/07/14/fantastic-trip-to-london/
 tags:
-  - Edward &amp; Cindy
+  - Edward & Cindy
 author: Edward
 comments:
   - id: 9
