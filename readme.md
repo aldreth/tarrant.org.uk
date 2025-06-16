@@ -8,6 +8,7 @@
 * src/posts/2005-09-19-photos-of-mandys-birthday.md
 * src/posts/2005-08-07-pool-in-stream.md
 * src/posts/2005-05-06-kitchen-photos.md
+* src/pages/about.md
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 

@@ -1,3 +1,5 @@
+import _ from 'lodash';
+
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
   return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
@@ -17,3 +19,41 @@ export const tagList = collection => {
   });
   return Array.from(tagsSet).sort();
 };
+
+export const getAllPostsByYear = collection => {
+  const byYear = _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
+    .groupBy(post => post.date.getFullYear())
+    .toPairs()
+    .reverse()
+    .value();
+
+  return byYear;
+};
+
+// export const getAllPostsByYear = collection => {
+//   const allPosts = collection.getFilteredByGlob('./src/posts/**/*.md');
+
+//   const byYear = {};
+
+//   // Go through all original posts
+//   allPosts.forEach(post => {
+//     // Assuming there's a date field in front matter for each post,
+//     // extract the year for the post
+//     const date = new Date(post.data.date);
+//     const year = date.getFullYear().toString();
+
+//     // If current year has not been encoutered yet,
+//     // create a new entry.
+//     if (!byYear[year]) {
+//       byYear[year] = [];
+//     }
+
+//     // Add post to the corresponding year
+//     byYear[year].push(post);
+//   });
+
+//   console.log('FAYFAY', JSON.stringify(byYear));
+//   // Our posts are now grouped by year so
+//   // let's return it as the new collection
+//   return byYear;
+// };
