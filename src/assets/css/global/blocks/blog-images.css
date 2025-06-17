@@ -1,0 +1,11 @@
+picture:has(img.alignleft) {
+  float: left;
+  margin-right: var(--space-s);
+  margin-bottom: var(--space-s);
+}
+
+picture:has(img.alignright) {
+  float: right;
+  margin-left: var(--space-s);
+  margin-bottom: var(--space-s);
+}
