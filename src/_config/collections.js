@@ -20,15 +20,24 @@ export const tagList = collection => {
   return Array.from(tagsSet).sort();
 };
 
-export const getAllPostsByYear = collection => {
-  const byYear = _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
+export const getAllPostsByYear = collection =>
+  _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
     .groupBy(post => post.date.getFullYear())
     .toPairs()
     .reverse()
     .value();
 
-  return byYear;
-};
+// Year / Month collection
+export const getAllPostsByYearMonth = collection =>
+  _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
+    .groupBy(post => {
+      const year = post.date.getFullYear();
+      const month = String(post.date.getMonth() + 1).padStart(2, '0');
+      return `${year}/${month}`;
+    })
+    .toPairs()
+    .reverse()
+    .value();
 
 // export const getAllPostsByYear = collection => {
 //   const allPosts = collection.getFilteredByGlob('./src/posts/**/*.md');
