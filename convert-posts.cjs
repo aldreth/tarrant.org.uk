@@ -1,10 +1,11 @@
 // @ts-check
-const {readdir, readFile, writeFile} = require('fs/promises');
+const {readdir, readFile, writeFile, mkdir} = require('fs/promises');
 const matter = require('gray-matter');
 const {stringify} = require('yaml');
 const slugify = require('slugify');
 
-const directory = './all-posts/2009';
+const inputDirectory = '../tarrant.org.uk/_posts';
+const outputDirectory = './src/posts';
 
 const postPermalink = (date, title) => {
   const year = date.substring(0, 4);
@@ -23,12 +24,14 @@ const postPermalink = (date, title) => {
 };
 
 async function updateFrontMatter(filename) {
-  const filepath = `${directory}/${filename}`;
-  const {data: frontMatter, content} = matter(await readFile(filepath));
+  const inputFilepath = `${inputDirectory}/${filename}`;
+
+  const {data: frontMatter, content} = matter(await readFile(inputFilepath));
 
   let {date, title, tags, categories, description, comments, author} = frontMatter;
   const parsedDate = new Date(date);
   const stringDate = parsedDate.toISOString().substring(0, 10);
+  const year = stringDate.substring(0, 4);
 
   title = title ?? '';
   description = description ?? '';
@@ -39,8 +42,9 @@ async function updateFrontMatter(filename) {
   tags = tags.concat(categories);
   tags = new Set(tags);
   tags = Array.from(tags);
+  tags = tags.map(tag => tag.replace('&amp;', '&'));
 
-  // author = author?.display_name ?? 'unknown';
+  author = author?.display_name ?? 'unknown';
 
   const permalink = postPermalink(stringDate, title);
 
@@ -50,13 +54,17 @@ async function updateFrontMatter(filename) {
 
   const newContent = `---\n${stringify(newFrontMatter)}---\n${content}`;
 
+  const fileDir = `${outputDirectory}/${year}`;
+  const filepath = `${fileDir}/${filename}`;
+
+  await mkdir(fileDir, {recursive: true});
   await writeFile(filepath, newContent);
 
   console.log(`- [x] ${filepath}`);
 }
 
 async function main() {
-  const filenames = await readdir(directory);
+  const filenames = await readdir(inputDirectory);
   const markdownFilenames = filenames.filter(f => f.endsWith('.md'));
 
   await Promise.all(markdownFilenames.map(updateFrontMatter));
