@@ -1,3 +1,17 @@
+const bottom = [
+  {
+    text: 'Privacy',
+    url: '/privacy/'
+  }
+];
+
+if (process.env.NODE_ENV == 'development') {
+  bottom.shift({
+    text: 'Style guide',
+    url: '/styleguide/'
+  });
+}
+
 export default {
   top: [
     {
@@ -13,14 +27,5 @@ export default {
       url: '/tags/'
     }
   ],
-  bottom: [
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    }
-  ]
+  bottom
 };
