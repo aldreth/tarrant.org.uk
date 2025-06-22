@@ -6,7 +6,7 @@ const bottom = [
 ];
 
 if (process.env.NODE_ENV == 'development') {
-  bottom.shift({
+  bottom.unshift({
     text: 'Style guide',
     url: '/styleguide/'
   });
