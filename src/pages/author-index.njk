@@ -1,18 +1,18 @@
 ---
 pagination:
-  data: collections.allPostsByYearMonth
+  data: collections.allPostsByAuthor
   size: 1
-  alias: year
+  alias: author
 layout: page
-permalink: /{{year[0]}}/
+permalink: /authors/{{author[0]}}/
 ---
 
-{% set thisYear = year[0] %}
-{% set thisYearsPosts = year[1] %}
+{% set thisAuthor = author[0] %}
+{% set thisAuthorsPosts = author[1] %}
 
-<h2>{{ thisYear }}</h2>
+<h2>{{ thisAuthor }}'s Posts</h2>
 
-{% asyncEach item in thisYearsPosts %}
+{% asyncEach item in thisAuthorsPosts %}
     {% set headingLevel = "h2" %}
     {% set definedDate = item.data.date %}
     {% set showTags = true %}

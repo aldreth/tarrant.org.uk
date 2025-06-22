@@ -1,5 +1,7 @@
 import _ from 'lodash';
 
+// import {slugifyString} from './filters/slugify';
+
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
   return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
@@ -48,6 +50,14 @@ export const getAllPostsByYearMonthDay = collection =>
       const day = String(post.date.getDate()).padStart(2, '0');
       return `${year}/${month}/${day}`;
     })
+    .toPairs()
+    .reverse()
+    .value();
+
+// Author collection
+export const getAllPostsByAuthor = collection =>
+  _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
+    .groupBy(post => post.data.author)
     .toPairs()
     .reverse()
     .value();
