@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-excellent",
-  "version": "4.1.10",
-  "description": "Eleventy starter built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Lene Saile",
+  "name": "tarrant.org.uk",
+  "version": "2.0.0",
+  "description": "A family blog covering the last few years of Cindy Tarrant's life, and the first few years without her.",
+  "author": "Edward Andrews-Hodgson",
   "license": "ISC",
   "type": "module",
   "engines": {
@@ -22,7 +22,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/aldreth/tarrant.org.uk.git"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.1",

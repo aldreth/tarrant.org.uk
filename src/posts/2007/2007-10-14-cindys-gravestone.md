@@ -29,7 +29,9 @@ from something that Cindy used to joke about with the children. She
 often told them that at night, she unzipped her tail, turned into a
 tiger and ran around Rowntrees Park. So it really reminds us of her. And
 it goes well with the lower case writing at the bottom, which is an
-adaptation of the last sentence in her diary - \"Certainly if there is
+adaptation of the last sentence in her diary - 
+
+> \"Certainly if there is
 life after death I am going to be a runner and I will run every day
 because I can.\"
 
