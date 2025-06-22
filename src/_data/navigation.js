@@ -19,10 +19,6 @@ export default {
       url: '/styleguide/'
     },
     {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
       text: 'Privacy',
       url: '/privacy/'
     }
