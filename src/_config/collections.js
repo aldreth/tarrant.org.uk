@@ -39,6 +39,19 @@ export const getAllPostsByYearMonth = collection =>
     .reverse()
     .value();
 
+// Year / Month / Day collection
+export const getAllPostsByYearMonthDay = collection =>
+  _.chain(collection.getFilteredByGlob('./src/posts/**/*.md').reverse())
+    .groupBy(post => {
+      const year = post.date.getFullYear();
+      const month = String(post.date.getMonth() + 1).padStart(2, '0');
+      const day = String(post.date.getDate()).padStart(2, '0');
+      return `${year}/${month}/${day}`;
+    })
+    .toPairs()
+    .reverse()
+    .value();
+
 // export const getAllPostsByYear = collection => {
 //   const allPosts = collection.getFilteredByGlob('./src/posts/**/*.md');
 

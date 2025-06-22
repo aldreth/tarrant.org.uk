@@ -19,6 +19,10 @@ schema: BlogPosting
       {%- endif %}
       <!-- date -->
       {% set definedDate = date %} {% include "partials/date.njk" %}
+      by <a href="/authors/{{ author | slugify }}">{{ author }}</a>
+    </p>
+    <p class="meta | cluster gutter-xs-s">
+      <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a href="/{{ date | formatDate("YYYY/MM") }}">{{ date | formatDate("MM") }}</a>/<a href="/{{ date | formatDate("YYYY/MM/DD") }}">{{ date | formatDate("DD") }}</a>
       {%
         if tags.length >
         1

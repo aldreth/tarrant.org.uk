@@ -19,6 +19,7 @@ import {
   getAllPosts,
   getAllPostsByYear,
   getAllPostsByYearMonth,
+  getAllPostsByYearMonthDay,
   showInSitemap,
   tagList
 } from './src/_config/collections.js';
@@ -41,6 +42,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addCollection('allPosts', getAllPosts);
   eleventyConfig.addCollection('allPostsByYear', getAllPostsByYear);
   eleventyConfig.addCollection('allPostsByYearMonth', getAllPostsByYearMonth);
+  eleventyConfig.addCollection('allPostsByYearMonthDay', getAllPostsByYearMonthDay);
   eleventyConfig.addCollection('showInSitemap', showInSitemap);
   eleventyConfig.addCollection('tagList', tagList);
 
