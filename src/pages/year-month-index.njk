@@ -10,7 +10,7 @@ permalink: /{{year[0]}}/
 {% set thisYear = year[0] %}
 {% set thisYearsPosts = year[1] %}
 
-<h2>{{ thisYear }}</h2>
+<h2><a class="no-underline" href="/{{ thisYear | getYear }}">{{ thisYear | getYear }}</a>/{{ thisYear | getMonth }}</h2>
 
 {% asyncEach item in thisYearsPosts %}
     {% set headingLevel = "h2" %}

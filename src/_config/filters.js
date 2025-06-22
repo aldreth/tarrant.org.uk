@@ -6,6 +6,7 @@ import {splitlines} from './filters/splitlines.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
 import {postPermalink} from './filters/post-permalink.js';
+import {getYear, getMonth, getDay} from './filters/date-part-handling.js';
 
 export default {
   toISOString,
@@ -16,5 +17,8 @@ export default {
   shuffleArray,
   sortAlphabetically,
   slugifyString,
-  postPermalink
+  postPermalink,
+  getYear,
+  getMonth,
+  getDay
 };

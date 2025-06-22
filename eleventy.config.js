@@ -93,6 +93,9 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
   eleventyConfig.addFilter('postPermalink', filters.postPermalink);
+  eleventyConfig.addFilter('getYear', filters.getYear);
+  eleventyConfig.addFilter('getMonth', filters.getMonth);
+  eleventyConfig.addFilter('getDay', filters.getDay);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
