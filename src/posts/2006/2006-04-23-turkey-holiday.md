@@ -24,4 +24,4 @@ very brown, and feeling rested.
 
 <!-- TODO: improve photo & add gallery -->
 
-<!-- ![Turkey](/assets/images/2006-04-23/turkey.jpg "Turkey") -->
+![Turkey](./turkey.jpg )

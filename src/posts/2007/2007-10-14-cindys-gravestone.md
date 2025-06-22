@@ -14,6 +14,7 @@ Well at last, Cindy\'s gravestone has been put up in the cemetery. We
 all went this afternoon after Meeting, had a look at it and lit some
 candles Pat and Maurice had sent for Cindy\'s anniversary and birthday.
 
+<!-- TODO: gallery -->
 <div>
 <wpg2>1748</wpg2>
 </div>
@@ -38,6 +39,5 @@ because I can.\"
 If you want to go and see her grave, it\'s in York Cemetery (the
 Victorian one on Cemetery Road near the Barbican) and here\'s a map to
 show you exactly where.
-<!-- 
-![Map to Cindy\'s
-grave](/assets/images/2007-10/york_cemetery_plan.png "Map to Cindy's grave") -->
+
+![Map to Cindy\'s grave](./york_cemetery_plan.png ) 
