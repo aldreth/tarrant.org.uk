@@ -3,7 +3,7 @@ layout: base
 schema: BlogPosting
 ---
 
-<div class="region" style="--region-space-top: var(--space-xl-2xl)">
+<div class="region">
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
 
@@ -18,11 +18,14 @@ schema: BlogPosting
         <span class="button" data-small-button data-button-variant="tertiary">draft</span>
       {%- endif %}
       <!-- date -->
-      {% set definedDate = date %} {% include "partials/date.njk" %}
-      by <a href="/authors/{{ author | slugify }}">{{ author }}</a>
+      {% set definedDate = date %} {% include "partials/date.njk" %} by
+      <a href="/authors/{{ author | slugify }}">{{ author }}</a>
     </p>
     <p class="meta | cluster gutter-xs-s">
-      <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a href="/{{ date | formatDate("YYYY/MM") }}">{{ date | formatDate("MM") }}</a>/<a href="/{{ date | formatDate("YYYY/MM/DD") }}">{{ date | formatDate("DD") }}</a>
+      <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a
+        href="/{{ date | formatDate("YYYY/MM") }}"
+        >{{ date | formatDate("MM") }}</a
+      >/<a href="/{{ date | formatDate("YYYY/MM/DD") }}">{{ date | formatDate("DD") }}</a>
       {%
         if tags.length >
         1
