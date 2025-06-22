@@ -1,0 +1,36 @@
+---
+pagination:
+  data: collections.allPostsByAuthor
+  size: 1
+  alias: author
+layout: page
+permalink: /authors/{{author[0]}}/
+---
+
+{% set thisAuthor = author[0] %}
+{% set thisAuthorsPosts = author[1] %}
+
+<h2>{{ thisAuthor }}'s Posts</h2>
+
+{% asyncEach item in thisAuthorsPosts %}
+    {% set headingLevel = "h2" %}
+    {% set definedDate = item.data.date %}
+    {% set showTags = true %}
+    <custom-card clickable class="mt-s-m">
+      <{{ headingLevel }} slot="headline" class="text-step-2">
+        <a href="/{{ item.data.permalink }}">{{ item.data.title }}</a>
+      </{{ headingLevel }}>
+      <span slot="date"><time datetime="{{ definedDate | toIsoString }}"> {{ definedDate | formatDate('MMMM D, YYYY') }} </time></span>
+      {% if showTags and item.data.tags.length > 1 %}
+        <div slot="tag" webc:nokeep>
+          {% for tag in item.data.tags %}
+            {% if tag != "posts" %}
+              <span class="button" data-small-button>{{ tag }}</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <div slot="content" webc:nokeep>{{ item.data.description | markdownFormat | safe }}</div>
+    </custom-card>
+{% endeach %}
+

@@ -1,0 +1,33 @@
+<footer class="site-footer mt-l-xl p-s-m">
+  <div class="wrapper">
+    <div class="cluster gutter-xs">
+      <nav class="cluster text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
+        &copy; {% year %}
+        <a href="/" {{ indicateActiveHome }}><span class="font-display">{{ meta.siteName }}</span> </a>
+
+        {% for item in navigation.bottom %}
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
+        {% endfor %}
+      </nav>
+
+      <nav class="cluster" aria-label="{{ meta.navigation.ariaPlatforms }}">
+        <!-- gets the first item from the feed loop set in meta -->
+        <a href="/feed.xml" rel="alternate" type="application/atom+xml">
+          <span class="visually-hidden">Atom feed</span>
+          {% svg "misc/rss" %}
+        </a>
+      </nav>
+    </div>
+
+    {% include 'partials/theme-switch.njk' %}
+  </div>
+</footer>
