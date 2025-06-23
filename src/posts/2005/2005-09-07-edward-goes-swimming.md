@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 After years of looking enviously at people who can swim front crawl

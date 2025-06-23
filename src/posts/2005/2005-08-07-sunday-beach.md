@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Went to Harlech beach - about a 20 minute drive. It\'s a lovely flat

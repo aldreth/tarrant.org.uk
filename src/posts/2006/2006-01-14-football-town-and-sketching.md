@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Rose went to her dancing at Southlands this morning - the normal tap,

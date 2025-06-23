@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Of course, I can\'t count. Yesterday\'s [post][1] looked back ten years

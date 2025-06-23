@@ -19,6 +19,7 @@ comments:
       When we have sauna we regularly heat the hot room up to between 90C and
       105C dpending on individual wishes.
          I enjoy, from time to time, reading your blogs.
+type: Blog
 ---
 
 [Scarcroft][1] - John and Rose\'s school ran an arts evening for parents

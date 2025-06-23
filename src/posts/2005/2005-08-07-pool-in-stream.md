@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 We walked down to the stream in the grounds and found a waterfall with a

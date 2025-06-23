@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 I thought it would be amusing to show a picture of all the tablets that

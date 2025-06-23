@@ -31,6 +31,7 @@ comments:
       Your friends.
 
       Phil and Marcia
+type: Blog
 ---
 
 Kate Hodge our MacMillan nurse came round today, to chat about practical

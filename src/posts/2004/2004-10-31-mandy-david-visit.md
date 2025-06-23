@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve had Mandy, David, Amy and Tom to visit for the last few days.

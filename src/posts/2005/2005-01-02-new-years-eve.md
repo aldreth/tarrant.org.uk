@@ -8,6 +8,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 We had Jane & Andy and Steve & Sam with Tom and Josh round on New

@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 After a busy day and evening yesterday, I managed to go to bed fairly

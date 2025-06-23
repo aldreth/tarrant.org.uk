@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 After what feels like an age of apply for jobs and not getting anywhere,

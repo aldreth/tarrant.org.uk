@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John and I went to see [Stories in Red][1] the current Phoenix Dance

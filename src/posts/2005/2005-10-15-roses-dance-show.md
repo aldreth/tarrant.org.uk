@@ -16,6 +16,7 @@ comments:
     content: Well done Rose, sounds as though the show has gone very well - can we
       have some photo's if possible?  look forward to seeing them - lots of love
       to you all
+type: Blog
 ---
 
 Rose\'s dance show has been taking up a lot of time the last few

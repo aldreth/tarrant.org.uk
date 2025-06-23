@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 In a very sad, geeky way, I\'m very proud of a new website I\'ve set up

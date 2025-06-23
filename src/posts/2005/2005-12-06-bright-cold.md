@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I went for a run today along the river. It was a really crisp, bright

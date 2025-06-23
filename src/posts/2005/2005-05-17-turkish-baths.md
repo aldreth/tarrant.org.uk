@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I went with Ted today over to Harrogate to go to the Turkish Baths (info

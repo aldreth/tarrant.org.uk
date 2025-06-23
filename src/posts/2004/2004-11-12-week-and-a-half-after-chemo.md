@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy is doing fine, but is absolutely exhausted. Today, all she has

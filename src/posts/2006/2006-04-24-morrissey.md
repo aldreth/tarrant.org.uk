@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I just watched 4 music presents... Morrissey from earlier in the month.

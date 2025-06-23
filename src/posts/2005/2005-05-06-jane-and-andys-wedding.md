@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Jane and Andy got married in York Registry Office, followed by a party

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Last few preparations - present wrapping, turkey delivery (thanks Mark -

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Rookhow is only 3 miles down the road from the Grizedale Forest Visitors

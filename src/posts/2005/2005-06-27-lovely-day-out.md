@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Today we drove to the [Yorkshire Sculpture Park][1], which is near

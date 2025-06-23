@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Early this year Cindy had a routine scan to see how she was doing.

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Friday evening I went to see Jerusalem at the WYP with Lance, while

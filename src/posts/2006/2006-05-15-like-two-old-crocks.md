@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Played badminton with Simon at lunch time today. He\'d cycled into a

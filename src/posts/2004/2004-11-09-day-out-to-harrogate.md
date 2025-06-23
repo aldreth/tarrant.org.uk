@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 After I\'d dropped the children at school, Cindy and I went over to

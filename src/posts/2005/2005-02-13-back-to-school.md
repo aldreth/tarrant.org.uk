@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'m back to school tomorrow. I\'m in for two and a half days this week,

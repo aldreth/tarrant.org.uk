@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve just been to Arkengarthdale (in Swaledale - Yorkshire Dales) with

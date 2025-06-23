@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Mary and Lance gave us Big Deal tickets for the [West Yorkshire

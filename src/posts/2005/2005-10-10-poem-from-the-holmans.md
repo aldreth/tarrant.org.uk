@@ -46,6 +46,7 @@ comments:
 
 
       Phil...
+type: Blog
 ---
 
 This poem is one that the Holmans chose to read at Cindy\'s funeral, but

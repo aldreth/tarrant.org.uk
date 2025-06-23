@@ -9,6 +9,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve put up some photos from Mandy\'s birthday weekend here in York.

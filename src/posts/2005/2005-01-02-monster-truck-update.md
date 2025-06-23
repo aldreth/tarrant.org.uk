@@ -20,6 +20,7 @@ comments:
       thing is, our animals are not so keen on it as it whizzes around the
       lounge and diner at great speed!  hope you continue to get enjoyment from
       it and good luck with any future ebay purchases! lots of love,  Jayne
+type: Blog
 ---
 
 Hey Toby here. Been fidilling with car over the last week or so and

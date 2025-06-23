@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We went over to Lal and Pauline\'s today. Last year they had fantastic

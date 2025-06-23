@@ -23,6 +23,10 @@ export default {
       url: '/contact/'
     },
     {
+      text: 'Blog',
+      url: '/blog/'
+    },
+    {
       text: 'Tags',
       url: '/tags/'
     },

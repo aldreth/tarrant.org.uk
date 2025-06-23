@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Taken before Helen Andrews\' wedding.

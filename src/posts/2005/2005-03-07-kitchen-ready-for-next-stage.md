@@ -7,6 +7,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Dave went home on Saturday after lunch. He left a kitchen with a new

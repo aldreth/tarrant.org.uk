@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Jane and Katharine and partners/child are all ok, following the bomb in

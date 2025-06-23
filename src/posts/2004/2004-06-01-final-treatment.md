@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 The last treatment in this round of chemo has gone well, with Cindy out

@@ -26,6 +26,7 @@ comments:
     content: |
       Well done John! I hope you enjoy it.
       Love Alison
+type: Blog
 ---
 
 John was elected onto the school council a couple of weeks ago - a boy

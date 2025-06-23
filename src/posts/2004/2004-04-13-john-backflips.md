@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Look at John doing backflips!

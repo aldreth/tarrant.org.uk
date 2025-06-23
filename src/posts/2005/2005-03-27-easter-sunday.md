@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve had a lovely lunch today with Lance and Mary. Roast Lamb - we

@@ -8,6 +8,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 We got back to York in time for lunch, unpacked and started on the

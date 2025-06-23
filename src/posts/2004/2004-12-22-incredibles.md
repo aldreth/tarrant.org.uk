@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We went to see [The Incredibles][1] last night, or more like yesterday

@@ -40,6 +40,7 @@ comments:
       weekend. Cindy and I spend 10 minutes talking and holding hands - we both
       knew it was our final time together. I am so grateful that I had this
       opportunity to say goodbye.
+type: Blog
 ---
 
 Today\'s Guardian has an announcement of Cindy\'s death and funeral.

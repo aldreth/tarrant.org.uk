@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I think I\'ve picked up some work this morning. Someone that Simon knows

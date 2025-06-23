@@ -28,6 +28,7 @@ comments:
     date_gmt: 2005-10-10 09:45:00 +0100
     content: |
       'Happy Birthday' Cindy ~ always in my thoughts, with love from, Jayne
+type: Blog
 ---
 
 Today would have been Cindy\'s 44<sup>th</sup> birthday.

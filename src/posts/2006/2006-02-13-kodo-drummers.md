@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Sunday we went over to Manchester to see the [Kodo Drummers][1], for

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve been to Hunmanby Gap again today. Some skimming, some body

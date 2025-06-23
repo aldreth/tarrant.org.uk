@@ -7,6 +7,7 @@ tags:
   - Entertainment News
 author: John
 comments: []
+type: Blog
 ---
 
 On Thursday night Just the two of us started, on BBC 1. I thought it was

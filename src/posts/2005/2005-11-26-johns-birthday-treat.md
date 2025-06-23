@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 It\'s John\'s birthday next Thursday, and he decided to have his

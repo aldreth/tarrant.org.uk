@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday evening, Cindy and I went to Gateshead to see [Nitin

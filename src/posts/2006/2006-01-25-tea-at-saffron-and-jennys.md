@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve been out for tea tonight at Saffron, Jenny and Nok\'s - except

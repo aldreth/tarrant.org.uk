@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Well - I needn\'t have dreaded it! The coach journey over to the Lake

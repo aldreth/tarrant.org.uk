@@ -15,6 +15,7 @@ comments:
     date_gmt: 2005-01-22 08:48:11 +0000
     content: |
       I liked your slide show Rose - very good indeed!
+type: Blog
 ---
 
 Rose has made a powerpoint slide show story - [have a look at it][1].

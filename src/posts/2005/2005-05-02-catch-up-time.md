@@ -10,6 +10,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 I haven\'t posted for a while so here\'s what\'s been going on.

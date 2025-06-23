@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Here\'s the first photo of Cindy that anyone has sent - from [Simon

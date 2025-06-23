@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Last night the first [Prom][1] of the year was Michael Tippett\'s A

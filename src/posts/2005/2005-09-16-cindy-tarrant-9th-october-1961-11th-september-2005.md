@@ -49,7 +49,7 @@ comments:
     author_url: ""
     date: 2005-10-11 00:29:22 +0100
     date_gmt: 2005-10-11 00:29:22 +0100
-    content: >
+    content: >+
       Just read Chris' memory about Cindy being pregnant with Toby ... I
       remember Joyce discussing with me what colour outfit to knit for the new
       arrival. She decided on pale green! We both had visions of Cindy with the
@@ -76,6 +76,8 @@ comments:
       Love Jane
 
       xxxxxx
+
+type: Blog
 ---
 
 We are very sorry to have to tell you of the death of

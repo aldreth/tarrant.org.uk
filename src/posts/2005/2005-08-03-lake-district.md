@@ -8,6 +8,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 We had a fantastic week in the Lake District, staying in Keswick.

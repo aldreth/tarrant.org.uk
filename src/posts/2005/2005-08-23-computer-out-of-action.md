@@ -8,6 +8,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 No entries recently as the computer hasn\'t been working properly.

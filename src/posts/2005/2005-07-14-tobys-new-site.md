@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby\'s got a new [site][1] on MSN Spaces. Let\'s see how long this one

@@ -21,6 +21,7 @@ comments:
 
 
       Love Alison
+type: Blog
 ---
 
 Held at York Cemetery on  

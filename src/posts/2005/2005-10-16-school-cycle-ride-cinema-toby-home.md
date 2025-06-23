@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John, Rose and I cycled this morning along the cycle track to Naburn on

@@ -7,6 +7,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I had lunch with Kath Pringle today. We\'ve seen very little

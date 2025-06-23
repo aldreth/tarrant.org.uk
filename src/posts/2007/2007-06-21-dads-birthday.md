@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Toby
 comments: []
+type: Blog
 ---
 
 Dad\'s birthday yesterday. Got a nice selection of presents. A hand made

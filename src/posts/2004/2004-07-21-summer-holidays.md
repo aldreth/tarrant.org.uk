@@ -8,6 +8,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 It\'s been ages since we added anything, so here\'s a general round up

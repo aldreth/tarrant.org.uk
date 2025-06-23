@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John has gone off to a birthday party - pizza and then ten pin bowling.

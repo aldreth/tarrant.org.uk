@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We went over to Swarthmore for Meeting this morning. The village Meeting

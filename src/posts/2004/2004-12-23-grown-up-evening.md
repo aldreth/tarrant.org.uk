@@ -21,6 +21,7 @@ comments:
       Many thanks again to Edward and Cindy.
 
       Bill
+type: Blog
 ---
 
 Last night we had Jo & Bill and Michelle & Mark round for a meal. We had

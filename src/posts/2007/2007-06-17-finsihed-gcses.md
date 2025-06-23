@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Toby
 comments: []
+type: Blog
 ---
 
 Just finished taking my GCSEs so I\'m on holiday for the next three

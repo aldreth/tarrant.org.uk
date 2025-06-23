@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Saturday evening we went to Michelle and Mark\'s for a fantastic

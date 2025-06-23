@@ -26,6 +26,7 @@ comments:
       Thinking of you all
 
       love from Liz    
+type: Blog
 ---
 
 *Written on Saturday 10th.*

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John\'s Saturday morning dance group were part of the city\'s Dance

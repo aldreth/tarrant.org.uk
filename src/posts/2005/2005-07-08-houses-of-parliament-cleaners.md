@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve just written to our MP about an [article][1] in today\'s Guardian,

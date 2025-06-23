@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I went to the hospital to get the results of a recent CT scan,

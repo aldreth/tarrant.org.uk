@@ -16,6 +16,7 @@ comments:
     content: >
       For the bruised finger, arnica tablets and a dressing soaked in arnica
       will have a magical effect!
+type: Blog
 ---
 
 I went off today with the children to [Dane\'s Dyke][1] to look for

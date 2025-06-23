@@ -7,6 +7,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday I tidied up the kitchen, rubbed down bits of woodwork, cleared

@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby had his first weekend lie in for ages as the paper shop has now

@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Sunday 9th May and Lance and Mary\'s 40th Wedding Anniversary. Sorted

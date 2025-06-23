@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Started our weekend over a cup of tea and cream doughnuts and danish

@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy\'s fifth session of treatment in this round of chemo, which was

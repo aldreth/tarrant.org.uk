@@ -21,6 +21,7 @@ comments:
 
       Hanne and Richard
           ++++++
+type: Blog
 ---
 
 Cindy\'s been off chemo since Wednesday, and is now feeling much

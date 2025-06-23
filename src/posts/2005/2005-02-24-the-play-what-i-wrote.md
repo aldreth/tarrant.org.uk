@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy went to see [The Play What I Wrote][1] with Judy Emerick and came

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Today I took John and Rose to see the \'Cat In The Hat\' very medicore

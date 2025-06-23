@@ -7,6 +7,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Dave has been here since Monday, working away with me in the kitchen.

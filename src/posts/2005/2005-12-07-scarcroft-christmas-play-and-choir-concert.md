@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 This afternoon I went to Scarcroft to watch their Christmas play. It was

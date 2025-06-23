@@ -7,6 +7,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve finally put up some pictures of the kitchen as it currently is. Do

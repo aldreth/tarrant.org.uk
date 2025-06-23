@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve just uploaded the first lot of photos to the photo gallery section

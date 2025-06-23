@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had coffee with Michelle this morning at the Blakehead Bookshop and

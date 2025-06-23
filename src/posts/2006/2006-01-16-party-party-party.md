@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday (Sunday) was the day of the Meeting Mid-Winter Party and then

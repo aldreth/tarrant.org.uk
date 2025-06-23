@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 We **all** (Jayne, Steve, Christopher, Pat, Maurice, Mandy, David, Amy,

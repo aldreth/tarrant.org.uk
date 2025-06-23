@@ -38,6 +38,7 @@ comments:
       meet up.
 
       love Kath Richard & Heather
+type: Blog
 ---
 
 We went to Bridlington today with Mary. I enjoyed getting out in the

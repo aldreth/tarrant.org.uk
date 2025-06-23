@@ -11,7 +11,7 @@ description: "A family blog covering the last few years of Cindy Tarrant's life,
   {% set showTags = true %}
   <custom-card clickable class="mt-s-m">
     <{{ headingLevel }} slot="headline" class="text-step-2">
-      <a href="{{ item.data.permalink }}">{{ item.data.title }}</a>
+      <a href="/{{ item.data.permalink }}">{{ item.data.title }}</a>
     </{{ headingLevel }}>
     <span slot="date"><time datetime="{{ definedDate | toIsoString }}"> {{ definedDate | formatDate('MMMM D, YYYY') }} </time></span>
     {% if showTags and item.data.tags.length > 1 %}

@@ -8,6 +8,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby started year 10 yesterday - looking very smart in his blue T-shirt

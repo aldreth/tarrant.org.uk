@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Great excitement, as I\'ve booked us a holiday in Turkey over Easter.

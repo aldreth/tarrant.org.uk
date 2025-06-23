@@ -8,6 +8,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy & I had organised this term\'s worth of big deal tickets. I

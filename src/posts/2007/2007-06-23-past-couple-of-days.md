@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Toby
 comments: []
+type: Blog
 ---
 
 Had a good couple of days recently, although the weather hasn\'t been

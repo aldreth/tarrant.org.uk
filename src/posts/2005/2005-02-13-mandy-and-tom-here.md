@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Mandy and Tom have come to visit for a few days. Tom\'s half term has

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Sunday evening there was a Taizé service in the Minster for the Week

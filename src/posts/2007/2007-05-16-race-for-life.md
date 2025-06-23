@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Rose is doing the Race for Life in aid of [Cancer Research UK][1]. It\'s

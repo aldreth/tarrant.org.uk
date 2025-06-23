@@ -8,6 +8,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve had a great weekend - **two** bonfire parties and visitors to

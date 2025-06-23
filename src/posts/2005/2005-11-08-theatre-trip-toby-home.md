@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby\'s been off school today - dreadful cold, headache and runny nose.

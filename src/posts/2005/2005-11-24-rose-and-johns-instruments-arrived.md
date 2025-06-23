@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I picked up Rose\'s flute and John\'s saxophone on Tuesday and today is

@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve really got out of the habit of writing here - partly because it

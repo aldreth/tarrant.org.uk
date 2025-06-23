@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John, Rose and I have just cycled along the [planet cycle path][1] to

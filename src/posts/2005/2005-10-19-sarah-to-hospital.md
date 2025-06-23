@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 I went over to Will and Sarah\'s today to take Sarah to hospital. She\'s

@@ -7,6 +7,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 Phil and Marcia are visiting (with Claudia and Lucas) and we\'ve just

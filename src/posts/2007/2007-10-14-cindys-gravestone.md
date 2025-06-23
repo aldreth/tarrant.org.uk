@@ -8,6 +8,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Well at last, Cindy\'s gravestone has been put up in the cemetery. We

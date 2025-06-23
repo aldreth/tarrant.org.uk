@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 After Thursday, Friday, Monday and Tuesday morning off school, Rose went

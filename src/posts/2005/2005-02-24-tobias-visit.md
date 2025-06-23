@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby\'s German exchange - Tobi - went home on Wednesday. I think that he

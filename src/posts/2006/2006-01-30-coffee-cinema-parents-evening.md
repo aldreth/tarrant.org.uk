@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had coffee this morning with Mark and Michelle - nice to see them at

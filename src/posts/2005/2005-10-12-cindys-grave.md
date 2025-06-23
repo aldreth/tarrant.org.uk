@@ -23,6 +23,7 @@ comments:
       Bye for now.
 
       Phil...
+type: Blog
 ---
 
 I went to the cemetery yesterday and took some photos of where Cindy\'s

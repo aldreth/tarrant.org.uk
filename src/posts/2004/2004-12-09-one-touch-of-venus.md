@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I went to see this [musical][1] at The Grand, Leeds. It\'s by

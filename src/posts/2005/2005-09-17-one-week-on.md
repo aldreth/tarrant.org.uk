@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 It has been a week since Cindy was last in the house. It seems so

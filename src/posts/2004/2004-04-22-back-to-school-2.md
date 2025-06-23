@@ -9,6 +9,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Well it\'s Thursday and we\'ve all been back at school since Monday. The

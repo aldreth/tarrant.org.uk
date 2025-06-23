@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 After a few weeks of gradually getting more wheezy, Cindy has had

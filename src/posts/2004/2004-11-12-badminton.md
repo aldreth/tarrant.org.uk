@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I said the reiki made me feel more energetic - here\'s proof (perhaps).

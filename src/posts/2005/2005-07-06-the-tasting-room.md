@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Lunch today at The Tasting Room York. Here is Edward and my restaurant

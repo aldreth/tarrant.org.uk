@@ -8,6 +8,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve been making meringues for John\'s birthday this evening. Cindy

@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve just got back from a lovely holiday in Patara, Turkey.

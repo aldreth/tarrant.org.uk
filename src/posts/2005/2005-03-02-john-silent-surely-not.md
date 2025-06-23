@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 For [Red Nose Day][1] next Friday, John has decided to do a whole day\'s

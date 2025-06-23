@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'m sure it\'s mainly the weather, but I\'ve had a lovely day today. It

@@ -7,6 +7,7 @@ tags:
   - General
 author: Toby
 comments: []
+type: Blog
 ---
 
 Sorry about the rubbish title, couldn\'t think of anything more

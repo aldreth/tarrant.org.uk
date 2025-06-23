@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cathy Holman and Chris Hughes wrote this wonderful piece about Cindy for

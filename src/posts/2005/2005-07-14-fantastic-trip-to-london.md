@@ -25,6 +25,7 @@ comments:
       Love Jane
 
       xxx
+type: Blog
 ---
 
 We\'ve just got back from a two night trip to London - more scorching

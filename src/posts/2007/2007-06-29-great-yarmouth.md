@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Toby
 comments: []
+type: Blog
 ---
 
 Got back from Yarmouth last night after an exhausting journey, but

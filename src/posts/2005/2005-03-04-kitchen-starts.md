@@ -7,6 +7,7 @@ tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Dave came up on Sunday evening and by Monday evening we had no units in

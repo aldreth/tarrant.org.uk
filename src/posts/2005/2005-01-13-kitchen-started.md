@@ -7,6 +7,7 @@ tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy & I went to Ikea today, and spent a load of money on kitchen

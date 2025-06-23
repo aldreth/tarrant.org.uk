@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I bought a pair of Doctor Marten\'s shoes (not boots) today. They are

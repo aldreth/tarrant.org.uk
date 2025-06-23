@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Just taken Cindy up to Brian\'s for a haircut. Her hair has gradually

@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Late in the afternoon, Cindy came downstairs. I pushed her in the

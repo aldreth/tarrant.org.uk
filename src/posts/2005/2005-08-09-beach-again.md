@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Some people went off to Portmerion, but Mary and all 5 of us went off to

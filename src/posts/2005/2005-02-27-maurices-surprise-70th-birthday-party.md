@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy\'s dad, Maurice, was 70 on Friday and we all met up for a surprise

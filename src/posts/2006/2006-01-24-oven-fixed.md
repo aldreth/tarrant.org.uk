@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Fixed - well it wasn\'t actually broken! As I suspected, a button had

@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Richard Ogden popped in on his way home from Monthly Meeting to say that

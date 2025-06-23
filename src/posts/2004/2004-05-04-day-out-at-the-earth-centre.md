@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Biked to the railway station this morning to catch the train to

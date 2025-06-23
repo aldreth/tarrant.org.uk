@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had a lovely lunch today with Kath. The last of the Ikea gravadlax,

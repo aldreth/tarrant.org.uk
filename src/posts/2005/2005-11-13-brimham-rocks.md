@@ -16,6 +16,7 @@ comments:
     content: Brimham Rocks are brilliant - Matt and Sam used to love going there
       when we lived in York.  Glad you're all back to hectic activity this week
       (always feel like serial under-achiever whenever read yr blog) - take care
+type: Blog
 ---
 
 We went to [Brimham Rocks][1] today with Kath and Louis. It was a

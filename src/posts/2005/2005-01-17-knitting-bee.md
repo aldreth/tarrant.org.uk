@@ -7,6 +7,7 @@ tags:
   - Friends
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Enjoyed a lovely day at Carol Gilham\'s knitting bee held to celebrate

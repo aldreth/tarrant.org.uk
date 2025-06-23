@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John and Rose have gone to bed. Cindy is having a nap because she\'s

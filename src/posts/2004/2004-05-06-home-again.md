@@ -17,6 +17,7 @@ comments:
       Lovely to hear your home again, will chat to you later - love, Jayne.
 
       ps, tell Toby, glad to hear his sea monkeys are alive and well!
+type: Blog
 ---
 
 Cindy\'s back home again, all having gone well with her fifth treatment.

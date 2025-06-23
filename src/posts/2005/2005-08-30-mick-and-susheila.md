@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Mick, Cindy\'s colleague from Abbey Grange came round to see Cindy this

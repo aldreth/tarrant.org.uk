@@ -7,6 +7,7 @@ tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 It was Lal and Pauline\'s first anniversary, so they had a party to

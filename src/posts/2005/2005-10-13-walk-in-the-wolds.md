@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I went for a [walk][1] in the Yorkshire Wolds today with David Campbell.

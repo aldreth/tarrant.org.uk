@@ -7,6 +7,7 @@ tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 When I was at Meeting yesterday I picked up a letter that was waiting

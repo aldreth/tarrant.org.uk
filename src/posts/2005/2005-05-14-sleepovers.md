@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John had Tom round for a sleepover, Rose went to Nok\'s. I don\'t think

@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 To celebrate the birth of Thomas Austin Bowers on 10 April 2004, here

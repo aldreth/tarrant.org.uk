@@ -8,6 +8,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 It would have been Cindy\'s birthday tomorrow so we went out for a meal

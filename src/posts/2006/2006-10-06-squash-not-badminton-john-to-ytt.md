@@ -8,6 +8,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday I taught Luigi and Clara - for the first time this week as

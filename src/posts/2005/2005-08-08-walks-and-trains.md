@@ -7,6 +7,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Will, Toby, John, Rose and I set off on the Snowdon Horseshoe; Jane,

@@ -8,6 +8,7 @@ tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Over half term we went to one of the Center Parcs in Holland. We drove

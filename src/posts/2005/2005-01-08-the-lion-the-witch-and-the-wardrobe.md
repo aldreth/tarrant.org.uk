@@ -7,6 +7,7 @@ tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Last night we went to see [The Lion, the Witch and the Wardrobe][1] at

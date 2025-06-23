@@ -7,6 +7,7 @@ tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'m afraid I\'m not going to get around to posting christmas cards this

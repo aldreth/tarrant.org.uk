@@ -7,6 +7,7 @@ tags:
   - General
 author: Toby
 comments: []
+type: Blog
 ---
 
 Just to let you know that all updates about my truck have been moved, to
