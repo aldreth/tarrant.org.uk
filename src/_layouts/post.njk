@@ -4,7 +4,7 @@ schema: BlogPosting
 ---
 
 <div class="region">
-  <div class="wrapper flow prose" data-pagefind-body>
+  <div class="wrapper flow prose" data-pagefind-body data-pagefind-filter="type:{{type}}" data-pagefind-meta="type:{{type}}">
     <h1 class="gradient-text">{{ title }}</h1>
 
     {% if image %}

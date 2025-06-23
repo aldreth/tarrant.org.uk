@@ -14,6 +14,13 @@ export const getAllBlogPosts = collection => {
     .reverse();
 };
 
+export const getAllDiaryPosts = collection => {
+  return collection
+    .getFilteredByGlob('./src/posts/**/*.md')
+    .filter(post => post.data.type == 'Diary')
+    .reverse();
+};
+
 /** All relevant pages as a collection for sitemap.xml */
 export const showInSitemap = collection => {
   return collection.getFilteredByGlob('./src/**/*.{md,njk}');

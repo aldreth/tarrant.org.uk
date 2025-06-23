@@ -18,6 +18,7 @@ import yaml from 'js-yaml';
 import {
   getAllPosts,
   getAllBlogPosts,
+  getAllDiaryPosts,
   getAllPostsByAuthor,
   getAllPostsByYear,
   getAllPostsByYearMonth,
@@ -43,6 +44,7 @@ export default async function (eleventyConfig) {
   //	---------------------  Collections
   eleventyConfig.addCollection('allPosts', getAllPosts);
   eleventyConfig.addCollection('allBlogPosts', getAllBlogPosts);
+  eleventyConfig.addCollection('allDiaryPosts', getAllDiaryPosts);
   eleventyConfig.addCollection('allPostsByYear', getAllPostsByYear);
   eleventyConfig.addCollection('allPostsByYearMonth', getAllPostsByYearMonth);
   eleventyConfig.addCollection('allPostsByYearMonthDay', getAllPostsByYearMonthDay);

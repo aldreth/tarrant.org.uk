@@ -27,6 +27,10 @@ export default {
       url: '/blog/'
     },
     {
+      text: 'Diary',
+      url: '/diary/'
+    },
+    {
       text: 'Tags',
       url: '/tags/'
     },
