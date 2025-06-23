@@ -4,7 +4,7 @@ schema: BlogPosting
 ---
 
 <div class="region">
-  <div class="wrapper flow prose">
+  <div class="wrapper flow prose" data-pagefind-body>
     <h1 class="gradient-text">{{ title }}</h1>
 
     {% if image %}
@@ -19,7 +19,7 @@ schema: BlogPosting
       {%- endif %}
       <!-- date -->
       {% set definedDate = date %} {% include "partials/date.njk" %} by
-      <a href="/authors/{{ author | slugify }}">{{ author }}</a>
+      <a href="/authors/{{ author | slugify }}" data-pagefind-meta="author">{{ author }}</a>
     </p>
     <p class="meta | cluster gutter-xs-s">
       <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a

@@ -25,6 +25,10 @@ export default {
     {
       text: 'Tags',
       url: '/tags/'
+    },
+    {
+      text: 'Search',
+      url: '/search/'
     }
   ],
   bottom
