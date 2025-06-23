@@ -28,7 +28,7 @@ export default {
     },
     {
       text: 'Search',
-      url: '/search/'
+      url: '/search'
     }
   ],
   bottom
