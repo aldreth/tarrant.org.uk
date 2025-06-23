@@ -20,13 +20,13 @@ title: Search
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
-  // window.addEventListener('DOMContentLoaded', (event) => {
-  //   new PagefindUI({
-  //     element: "search#search", 
-  //     showSubResults: true,
-  //     highlightParam: "highlight",
-  //     autofocus: true
-  //   });
-  //   document.querySelector('form#form--search').classList.add('hidden')
-  // });
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "search#search", 
+      showSubResults: true,
+      highlightParam: "highlight",
+      autofocus: true
+    });
+    document.querySelector('form#form--search').classList.add('hidden')
+  });
 </script>
