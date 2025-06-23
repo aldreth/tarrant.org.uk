@@ -12,7 +12,7 @@ schema: BlogPosting
       {% image image, alt or "", credit, "eager", "feature" %}
     {% endif %}
 
-    <p class="meta | cluster gutter-xs-s">
+    <p class="meta | cluster gutter-xs-s" data-pagefind-ignore>
       <!-- draft status -->
       {%- if draft -%}
         <span class="button" data-small-button data-button-variant="tertiary">draft</span>
@@ -21,7 +21,7 @@ schema: BlogPosting
       {% set definedDate = date %} {% include "partials/date.njk" %} by
       <a href="/authors/{{ author | slugify }}" data-pagefind-meta="author">{{ author }}</a>
     </p>
-    <p class="meta | cluster gutter-xs-s">
+    <p class="meta | cluster gutter-xs-s" data-pagefind-ignore>
       <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a
         href="/{{ date | formatDate("YYYY/MM") }}"
         >{{ date | formatDate("MM") }}</a

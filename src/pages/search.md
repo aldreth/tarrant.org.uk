@@ -25,7 +25,8 @@ title: Search
       element: "search#search", 
       showSubResults: true,
       highlightParam: "highlight",
-      autofocus: true
+      autofocus: true,
+      pageSize: 10
     });
     document.querySelector('form#form--search').classList.add('hidden')
   });
