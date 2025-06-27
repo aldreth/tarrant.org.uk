@@ -1,8 +1,8 @@
 const {readFile, writeFile} = require('fs/promises');
 const {stringify} = require('yaml');
 
-const month = 'January';
-const monthNum = '01';
+const month = 'February';
+const monthNum = '02';
 
 const basePath = `src/posts/2005/2005-${monthNum}`;
 
