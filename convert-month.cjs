@@ -7,7 +7,7 @@ const monthNum = '09';
 const basePath = `src/posts/2005/2005-${monthNum}`;
 
 const writeDiaryEntries = async () => {
-  let buff = await readFile(`./${month}-C.md`);
+  let buff = await readFile(`./${month}-E.md`);
   let text = buff.toString();
   let chunks = text.split('#####################\n');
 
@@ -37,7 +37,7 @@ const getYaml = (day, twoFigureDay) => {
   const date = `2005-${monthNum}-${twoFigureDay}`;
   const permalink = `2005/${monthNum}/${twoFigureDay}/diary/`;
 
-  return {title, description: '', date, permalink, author: 'Cindy', comments: [], type: 'Diary'};
+  return {title, description: '', date, permalink, author: 'Edward', comments: [], type: 'Diary'};
 };
 
 writeDiaryEntries().catch(console.error);
