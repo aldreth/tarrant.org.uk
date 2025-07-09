@@ -1,13 +1,13 @@
 const {readFile, writeFile} = require('fs/promises');
 const {stringify} = require('yaml');
 
-const month = 'August';
-const monthNum = '08';
+const month = 'September';
+const monthNum = '09';
 
 const basePath = `src/posts/2005/2005-${monthNum}`;
 
 const writeDiaryEntries = async () => {
-  let buff = await readFile(`./${month}.md`);
+  let buff = await readFile(`./${month}-C.md`);
   let text = buff.toString();
   let chunks = text.split('#####################\n');
 
