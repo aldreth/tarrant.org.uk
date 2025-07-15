@@ -1,30 +1,27 @@
 const {readFile, writeFile} = require('fs/promises');
 const {stringify} = require('yaml');
 
-const month = 'September';
-const monthNum = '09';
-
-const basePath = `src/posts/2005/2005-${monthNum}`;
+const basePath = `src/posts/`;
 
 const writeDiaryEntries = async () => {
-  let buff = await readFile(`./${month}-E.md`);
+  let buff = await readFile(`./journal/journal.md`);
   let text = buff.toString();
   let chunks = text.split('#####################\n');
 
   chunks.map(async chunk => {
     let lines = chunk.split('\n');
 
-    let [day, ...rest] = lines;
+    let [date, ...rest] = lines;
 
-    const twoFigureDay = day.length === 1 ? `0${day}` : day;
+    let year = new Date(date).getFullYear();
 
-    let yaml = getYaml(day, twoFigureDay);
+    let yaml = getYaml(date);
 
     let content = rest.join('\n');
 
     const newContent = `---\n${stringify(yaml)}---\n\n${content}`;
 
-    const filepath = `${basePath}-${twoFigureDay}-diary.md`;
+    const filepath = `${basePath}${year}/${date}-journal.md`;
 
     await writeFile(filepath, newContent);
 
@@ -32,12 +29,13 @@ const writeDiaryEntries = async () => {
   });
 };
 
-const getYaml = (day, twoFigureDay) => {
-  const title = `${day} ${month}`;
-  const date = `2005-${monthNum}-${twoFigureDay}`;
-  const permalink = `2005/${monthNum}/${twoFigureDay}/diary/`;
+const getYaml = date => {
+  let options = {day: 'numeric', month: 'long'};
+  const title = new Intl.DateTimeFormat('en-GB', options).format(new Date(date));
+  const slashDate = date.replaceAll('-', '/');
+  const permalink = `${slashDate}/journal/`;
 
-  return {title, description: '', date, permalink, author: 'Edward', comments: [], type: 'Diary'};
+  return {title, description: '', date, permalink, author: 'Cindy', comments: [], type: 'Journal'};
 };
 
 writeDiaryEntries().catch(console.error);

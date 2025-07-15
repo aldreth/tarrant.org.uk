@@ -23,9 +23,6 @@ made burnt chocolate buns!  We had delicious mussels for tea.
 John went to Tom\'s for a birthday sleepover and I left Rose and Toby
 \"home alone\" while I went to the theatre with Sam to see [How Many
 Miles to Basra?][1]  It was very thought provoking - quite heavy and
-political.[  
- ][1]
-
-
+political.
 
 [1]: https://wyplayhouse.com/events/event_details.asp?event_ID=514
