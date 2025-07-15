@@ -1,0 +1,15 @@
+.post-nav {
+  div {
+    display: flex;
+    justify-content: space-between;
+    font-size: var(--size-step-min-1);
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

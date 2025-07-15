@@ -39,6 +39,12 @@ schema: BlogPosting
     </p>
 
     {{ content | safe }}
+
+    {% set typeCollection = collections.allBlogPosts if type == "Blog" else (collections.allDiaryPosts if type == "Diary" else collections.allJournalPosts) %}
+    {% include "partials/post-nav.njk" %}
+
+    
+
   </div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->
