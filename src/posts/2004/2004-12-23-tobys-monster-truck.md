@@ -1,12 +1,15 @@
 ---
 title: Toby's Monster Truck
-description: ""
-date: 2004-12-23
-permalink: 2004/12/23/tobys-monster-truck/
+description: >-
+  I\'ve just got back from driving over to Immingham, the port on the other side
+  of the Humber from Hull,...
+date: '2004-12-23'
+permalink: /2004/12/23/tobys-monster-truck/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve just got back from driving over to Immingham, the port on the

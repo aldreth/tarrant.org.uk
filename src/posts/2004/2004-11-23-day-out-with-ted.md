@@ -1,12 +1,15 @@
 ---
 title: Day Out with Ted
-description: ""
-date: 2004-11-23
-permalink: 2004/11/23/day-out-with-ted/
+description: >-
+  I had a great day today. Immediately after dropping the children at school, I
+  went to the station, met Ted...
+date: '2004-11-23'
+permalink: /2004/11/23/day-out-with-ted/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had a great day today. Immediately after dropping the children at

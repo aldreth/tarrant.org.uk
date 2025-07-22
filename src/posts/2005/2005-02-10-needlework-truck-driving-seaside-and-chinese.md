@@ -1,12 +1,15 @@
 ---
-title: Needlework, Truck Driving, Seaside and Chinese
-description: ""
-date: 2005-02-10
-permalink: 2005/02/10/needlework-truck-driving-seaside-and-chinese/
+title: 'Needlework, Truck Driving, Seaside and Chinese'
+description: >-
+  Wednesday of half-term holiday - Cindy and Rose went to the City of York
+  Embroiderer\'s Guild children\'s session with Nok....
+date: '2005-02-10'
+permalink: /2005/02/10/needlework-truck-driving-seaside-and-chinese/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Wednesday of half-term holiday -

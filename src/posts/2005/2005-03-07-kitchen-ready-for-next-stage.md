@@ -1,12 +1,15 @@
 ---
 title: Kitchen Ready for Next Stage
-description: ""
-date: 2005-03-07
-permalink: 2005/03/07/kitchen-ready-for-next-stage/
+description: >-
+  Dave went home on Saturday after lunch. He left a kitchen with a new
+  plasterboard ceiling, total rewiring and all...
+date: '2005-03-07'
+permalink: /2005/03/07/kitchen-ready-for-next-stage/
 tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Dave went home on Saturday after lunch. He left a kitchen with a new

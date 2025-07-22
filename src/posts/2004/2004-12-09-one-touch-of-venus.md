@@ -1,12 +1,15 @@
 ---
 title: One Touch of Venus
-description: ""
-date: 2004-12-09
-permalink: 2004/12/09/one-touch-of-venus/
+description: >-
+  Cindy and I went to see this [musical][1] at The Grand, Leeds. It\'s by Kurt
+  Weill with lyrics by Ogden...
+date: '2004-12-09'
+permalink: /2004/12/09/one-touch-of-venus/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I went to see this [musical][1] at The Grand, Leeds. It\'s by

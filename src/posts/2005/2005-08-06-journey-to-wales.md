@@ -1,12 +1,15 @@
 ---
 title: Journey to Wales
-description: ""
-date: 2005-08-06
-permalink: 2005/08/06/journey-to-wales/
+description: >-
+  Saturday - time to go to Wales. Cindy woke up not feeling very well, but we
+  loaded the car up...
+date: '2005-08-06'
+permalink: /2005/08/06/journey-to-wales/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Saturday - time to go to Wales.

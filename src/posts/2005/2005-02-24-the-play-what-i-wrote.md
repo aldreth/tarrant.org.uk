@@ -1,12 +1,15 @@
 ---
 title: The Play What I Wrote
-description: ""
-date: 2005-02-24
-permalink: 2005/02/24/the-play-what-i-wrote/
+description: >-
+  Cindy went to see [The Play What I Wrote][1] with Judy Emerick and came home
+  saying it was absolutely hilarious....
+date: '2005-02-24'
+permalink: /2005/02/24/the-play-what-i-wrote/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy went to see [The Play What I Wrote][1] with Judy Emerick and came

@@ -1,12 +1,15 @@
 ---
 title: Week and a Half after Chemo
-description: ""
-date: 2004-11-12
-permalink: 2004/11/12/week-and-a-half-after-chemo/
+description: >-
+  Cindy is doing fine, but is absolutely exhausted. Today, all she has managed
+  to do is pop out in the...
+date: '2004-11-12'
+permalink: /2004/11/12/week-and-a-half-after-chemo/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy is doing fine, but is absolutely exhausted. Today, all she has

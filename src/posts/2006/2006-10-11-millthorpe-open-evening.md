@@ -1,12 +1,15 @@
 ---
 title: Millthorpe Open Evening
-description: ""
-date: 2006-10-11
-permalink: 2006/10/11/millthorpe-open-evening/
+description: >-
+  On Monday evening Rose and I went up to Millthorpe for their open evening.
+  It\'s very odd to think that...
+date: '2006-10-11'
+permalink: /2006/10/11/millthorpe-open-evening/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Monday evening Rose and I went up to Millthorpe for their open

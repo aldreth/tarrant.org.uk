@@ -1,12 +1,15 @@
 ---
 title: Steptoe & Son
-description: ""
-date: 2005-11-12
-permalink: 2005/11/12/steptoe-and-son/
+description: >-
+  I\'ve just got the children into bed after going out this evening to see
+  [Steptoe & Son][1] at York Theatre...
+date: '2005-11-12'
+permalink: /2005/11/12/steptoe-and-son/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve just got the children into bed after going out this evening to see

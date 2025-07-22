@@ -1,12 +1,15 @@
 ---
-title: Football, Town and Sketching
-description: ""
-date: 2006-01-14
-permalink: 2006/01/14/football-town-and-sketching/
+title: 'Football, Town and Sketching'
+description: >-
+  Rose went to her dancing at Southlands this morning - the normal tap, ballet,
+  disco and drama she\'s been doing...
+date: '2006-01-14'
+permalink: /2006/01/14/football-town-and-sketching/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Rose went to her dancing at Southlands this morning - the normal tap,

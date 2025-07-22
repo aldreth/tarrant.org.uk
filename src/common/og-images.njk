@@ -21,7 +21,9 @@ eleventyExcludeFromCollections: true
   xmlns:xlink="http://www.w3.org/1999/xlink"
 >
   {% set titleInLines = post.data.title | splitlines(22) %}
-  {% set numberOfLines = titleInLines.length %}
+  {% set descriptionInLines = post.data.description | splitlines(80) %}
+  {% set numberOfLinesInTitle = titleInLines.length  %}
+  {% set numberOfLines = numberOfLinesInTitle  %}
   {% if numberOfLines == 1 %}
     {% set verticalStartingPoint = 340 %}
     {% elseif numberOfLines == 2 %}
@@ -64,6 +66,20 @@ eleventyExcludeFromCollections: true
   >
     {% for line in titleInLines %}
       <tspan x="160" y="{{ verticalStartingPoint - 20 + loop.index0 * 85 }}"> {{ line }} </tspan>
+    {% endfor %}
+  </text>
+
+  <!-- description -->
+  <text
+    id="text"
+    font-family="{{ fontBody }}, sans-serif"
+    font-size="22"
+    font-weight="500"
+    fill="{{ text }}"
+    letter-spacing="-1"
+  >
+    {% for line in descriptionInLines %}
+      <tspan x="160" y="{{ verticalStartingPoint - 20 + numberOfLinesInTitle * 85 + loop.index0 * 25 }}"> {{ line }} </tspan>
     {% endfor %}
   </text>
 

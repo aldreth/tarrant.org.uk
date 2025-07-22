@@ -1,12 +1,15 @@
 ---
 title: Maurice at Thruxton
-description: ""
-date: 2005-08-05
-permalink: 2005/08/05/maurice-at-thruxton/
+description: >-
+  Maurice used his birthday present today - a driving experience at
+  [Thruxton][1]. He went round first in a Mazda RX8,...
+date: '2005-08-05'
+permalink: /2005/08/05/maurice-at-thruxton/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Maurice used his birthday present today - a driving experience at

@@ -1,12 +1,15 @@
 ---
 title: Training Day
-description: ""
-date: 2005-11-12
-permalink: 2005/11/12/training-day/
+description: >-
+  John and Rose were off school yesterday, as it was a teacher training day.
+  Rose\'s friend Anna had organised a...
+date: '2005-11-12'
+permalink: /2005/11/12/training-day/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John and Rose were off school yesterday, as it was a teacher training

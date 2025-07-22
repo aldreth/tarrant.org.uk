@@ -1,12 +1,15 @@
 ---
 title: Millthorpe Visit
-description: ""
-date: 2005-10-05
-permalink: 2005/10/05/millthorpe-visit/
+description: >-
+  John has been off school today with tummy bug, but he was well enough to go
+  round [Millthorpe School][1] in...
+date: '2005-10-05'
+permalink: /2005/10/05/millthorpe-visit/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John has been off school today with tummy bug, but he was well enough to

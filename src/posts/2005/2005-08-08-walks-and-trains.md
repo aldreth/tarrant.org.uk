@@ -1,12 +1,15 @@
 ---
 title: Walks and Trains
-description: ""
-date: 2005-08-08
-permalink: 2005/08/08/walks-and-trains/
+description: >-
+  Will, Toby, John, Rose and I set off on the Snowdon Horseshoe; Jane, Andy and
+  Mary went on the PYG...
+date: '2005-08-08'
+permalink: /2005/08/08/walks-and-trains/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Will, Toby, John, Rose and I set off on the Snowdon Horseshoe; Jane,

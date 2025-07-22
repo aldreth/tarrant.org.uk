@@ -1,12 +1,15 @@
 ---
 title: Craft & Engineering Afternoon
-description: ""
-date: 2005-01-22
-permalink: 2005/01/22/craft-and-engineering-afternoon/
+description: >-
+  John has gone off to a birthday party - pizza and then ten pin bowling. We\'re
+  having mussels for tea,...
+date: '2005-01-22'
+permalink: /2005/01/22/craft-and-engineering-afternoon/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John has gone off to a birthday party - pizza and then ten pin bowling.

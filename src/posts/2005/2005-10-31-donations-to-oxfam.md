@@ -1,12 +1,15 @@
 ---
 title: Donations to Oxfam
-description: ""
-date: 2005-10-31
-permalink: 2005/10/31/donations-to-oxfam/
+description: >-
+  When I was at Meeting yesterday I picked up a letter that was waiting for me
+  in the pigeon holes....
+date: '2005-10-31'
+permalink: /2005/10/31/donations-to-oxfam/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 When I was at Meeting yesterday I picked up a letter that was waiting

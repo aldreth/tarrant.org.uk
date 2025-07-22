@@ -1,12 +1,15 @@
 ---
 title: Phoenix Dance
-description: ""
-date: 2006-05-20
-permalink: 2006/05/20/phoenix-dance/
+description: >-
+  John and I went to see [Stories in Red][1] the current Phoenix Dance
+  production at the WYP last night. John...
+date: '2006-05-20'
+permalink: /2006/05/20/phoenix-dance/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John and I went to see [Stories in Red][1] the current Phoenix Dance

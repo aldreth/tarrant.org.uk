@@ -1,12 +1,15 @@
 ---
 title: I'm a Member
-description: ""
-date: 2006-10-08
-permalink: 2006/10/08/im-a-member/
+description: >-
+  Richard Ogden popped in on his way home from Monthly Meeting to say that I\'ve
+  been accepted as a member...
+date: '2006-10-08'
+permalink: /2006/10/08/im-a-member/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Richard Ogden popped in on his way home from Monthly Meeting to say that

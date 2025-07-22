@@ -1,12 +1,15 @@
 ---
 title: Past couple of days
-description: ""
-date: 2007-06-23
-permalink: 2007/06/23/past-couple-of-days/
+description: >-
+  Had a good couple of days recently, although the weather hasn\'t been very
+  good. Spent Friday in town with friends...
+date: '2007-06-23'
+permalink: /2007/06/23/past-couple-of-days/
 tags:
   - Days with the Children
 author: Toby
 comments: []
+type: Blog
 ---
 
 Had a good couple of days recently, although the weather hasn\'t been

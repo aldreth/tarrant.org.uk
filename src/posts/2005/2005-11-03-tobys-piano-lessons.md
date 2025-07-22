@@ -1,12 +1,15 @@
 ---
 title: Toby's Piano Lessons
-description: ""
-date: 2005-11-03
-permalink: 2005/11/03/tobys-piano-lessons/
+description: >-
+  Toby decided after the summer holiday that he wanted to have piano lessons
+  again. He tinkled quite a lot over...
+date: '2005-11-03'
+permalink: /2005/11/03/tobys-piano-lessons/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Toby decided after the summer holiday that he wanted to have piano

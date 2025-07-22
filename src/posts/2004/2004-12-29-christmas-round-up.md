@@ -1,12 +1,15 @@
 ---
 title: Christmas Round Up
-description: ""
-date: 2004-12-29
-permalink: 2004/12/29/christmas-round-up/
+description: >-
+  A lovely Christmas. Children all pleased with their presents, at one point on
+  Christmas morning our front room was ankle...
+date: '2004-12-29'
+permalink: /2004/12/29/christmas-round-up/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 A lovely Christmas.

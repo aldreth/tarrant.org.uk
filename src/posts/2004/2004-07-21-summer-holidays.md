@@ -1,13 +1,16 @@
 ---
 title: Summer Holidays
-description: ""
-date: 2004-07-21
-permalink: 2004/07/21/summer-holidays/
+description: >-
+  It\'s been ages since we added anything, so here\'s a general round up of
+  events of the last month or...
+date: '2004-07-21'
+permalink: /2004/07/21/summer-holidays/
 tags:
   - Days with the Children
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 It\'s been ages since we added anything, so here\'s a general round up

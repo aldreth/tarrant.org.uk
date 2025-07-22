@@ -1,14 +1,17 @@
 ---
 title: Back to School
-description: ""
-date: 2004-04-22
-permalink: 2004/04/22/back-to-school/
+description: >-
+  Well it\'s Thursday and we\'ve all been back at school since Monday. The
+  children seem to have all settled back...
+date: '2004-04-22'
+permalink: /2004/04/22/back-to-school/
 tags:
   - Cindy
   - Days with the Children
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Well it\'s Thursday and we\'ve all been back at school since Monday. The

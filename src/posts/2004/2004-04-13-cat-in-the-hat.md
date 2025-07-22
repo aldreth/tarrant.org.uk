@@ -1,12 +1,15 @@
 ---
 title: Cat in the Hat
-description: ""
-date: 2004-04-13
-permalink: 2004/04/13/cat-in-the-hat/
+description: >-
+  Today I took John and Rose to see the \'Cat In The Hat\' very medicore and
+  given only 5 out...
+date: '2004-04-13'
+permalink: /2004/04/13/cat-in-the-hat/
 tags:
   - Days with the Children
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Today I took John and Rose to see the \'Cat In The Hat\' very medicore

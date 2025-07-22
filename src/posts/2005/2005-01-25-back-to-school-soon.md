@@ -1,12 +1,15 @@
 ---
 title: Back to School ...Soon
-description: ""
-date: 2005-01-25
-permalink: 2005/01/25/back-to-school-soon/
+description: >-
+  I went into school this morning to talk about starting back after the half
+  term holiday. They\'ve arranged a \"phased...
+date: '2005-01-25'
+permalink: /2005/01/25/back-to-school-soon/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I went into school this morning to talk about starting back after the

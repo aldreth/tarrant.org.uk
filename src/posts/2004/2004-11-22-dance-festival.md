@@ -1,12 +1,15 @@
 ---
 title: Dance Festival
-description: ""
-date: 2004-11-22
-permalink: 2004/11/22/dance-festival/
+description: >-
+  John\'s Saturday morning dance group were part of the city\'s Dance
+  Performance yesterday afternoon. His group had prepared a dance...
+date: '2004-11-22'
+permalink: /2004/11/22/dance-festival/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John\'s Saturday morning dance group were part of the city\'s Dance

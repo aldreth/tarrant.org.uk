@@ -1,12 +1,15 @@
 ---
 title: Last Week of Term
-description: ""
-date: 2004-12-17
-permalink: 2004/12/17/last-week-of-term/
+description: >-
+  It\'s Friday afternoon, and the children have come home for the start of two
+  and a half weeks of Christmas...
+date: '2004-12-17'
+permalink: /2004/12/17/last-week-of-term/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 It\'s Friday afternoon, and the children have come home for the start of

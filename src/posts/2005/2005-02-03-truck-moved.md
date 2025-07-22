@@ -1,12 +1,15 @@
 ---
 title: Truck moved
-description: ""
-date: 2005-02-03
-permalink: 2005/02/03/truck-moved/
+description: >-
+  Just to let you know that all updates about my truck have been moved, to a new
+  website that I...
+date: '2005-02-03'
+permalink: /2005/02/03/truck-moved/
 tags:
   - General
 author: Toby
 comments: []
+type: Blog
 ---
 
 Just to let you know that all updates about my truck have been moved, to

@@ -1,12 +1,15 @@
 ---
 title: John - Silent - Surely Not!
-description: ""
-date: 2005-03-02
-permalink: 2005/03/02/john-silent-surely-not/
+description: >-
+  For [Red Nose Day][1] next Friday, John has decided to do a whole day\'s
+  sponsored silence. Everyone who know\'s him...
+date: '2005-03-02'
+permalink: /2005/03/02/john-silent-surely-not/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 For [Red Nose Day][1] next Friday, John has decided to do a whole day\'s

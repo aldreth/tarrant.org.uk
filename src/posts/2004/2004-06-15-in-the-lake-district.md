@@ -1,12 +1,15 @@
 ---
 title: In the Lake District
-description: ""
-date: 2004-06-15
-permalink: 2004/06/15/in-the-lake-district/
+description: >-
+  Well - I needn\'t have dreaded it! The coach journey over to the Lake District
+  was fine, even quite pleasant,...
+date: '2004-06-15'
+permalink: /2004/06/15/in-the-lake-district/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Well - I needn\'t have dreaded it! The coach journey over to the Lake

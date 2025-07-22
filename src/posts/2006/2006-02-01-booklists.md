@@ -1,12 +1,15 @@
 ---
 title: Booklists
-description: ""
-date: 2006-02-01
-permalink: 2006/02/01/booklists/
+description: >-
+  The Guardian published [top 10 book lists][1] that three authors think
+  children should have read by the time they leave...
+date: '2006-02-01'
+permalink: /2006/02/01/booklists/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 The Guardian published [top 10 book lists][1] that three authors think

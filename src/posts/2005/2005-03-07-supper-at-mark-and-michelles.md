@@ -1,12 +1,15 @@
 ---
 title: Supper at Mark and Michelle's
-description: ""
-date: 2005-03-07
-permalink: 2005/03/07/supper-at-mark-and-michelles/
+description: >-
+  On Saturday evening we went to Michelle and Mark\'s for a fantastic meal, with
+  Jo and Bill. After a week...
+date: '2005-03-07'
+permalink: /2005/03/07/supper-at-mark-and-michelles/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Saturday evening we went to Michelle and Mark\'s for a fantastic

@@ -1,0 +1,18 @@
+{% set previousTypePost = typeCollection | getPreviousCollectionItem %}
+{% set nextTypePost = typeCollection | getNextCollectionItem %}
+{% set previousPost = collections.allPosts | getPreviousCollectionItem %}
+{% set nextPost = collections.allPosts | getNextCollectionItem %}
+
+<nav class="post-nav">
+{% if previousTypePost != previousPost or nextTypePost != nextPost%}
+<div>
+{% if previousTypePost %}<a href="{{ previousTypePost.url }}">{% svg "misc/arrow-left" %}Newer {{type}} Entry</a>{%- else %}<div></div>{% endif %}
+{% if nextTypePost %}<a href="{{ nextTypePost.url }}">Older {{type}} Entry{% svg "misc/arrow-right" %}</a>{% endif %}
+</div>
+{% endif %}
+
+<div>
+{% if previousPost %}<a href="{{ previousPost.url }}">{% svg "misc/arrow-left" %}Newer Entry</a>{%- else %}<div></div>{% endif %}
+{% if nextPost %}<a href="{{ nextPost.url }}">Older Entry{% svg "misc/arrow-right" %}</a>{% endif %}
+</div>
+</nav>

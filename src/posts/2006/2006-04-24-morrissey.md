@@ -1,12 +1,15 @@
 ---
 title: Morrissey
-description: ""
-date: 2006-04-24
-permalink: 2006/04/24/morrissey/
+description: >-
+  I just watched 4 music presents... Morrissey from earlier in the month. He\'s
+  aged really well and the new songs...
+date: '2006-04-24'
+permalink: /2006/04/24/morrissey/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I just watched 4 music presents... Morrissey from earlier in the month.

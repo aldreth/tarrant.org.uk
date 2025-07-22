@@ -1,12 +1,15 @@
 ---
 title: Sunday - Beach
-description: ""
-date: 2005-08-07
-permalink: 2005/08/07/sunday-beach/
+description: >-
+  Went to Harlech beach - about a 20 minute drive. It\'s a lovely flat sandy
+  beach, with views of Harlech...
+date: '2005-08-07'
+permalink: /2005/08/07/sunday-beach/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Went to Harlech beach - about a 20 minute drive. It\'s a lovely flat

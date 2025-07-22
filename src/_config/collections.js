@@ -7,6 +7,26 @@ export const getAllPosts = collection => {
   return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
 };
 
+export const getAllBlogPosts = collection => {
+  return collection
+    .getFilteredByGlob('./src/posts/**/*.md')
+    .filter(post => post.data.type == 'Blog')
+    .reverse();
+};
+
+export const getAllDiaryPosts = collection => {
+  return collection
+    .getFilteredByGlob('./src/posts/**/*.md')
+    .filter(post => post.data.type == 'Diary')
+    .reverse();
+};
+export const getAllJournalPosts = collection => {
+  return collection
+    .getFilteredByGlob('./src/posts/**/*.md')
+    .filter(post => post.data.type == 'Journal')
+    .reverse();
+};
+
 /** All relevant pages as a collection for sitemap.xml */
 export const showInSitemap = collection => {
   return collection.getFilteredByGlob('./src/**/*.{md,njk}');

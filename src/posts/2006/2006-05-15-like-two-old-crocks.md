@@ -1,12 +1,15 @@
 ---
 title: Like Two Old Crocks
-description: ""
-date: 2006-05-15
-permalink: 2006/05/15/like-two-old-crocks/
+description: >-
+  Played badminton with Simon at lunch time today. He\'d cycled into a lamppost
+  and had a very sore and stiff...
+date: '2006-05-15'
+permalink: /2006/05/15/like-two-old-crocks/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Played badminton with Simon at lunch time today. He\'d cycled into a

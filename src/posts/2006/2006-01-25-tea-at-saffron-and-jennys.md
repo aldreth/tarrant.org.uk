@@ -1,12 +1,15 @@
 ---
 title: Tea at Saffron and Jenny's
-description: ""
-date: 2006-01-25
-permalink: 2006/01/25/tea-at-saffron-and-jennys/
+description: >-
+  We\'ve been out for tea tonight at Saffron, Jenny and Nok\'s - except for
+  Toby, who cooked for himself. In...
+date: '2006-01-25'
+permalink: /2006/01/25/tea-at-saffron-and-jennys/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve been out for tea tonight at Saffron, Jenny and Nok\'s - except

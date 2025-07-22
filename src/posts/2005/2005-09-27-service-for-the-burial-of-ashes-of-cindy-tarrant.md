@@ -1,8 +1,10 @@
 ---
 title: Service for the Burial of Ashes of Cindy Tarrant
-description: ""
-date: 2005-09-27
-permalink: 2005/09/27/service-for-the-burial-of-ashes-of-cindy-tarrant/
+description: >-
+  Held at York Cemetery on Tuesday 27th September 2005 **A Intro :-** We are met
+  as a family to say...
+date: '2005-09-27'
+permalink: /2005/09/27/service-for-the-burial-of-ashes-of-cindy-tarrant/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 17
     author: Alison Forrester
     author_email: alison.forrester@sypct.nhs.uk
-    author_url: ""
-    date: 2005-09-28 12:51:06 +0100
-    date_gmt: 2005-09-28 12:51:06 +0100
+    author_url: ''
+    date: '2005-09-28 12:51:06 +0100'
+    date_gmt: '2005-09-28 12:51:06 +0100'
     content: >
       Thank you for this Edward - I felt I could share in the service by having
       all these beautiful words given in such detail. I will visit her grave
@@ -21,6 +23,7 @@ comments:
 
 
       Love Alison
+type: Blog
 ---
 
 Held at York Cemetery on  

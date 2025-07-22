@@ -1,12 +1,15 @@
 ---
 title: Race for Life
-description: ""
-date: 2007-05-16
-permalink: 2007/05/16/race-for-life/
+description: >-
+  Rose is doing the Race for Life in aid of [Cancer Research UK][1]. It\'s a 5km
+  run around the Knavesmire...
+date: '2007-05-16'
+permalink: /2007/05/16/race-for-life/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Rose is doing the Race for Life in aid of [Cancer Research UK][1]. It\'s

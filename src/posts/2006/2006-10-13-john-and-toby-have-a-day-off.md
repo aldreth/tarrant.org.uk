@@ -1,12 +1,13 @@
 ---
 title: John and Toby Have a Day Off
-description: ""
-date: 2006-10-13
-permalink: 2006/10/13/john-and-toby-have-a-day-off/
+description: "Millthorpe have got a training day today, so John and Toby are at home.\_ John and I are going together..."
+date: '2006-10-13'
+permalink: /2006/10/13/john-and-toby-have-a-day-off/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Millthorpe have got a training day today, so John and Toby are at home. 

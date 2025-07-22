@@ -4,7 +4,7 @@ schema: BlogPosting
 ---
 
 <div class="region">
-  <div class="wrapper flow prose" data-pagefind-body>
+  <div class="wrapper flow prose" data-pagefind-body data-pagefind-filter="type:{{type}}" data-pagefind-meta="type:{{type}}">
     <h1 class="gradient-text">{{ title }}</h1>
 
     {% if image %}
@@ -19,7 +19,8 @@ schema: BlogPosting
       {%- endif %}
       <!-- date -->
       {% set definedDate = date %} {% include "partials/date.njk" %} by
-      <a href="/authors/{{ author | slugify }}" data-pagefind-meta="author">{{ author }}</a>
+      <a href="/authors/{{ author | slugify }}" data-pagefind-meta="author">{{ author }}</a> in
+      <a href="/{{ type | slugify }}">{{ type }}</a>
     </p>
     <p class="meta | cluster gutter-xs-s" data-pagefind-ignore>
       <a href="/{{ date | formatDate("YYYY") }}">{{ date | formatDate("YYYY") }}</a>/<a
@@ -38,6 +39,12 @@ schema: BlogPosting
     </p>
 
     {{ content | safe }}
+
+    {% set typeCollection = collections.allBlogPosts if type == "Blog" else (collections.allDiaryPosts if type == "Diary" else collections.allJournalPosts) %}
+    {% include "partials/post-nav.njk" %}
+
+    
+
   </div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->

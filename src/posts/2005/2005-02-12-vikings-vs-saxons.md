@@ -1,12 +1,15 @@
 ---
 title: Vikings vs Saxons
-description: ""
-date: 2005-02-12
-permalink: 2005/02/12/vikings-vs-saxons/
+description: >-
+  We went down to the Eye of York this afternoon to watch a battle between the
+  Vikings and the Saxons....
+date: '2005-02-12'
+permalink: /2005/02/12/vikings-vs-saxons/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We went down to the Eye of York this afternoon to watch a battle between

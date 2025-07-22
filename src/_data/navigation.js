@@ -23,6 +23,18 @@ export default {
       url: '/contact/'
     },
     {
+      text: 'Blog',
+      url: '/blog/'
+    },
+    {
+      text: 'Diary',
+      url: '/diary/'
+    },
+    {
+      text: 'Journal',
+      url: '/journal/'
+    },
+    {
       text: 'Tags',
       url: '/tags/'
     },

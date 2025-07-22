@@ -1,12 +1,15 @@
 ---
 title: Back to School
-description: ""
-date: 2005-02-13
-permalink: 2005/02/13/back-to-school/
+description: >-
+  I\'m back to school tomorrow. I\'m in for two and a half days this week, and
+  am helping out and...
+date: '2005-02-13'
+permalink: /2005/02/13/back-to-school/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'m back to school tomorrow. I\'m in for two and a half days this week,

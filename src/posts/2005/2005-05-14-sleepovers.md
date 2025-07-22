@@ -1,12 +1,15 @@
 ---
 title: Sleepovers
-description: ""
-date: 2005-05-14
-permalink: 2005/05/14/sleepovers/
+description: >-
+  John had Tom round for a sleepover, Rose went to Nok\'s. I don\'t think either
+  pair got a great deal...
+date: '2005-05-14'
+permalink: /2005/05/14/sleepovers/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John had Tom round for a sleepover, Rose went to Nok\'s. I don\'t think

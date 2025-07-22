@@ -1,12 +1,15 @@
 ---
 title: Day out at the 'Earth Centre'
-description: ""
-date: 2004-05-04
-permalink: 2004/05/04/day-out-at-the-earth-centre/
+description: >-
+  Biked to the railway station this morning to catch the train to Connisborough
+  just one stop down the line from...
+date: '2004-05-04'
+permalink: /2004/05/04/day-out-at-the-earth-centre/
 tags:
   - Days with the Children
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Biked to the railway station this morning to catch the train to

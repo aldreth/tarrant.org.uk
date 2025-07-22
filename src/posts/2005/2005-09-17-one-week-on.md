@@ -1,13 +1,16 @@
 ---
 title: One Week On
-description: ""
-date: 2005-09-17
-permalink: 2005/09/17/one-week-on/
+description: >-
+  It has been a week since Cindy was last in the house. It seems so recent, but
+  things are so...
+date: '2005-09-17'
+permalink: /2005/09/17/one-week-on/
 tags:
   - Days with the Children
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 It has been a week since Cindy was last in the house. It seems so

@@ -1,12 +1,15 @@
 ---
 title: Cindy's Morning Tablets
-description: ""
-date: 2004-04-17
-permalink: 2004/04/17/cindys-morning-tablets/
+description: >-
+  I thought it would be amusing to show a picture of all the tablets that Cindy
+  takes each morning! <wpg2>tablets</wpg2>...
+date: '2004-04-17'
+permalink: /2004/04/17/cindys-morning-tablets/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 I thought it would be amusing to show a picture of all the tablets that

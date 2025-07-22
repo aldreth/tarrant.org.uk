@@ -1,13 +1,16 @@
 ---
 title: Weekend at Home
-description: ""
-date: 2005-08-04
-permalink: 2005/08/04/weekend-at-home/
+description: >-
+  We got back to York in time for lunch, unpacked and started on the mammoth
+  washing pile! We ran out...
+date: '2005-08-04'
+permalink: /2005/08/04/weekend-at-home/
 tags:
   - Days with the Children
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 We got back to York in time for lunch, unpacked and started on the

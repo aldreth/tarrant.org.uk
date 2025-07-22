@@ -1,12 +1,15 @@
 ---
-title: Coffee, Cinema & Parents' Evening
-description: ""
-date: 2006-01-30
-permalink: 2006/01/30/coffee-cinema-and-parents-evening/
+title: 'Coffee, Cinema & Parents'' Evening'
+description: >-
+  I had coffee this morning with Mark and Michelle - nice to see them at the
+  same time! After lunch...
+date: '2006-01-30'
+permalink: /2006/01/30/coffee-cinema-and-parents-evening/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had coffee this morning with Mark and Michelle - nice to see them at

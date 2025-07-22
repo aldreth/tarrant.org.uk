@@ -1,12 +1,15 @@
 ---
 title: What a Glorious Day
-description: ""
-date: 2006-05-05
-permalink: 2006/05/05/what-a-glorious-day/
+description: >-
+  I\'m sure it\'s mainly the weather, but I\'ve had a lovely day today. It was
+  really warm and sunny and...
+date: '2006-05-05'
+permalink: /2006/05/05/what-a-glorious-day/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'m sure it\'s mainly the weather, but I\'ve had a lovely day today. It

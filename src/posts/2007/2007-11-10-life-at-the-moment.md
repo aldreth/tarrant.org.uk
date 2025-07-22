@@ -1,12 +1,15 @@
 ---
 title: Life at the moment
-description: ""
-date: 2007-11-10
-permalink: 2007/11/10/life-at-the-moment/
+description: >-
+  Sorry about the rubbish title, couldn\'t think of anything more inspiring as
+  just posting about general life at the moment!...
+date: '2007-11-10'
+permalink: /2007/11/10/life-at-the-moment/
 tags:
   - General
 author: Toby
 comments: []
+type: Blog
 ---
 
 Sorry about the rubbish title, couldn\'t think of anything more

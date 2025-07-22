@@ -1,13 +1,16 @@
 ---
-title: Work, Play, Food
-description: ""
-date: 2006-05-04
-permalink: 2006/05/04/work-play-food/
+title: 'Work, Play, Food'
+description: >-
+  I think I\'ve picked up some work this morning. Someone that Simon knows wants
+  to withdraw her children from Tregelles...
+date: '2006-05-04'
+permalink: /2006/05/04/work-play-food/
 tags:
   - Days with the Children
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I think I\'ve picked up some work this morning. Someone that Simon knows

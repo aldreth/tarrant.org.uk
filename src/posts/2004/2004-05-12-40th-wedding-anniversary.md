@@ -1,12 +1,15 @@
 ---
 title: 40th Wedding Anniversary
-description: ""
-date: 2004-05-12
-permalink: 2004/05/12/40th-wedding-anniversary/
+description: >-
+  Sunday 9th May and Lance and Mary\'s 40th Wedding Anniversary. Sorted out
+  several weeks ago what everybody would like to...
+date: '2004-05-12'
+permalink: /2004/05/12/40th-wedding-anniversary/
 tags:
   - Extended Family
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Sunday 9th May and Lance and Mary\'s 40th Wedding Anniversary. Sorted

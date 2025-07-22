@@ -1,12 +1,15 @@
 ---
 title: Knitting Bee
-description: ""
-date: 2005-01-17
-permalink: 2005/01/17/knitting-bee/
+description: >-
+  Enjoyed a lovely day at Carol Gilham\'s knitting bee held to celebrate her
+  birthday. Arrived in good time to enjoy...
+date: '2005-01-17'
+permalink: /2005/01/17/knitting-bee/
 tags:
   - Friends
 author: Cindy
 comments: []
+type: Blog
 ---
 
 Enjoyed a lovely day at Carol Gilham\'s knitting bee held to celebrate

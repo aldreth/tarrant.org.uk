@@ -1,12 +1,15 @@
 ---
 title: Lunch with Kath
-description: ""
-date: 2004-11-22
-permalink: 2004/11/22/lunch-with-kath/
+description: >-
+  Cindy and I had lunch with Kath Pringle today. We\'ve seen very little of her
+  since she, Marcus and Louis...
+date: '2004-11-22'
+permalink: /2004/11/22/lunch-with-kath/
 tags:
   - Friends
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I had lunch with Kath Pringle today. We\'ve seen very little

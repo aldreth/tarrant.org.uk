@@ -1,12 +1,15 @@
 ---
 title: Party Party Party
-description: ""
-date: 2006-01-16
-permalink: 2006/01/16/party-party-party/
+description: >-
+  Yesterday (Sunday) was the day of the Meeting Mid-Winter Party and then in the
+  late afternoon and evening we had...
+date: '2006-01-16'
+permalink: /2006/01/16/party-party-party/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday (Sunday) was the day of the Meeting Mid-Winter Party and then

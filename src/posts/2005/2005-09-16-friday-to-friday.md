@@ -1,8 +1,10 @@
 ---
 title: Friday to Friday
-description: ""
-date: 2005-09-16
-permalink: 2005/09/16/friday-to-friday/
+description: >-
+  *Written on Saturday 10th.* On Friday we had planned to go to the hospital for
+  Cindy to have a chest...
+date: '2005-09-16'
+permalink: /2005/09/16/friday-to-friday/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 12
     author: Liz Piercy
     author_email: piercys42@hotmail.com
-    author_url: ""
-    date: 2005-09-18 13:26:41 +0100
-    date_gmt: 2005-09-18 13:26:41 +0100
+    author_url: ''
+    date: '2005-09-18 13:26:41 +0100'
+    date_gmt: '2005-09-18 13:26:41 +0100'
     content: >
       Dear Edward, Toby, John and Rose
 
@@ -26,6 +28,7 @@ comments:
       Thinking of you all
 
       love from Liz    
+type: Blog
 ---
 
 *Written on Saturday 10th.*

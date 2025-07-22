@@ -1,12 +1,15 @@
 ---
 title: Turkey Holiday
-description: ""
-date: 2006-04-23
-permalink: 2006/04/23/turkey-holiday/
+description: >-
+  We\'ve just got back from a lovely holiday in Patara, Turkey. The hotel was
+  pretty luxurious, and was run by...
+date: '2006-04-23'
+permalink: /2006/04/23/turkey-holiday/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve just got back from a lovely holiday in Patara, Turkey.

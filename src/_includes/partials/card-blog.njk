@@ -2,11 +2,14 @@
 {% set definedDate = definedDate | default(item.date) %}
 {% set showTags = showTags | default(true) %}
 
-<custom-card clickable>
+<custom-card clickable class="mt-s-m">
   <{{ headingLevel }} slot="headline" class="text-step-2">
-    <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+    <a href="{{ item.data.permalink }}">{{ item.data.title }}</a>
   </{{ headingLevel }}>
-  <span slot="date">{%- if item.data.draft -%}<span class="button" data-small-button data-button-variant='tertiary'>draft</span>{%- endif %} {% include "partials/date.njk" %}</span>
+  <span slot="date"><time datetime="{{ definedDate | toIsoString }}"> {{ definedDate | formatDate('MMMM D, YYYY') }} </time></span>
+  <div slot="type" webc:nokeep>
+    <span class="button" data-small-button data-button-variant={{ "secondary" if item.data.type == "Blog" else ("tertiary" if item.data.type =="Diary" else "primary") }}>{{ item.data.type }}</span>
+  </div>
   {% if showTags and item.data.tags.length > 1 %}
     <div slot="tag" webc:nokeep>
       {% for tag in item.data.tags %}

@@ -1,12 +1,15 @@
 ---
 title: Taiz&eacute; Service
-description: ""
-date: 2005-01-31
-permalink: 2005/01/31/taizandeacute;-service/
+description: >-
+  On Sunday evening there was a Taizé service in the Minster for the Week of
+  Christian Unity, or something, and...
+date: '2005-01-31'
+permalink: /2005/01/31/taizandeacute;-service/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Sunday evening there was a Taizé service in the Minster for the Week

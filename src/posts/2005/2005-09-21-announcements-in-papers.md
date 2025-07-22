@@ -1,8 +1,9 @@
 ---
 title: Announcements in Papers
-description: ""
-date: 2005-09-21
-permalink: 2005/09/21/announcements-in-papers/
+description: >-
+  Today\'s Guardian has an announcement of Cindy\'s death and funeral...
+date: '2005-09-21'
+permalink: /2005/09/21/announcements-in-papers/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +11,9 @@ comments:
   - id: 16
     author: Philip Martin
     author_email: phil@moneypuzzle.co.uk
-    author_url: http://www.moneypuzzle.co.uk
-    date: 2005-09-24 14:10:51 +0100
-    date_gmt: 2005-09-24 14:10:51 +0100
+    author_url: 'http://www.moneypuzzle.co.uk'
+    date: '2005-09-24 14:10:51 +0100'
+    date_gmt: '2005-09-24 14:10:51 +0100'
     content: >
       Cindy, my friend since school
 
@@ -40,6 +41,7 @@ comments:
       weekend. Cindy and I spend 10 minutes talking and holding hands - we both
       knew it was our final time together. I am so grateful that I had this
       opportunity to say goodbye.
+type: Blog
 ---
 
 Today\'s Guardian has an announcement of Cindy\'s death and funeral.

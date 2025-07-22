@@ -1,12 +1,15 @@
 ---
-title: Washing, Badminton and Bookgroup
-description: ""
-date: 2006-04-24
-permalink: 2006/04/24/washing-badminton-and-bookgroup/
+title: 'Washing, Badminton and Bookgroup'
+description: >-
+  A general sorting out day today. Several loads of washing dried and sorted.
+  Supermarket **not** visited, must do it tomorrow!...
+date: '2006-04-24'
+permalink: /2006/04/24/washing-badminton-and-bookgroup/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 A general sorting out day today. Several loads of washing dried and

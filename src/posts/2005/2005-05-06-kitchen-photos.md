@@ -1,12 +1,15 @@
 ---
 title: Kitchen Photos
-description: ""
-date: 2005-05-06
-permalink: 2005/05/06/kitchen-photos/
+description: >-
+  I\'ve finally put up some pictures of the kitchen as it currently is. Do you
+  like the \"hob\"? <!-- [...
+date: '2005-05-06'
+permalink: /2005/05/06/kitchen-photos/
 tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve finally put up some pictures of the kitchen as it currently is. Do

@@ -1,12 +1,15 @@
 ---
 title: Second Session - Oh no this is awful!
-description: ""
-date: 2004-03-20
-permalink: 2004/03/20/second-session-oh-no-this-is-awful/
+description: >-
+  So during the last week in February Cindy went into York District for her
+  second session of chemo. We were...
+date: '2004-03-20'
+permalink: /2004/03/20/second-session-oh-no-this-is-awful/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 So during the last week in February Cindy went into York District for

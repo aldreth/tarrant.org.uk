@@ -1,12 +1,15 @@
 ---
 title: Last Day of the Holiday
-description: ""
-date: 2005-01-05
-permalink: 2005/01/05/last-day-of-the-holiday/
+description: >-
+  We decided to have a proper day out today, before school starts tomorrow. We
+  all went over to [Eureka][1] in...
+date: '2005-01-05'
+permalink: /2005/01/05/last-day-of-the-holiday/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We decided to have a proper day out today, before school starts

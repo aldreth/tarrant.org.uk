@@ -1,12 +1,15 @@
 ---
 title: Memories of Cindy
-description: ""
-date: 2006-10-03
-permalink: 2006/10/03/memories-of-cindy/
+description: >-
+  Cathy Holman and Chris Hughes wrote this wonderful piece about Cindy for the
+  Meeting Book of Memories. **Cindy Tarrant** {:...
+date: '2006-10-03'
+permalink: /2006/10/03/memories-of-cindy/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cathy Holman and Chris Hughes wrote this wonderful piece about Cindy for

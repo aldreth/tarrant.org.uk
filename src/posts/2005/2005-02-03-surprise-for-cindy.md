@@ -1,12 +1,15 @@
 ---
 title: Surprise for Cindy
-description: ""
-date: 2005-02-03
-permalink: 2005/02/03/surprise-for-cindy/
+description: >-
+  As it is getting close to time for me to go back to school, I thought that
+  Cindy and I...
+date: '2005-02-03'
+permalink: /2005/02/03/surprise-for-cindy/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 As it is getting close to time for me to go back to school, I thought

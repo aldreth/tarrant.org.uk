@@ -1,12 +1,15 @@
 ---
 title: Rose and John's Instruments Arrived
-description: ""
-date: 2005-11-24
-permalink: 2005/11/24/rose-and-johns-instruments-arrived/
+description: >-
+  I picked up Rose\'s flute and John\'s saxophone on Tuesday and today is the
+  day of their lessons. Rose had...
+date: '2005-11-24'
+permalink: /2005/11/24/rose-and-johns-instruments-arrived/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I picked up Rose\'s flute and John\'s saxophone on Tuesday and today is

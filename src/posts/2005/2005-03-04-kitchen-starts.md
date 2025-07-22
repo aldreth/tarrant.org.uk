@@ -1,12 +1,15 @@
 ---
 title: Kitchen Starts!
-description: ""
-date: 2005-03-04
-permalink: 2005/03/04/kitchen-starts/
+description: >-
+  Dave came up on Sunday evening and by Monday evening we had no units in the
+  kitchen - and no...
+date: '2005-03-04'
+permalink: /2005/03/04/kitchen-starts/
 tags:
   - Kitchen
 author: Edward
 comments: []
+type: Blog
 ---
 
 Dave came up on Sunday evening and by Monday evening we had no units in

@@ -1,12 +1,15 @@
 ---
 title: A New Round of Chemo
-description: ""
-date: 2004-03-14
-permalink: 2004/03/14/a-new-round-of-chemo/
+description: >-
+  Early this year Cindy had a routine scan to see how she was doing.
+  Unfortunately it showed that the tumours...
+date: '2004-03-14'
+permalink: /2004/03/14/a-new-round-of-chemo/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Early this year Cindy had a routine scan to see how she was doing.

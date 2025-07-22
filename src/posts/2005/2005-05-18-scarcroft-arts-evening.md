@@ -1,8 +1,10 @@
 ---
 title: Scarcroft Arts Evening
-description: ""
-date: 2005-05-18
-permalink: 2005/05/18/scarcroft-arts-evening/
+description: >-
+  [Scarcroft][1] - John and Rose\'s school ran an arts evening for parents and
+  children that we\'ve just got home from....
+date: '2005-05-18'
+permalink: /2005/05/18/scarcroft-arts-evening/
 tags:
   - Days with the Children
 author: Edward
@@ -10,15 +12,16 @@ comments:
   - id: 8
     author: Fred Andrews
     author_email: faja@comcast.net
-    author_url: ""
-    date: 2005-06-20 23:49:32 +0100
-    date_gmt: 2005-06-20 23:49:32 +0100
+    author_url: ''
+    date: '2005-06-20 23:49:32 +0100'
+    date_gmt: '2005-06-20 23:49:32 +0100'
     content: >
       Edward-
            I  read your last few postings and are relieved that Cindy  is feeling quite OK.  Also, regarding your recent visit to the Turkish  baths,  both Joyce and I went to a Turkish bath last year during our trip to Morocco.  You might recall that we have had a Finnish sauna at our house since 1972 and enjoy it very much and frquently.  In fact Gail, Linda and families will be down here for a vist  and final sauna before we move out of our house next  August.
       When we have sauna we regularly heat the hot room up to between 90C and
       105C dpending on individual wishes.
          I enjoy, from time to time, reading your blogs.
+type: Blog
 ---
 
 [Scarcroft][1] - John and Rose\'s school ran an arts evening for parents

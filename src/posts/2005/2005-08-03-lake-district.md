@@ -1,13 +1,16 @@
 ---
 title: Lake District
-description: ""
-date: 2005-08-03
-permalink: 2005/08/03/lake-district/
+description: >-
+  We had a fantastic week in the Lake District, staying in Keswick. Some of the
+  highlights included: Scrambling up a...
+date: '2005-08-03'
+permalink: /2005/08/03/lake-district/
 tags:
   - Days with the Children
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 We had a fantastic week in the Lake District, staying in Keswick.

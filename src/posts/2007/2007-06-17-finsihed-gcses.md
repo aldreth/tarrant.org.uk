@@ -1,12 +1,15 @@
 ---
 title: Finished GCSEs!
-description: ""
-date: 2007-06-17
-permalink: 2007/06/17/finished-gcses/
+description: >-
+  Just finished taking my GCSEs so I\'m on holiday for the next three months.
+  Very happy! Got to wait till...
+date: '2007-06-17'
+permalink: /2007/06/17/finished-gcses/
 tags:
   - Days with the Children
 author: Toby
 comments: []
+type: Blog
 ---
 
 Just finished taking my GCSEs so I\'m on holiday for the next three

@@ -1,12 +1,15 @@
 ---
 title: Wedding List
-description: ""
-date: 2005-02-08
-permalink: 2005/02/08/wedding-list/
+description: >-
+  In a very sad, geeky way, I\'m very proud of a new website I\'ve set up for my
+  sister Jane\'s...
+date: '2005-02-08'
+permalink: /2005/02/08/wedding-list/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 In a very sad, geeky way, I\'m very proud of a new website I\'ve set up

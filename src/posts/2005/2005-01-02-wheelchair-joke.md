@@ -1,8 +1,10 @@
 ---
 title: Wheelchair Joke
-description: ""
-date: 2005-01-02
-permalink: 2005/01/02/wheelchair-joke/
+description: >-
+  We went to Bridlington today with Mary. I enjoyed getting out in the fresh
+  air, it wasn\'t quite as cold...
+date: '2005-01-02'
+permalink: /2005/01/02/wheelchair-joke/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 6
     author: Kathryn Andrews
     author_email: kathryn@andrews8869.freeserve.co.uk
-    author_url: ""
-    date: 2005-01-03 12:53:00 +0000
-    date_gmt: 2005-01-03 12:53:00 +0000
+    author_url: ''
+    date: '2005-01-03 12:53:00 +0000'
+    date_gmt: '2005-01-03 12:53:00 +0000'
     content: >
       Hi you guys!! we found out about your site from Lance when we visited Kat
       & Simon New Years day - we had a great time.  It was fun to see Tom and
@@ -38,6 +40,7 @@ comments:
       meet up.
 
       love Kath Richard & Heather
+type: Blog
 ---
 
 We went to Bridlington today with Mary. I enjoyed getting out in the

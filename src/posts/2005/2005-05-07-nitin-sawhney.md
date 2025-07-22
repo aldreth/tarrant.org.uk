@@ -1,12 +1,15 @@
 ---
 title: Nitin Sawhney
-description: ""
-date: 2005-05-07
-permalink: 2005/05/07/nitin-sawhney/
+description: >-
+  Yesterday evening, Cindy and I went to Gateshead to see [Nitin Sawhney][1]
+  play at the [Sage][2]. It\'s a fantastic building...
+date: '2005-05-07'
+permalink: /2005/05/07/nitin-sawhney/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Yesterday evening, Cindy and I went to Gateshead to see [Nitin

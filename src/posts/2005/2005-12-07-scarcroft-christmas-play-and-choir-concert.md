@@ -1,12 +1,15 @@
 ---
 title: Scarcroft Christmas Play and Choir Concert
-description: ""
-date: 2005-12-07
-permalink: 2005/12/07/scarcroft-christmas-play-and-choir-concert/
+description: >-
+  This afternoon I went to Scarcroft to watch their Christmas play. It was
+  mostly acted by year 6 children, with...
+date: '2005-12-07'
+permalink: /2005/12/07/scarcroft-christmas-play-and-choir-concert/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 This afternoon I went to Scarcroft to watch their Christmas play. It was

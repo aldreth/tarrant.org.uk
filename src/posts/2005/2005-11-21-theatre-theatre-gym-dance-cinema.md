@@ -1,12 +1,15 @@
 ---
-title: Theatre, Theatre, Gym, Dance, Cinema
-description: ""
-date: 2005-11-21
-permalink: 2005/11/21/theatre-theatre-gym-dance-cinema/
+title: 'Theatre, Theatre, Gym, Dance, Cinema'
+description: >-
+  On Friday evening I went to see Jerusalem at the WYP with Lance, while Mary
+  looked after the children (babysat...
+date: '2005-11-21'
+permalink: /2005/11/21/theatre-theatre-gym-dance-cinema/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Friday evening I went to see Jerusalem at the WYP with Lance, while

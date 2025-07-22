@@ -1,12 +1,15 @@
 ---
 title: Arkengarthdale at Easter
-description: ""
-date: 2004-04-13
-permalink: 2004/04/13/arkengarthdale-at-easter/
+description: >-
+  We\'ve just been to Arkengarthdale (in Swaledale - Yorkshire Dales) with David
+  and Anita, friends from Meeting, and their two...
+date: '2004-04-13'
+permalink: /2004/04/13/arkengarthdale-at-easter/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We\'ve just been to Arkengarthdale (in Swaledale - Yorkshire Dales) with

@@ -1,12 +1,15 @@
 ---
 title: Day of Treats
-description: ""
-date: 2005-12-03
-permalink: 2005/12/03/day-of-treats/
+description: >-
+  On Friday, I had an excellent day. It started off with Rose going to school,
+  definitely a good start, making...
+date: '2005-12-03'
+permalink: /2005/12/03/day-of-treats/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Friday, I had an excellent day. It started off with Rose going to

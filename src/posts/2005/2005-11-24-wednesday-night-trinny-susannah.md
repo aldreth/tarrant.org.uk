@@ -1,12 +1,15 @@
 ---
 title: Wednesday Night - Trinny & Susannah
-description: ""
-date: 2005-11-24
-permalink: 2005/11/24/wednesday-night-trinny-and-susannah/
+description: >-
+  We seem to have got into a routine of all watching What Not to Wear every
+  Wednesday evening, even though...
+date: '2005-11-24'
+permalink: /2005/11/24/wednesday-night-trinny-and-susannah/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We seem to have got into a routine of all watching What Not to Wear

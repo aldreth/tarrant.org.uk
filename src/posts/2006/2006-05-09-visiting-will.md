@@ -1,12 +1,15 @@
 ---
 title: Visiting Will
-description: ""
-date: 2006-05-09
-permalink: 2006/05/09/visiting-will/
+description: >-
+  Will is off work at the moment because of an operation to his knee. He damaged
+  it playing football -...
+date: '2006-05-09'
+permalink: /2006/05/09/visiting-will/
 tags:
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 Will is off work at the moment because of an operation to his knee. He

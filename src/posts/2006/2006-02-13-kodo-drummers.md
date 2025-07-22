@@ -1,12 +1,15 @@
 ---
 title: Kodo Drummers
-description: ""
-date: 2006-02-13
-permalink: 2006/02/13/kodo-drummers/
+description: >-
+  On Sunday we went over to Manchester to see the [Kodo Drummers][1], for
+  John\'s Christmas present. We went on the...
+date: '2006-02-13'
+permalink: /2006/02/13/kodo-drummers/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 On Sunday we went over to Manchester to see the [Kodo Drummers][1], for

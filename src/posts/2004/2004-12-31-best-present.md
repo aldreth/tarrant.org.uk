@@ -1,12 +1,15 @@
 ---
 title: Best Present?
-description: ""
-date: 2004-12-31
-permalink: 2004/12/31/best-present/
+description: >-
+  Mary and Lance gave us Big Deal tickets for the [West Yorkshire Playhouse][1]
+  as a Christmas Present. This gives you...
+date: '2004-12-31'
+permalink: /2004/12/31/best-present/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Mary and Lance gave us Big Deal tickets for the [West Yorkshire

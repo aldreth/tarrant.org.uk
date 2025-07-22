@@ -4,7 +4,7 @@ const matter = require('gray-matter');
 const {stringify} = require('yaml');
 const slugify = require('slugify');
 
-const inputDirectory = '../tarrant.org.uk/_posts';
+const inputDirectory = '../old-tarrant/_posts';
 const outputDirectory = './src/posts';
 
 const postPermalink = (date, title) => {
@@ -48,9 +48,9 @@ async function updateFrontMatter(filename) {
 
   const permalink = postPermalink(stringDate, title);
 
-  const newFrontMatter = {title, description, date: stringDate, permalink, tags, author, comments};
+  const type = 'Blog';
 
-  console.log(newFrontMatter);
+  const newFrontMatter = {title, description, date: stringDate, permalink, tags, author, comments, type};
 
   const newContent = `---\n${stringify(newFrontMatter)}---\n${content}`;
 

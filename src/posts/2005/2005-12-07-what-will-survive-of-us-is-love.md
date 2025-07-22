@@ -1,12 +1,15 @@
 ---
 title: What Will Survive of Us is Love
-description: ""
-date: 2005-12-07
-permalink: 2005/12/07/what-will-survive-of-us-is-love/
+description: >-
+  > **Philip Larkin - An Arundel Tomb** > Side by side, their faces blurred, >
+  The earl and countess lie...
+date: '2005-12-07'
+permalink: /2005/12/07/what-will-survive-of-us-is-love/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 > **Philip Larkin - An Arundel Tomb**

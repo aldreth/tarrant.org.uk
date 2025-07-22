@@ -1,12 +1,15 @@
 ---
 title: Chemo Nine
-description: ""
-date: 2005-03-29
-permalink: 2005/03/29/chemo-nine/
+description: >-
+  Cindy was due to have another session of chemo this week, but as she\'s still
+  recovering from a cold, and...
+date: '2005-03-29'
+permalink: /2005/03/29/chemo-nine/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy was due to have another session of chemo this week, but as she\'s

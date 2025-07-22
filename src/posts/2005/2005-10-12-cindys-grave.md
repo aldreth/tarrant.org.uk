@@ -1,8 +1,10 @@
 ---
 title: Cindy's Grave
-description: ""
-date: 2005-10-12
-permalink: 2005/10/12/cindys-grave/
+description: >-
+  I went to the cemetery yesterday and took some photos of where Cindy\'s ashes
+  are buried. cindygrave Cindy\'s ashes are...
+date: '2005-10-12'
+permalink: /2005/10/12/cindys-grave/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 25
     author: Phil Martin
     author_email: phil@moneypuzzle.co.uk
-    author_url: http://www.moneypuzzle.co.uk
-    date: 2005-10-13 23:42:01 +0100
-    date_gmt: 2005-10-13 22:42:01 +0100
+    author_url: 'http://www.moneypuzzle.co.uk'
+    date: '2005-10-13 23:42:01 +0100'
+    date_gmt: '2005-10-13 22:42:01 +0100'
     content: |-
       Edward,
 
@@ -23,6 +25,7 @@ comments:
       Bye for now.
 
       Phil...
+type: Blog
 ---
 
 I went to the cemetery yesterday and took some photos of where Cindy\'s

@@ -1,13 +1,16 @@
 ---
 title: Icing Bag Nozzles
-description: ""
-date: 2005-11-30
-permalink: 2005/11/30/icing-bag-nozzles/
+description: >-
+  I\'ve been making meringues for John\'s birthday this evening. Cindy always
+  used the icing bag to squirt them out quickly,...
+date: '2005-11-30'
+permalink: /2005/11/30/icing-bag-nozzles/
 tags:
   - Cindy
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 I\'ve been making meringues for John\'s birthday this evening. Cindy

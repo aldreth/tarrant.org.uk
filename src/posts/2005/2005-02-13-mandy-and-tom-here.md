@@ -1,12 +1,15 @@
 ---
 title: Mandy and Tom Here
-description: ""
-date: 2005-02-13
-permalink: 2005/02/13/mandy-and-tom-here/
+description: >-
+  Mandy and Tom have come to visit for a few days. Tom\'s half term has just
+  started - unlike ours,...
+date: '2005-02-13'
+permalink: /2005/02/13/mandy-and-tom-here/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 Mandy and Tom have come to visit for a few days. Tom\'s half term has

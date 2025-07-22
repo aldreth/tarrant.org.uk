@@ -1,12 +1,15 @@
 ---
 title: Treatment Postponed
-description: ""
-date: 2004-04-27
-permalink: 2004/04/27/treatment-postponed/
+description: >-
+  Cindy\'s fifth session of treatment in this round of chemo, which was due
+  tomorrow, has been postponed, probably for a...
+date: '2004-04-27'
+permalink: /2004/04/27/treatment-postponed/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy\'s fifth session of treatment in this round of chemo, which was

@@ -1,12 +1,15 @@
 ---
 title: Training Day
-description: ""
-date: 2004-11-27
-permalink: 2004/11/27/training-day/
+description: >-
+  All the children had a day off school yesterday, so after a lateish morning
+  (for me and Cindy, anyway) we...
+date: '2004-11-27'
+permalink: /2004/11/27/training-day/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 All the children had a day off school yesterday, so after a lateish

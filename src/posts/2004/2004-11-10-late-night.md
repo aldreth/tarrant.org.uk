@@ -1,12 +1,15 @@
 ---
 title: Late Night
-description: ""
-date: 2004-11-10
-permalink: 2004/11/10/late-night/
+description: >-
+  After a busy day and evening yesterday, I managed to go to bed fairly early,
+  but just as I was...
+date: '2004-11-10'
+permalink: /2004/11/10/late-night/
 tags:
   - Extended Family
 author: Edward
 comments: []
+type: Blog
 ---
 
 After a busy day and evening yesterday, I managed to go to bed fairly

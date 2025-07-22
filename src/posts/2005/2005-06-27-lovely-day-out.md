@@ -1,12 +1,15 @@
 ---
 title: Lovely Day Out
-description: ""
-date: 2005-06-27
-permalink: 2005/06/27/lovely-day-out/
+description: >-
+  Today we drove to the [Yorkshire Sculpture Park][1], which is near Wakefield.
+  It was a glorious day - hot and...
+date: '2005-06-27'
+permalink: /2005/06/27/lovely-day-out/
 tags:
   - Edward & Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Today we drove to the [Yorkshire Sculpture Park][1], which is near

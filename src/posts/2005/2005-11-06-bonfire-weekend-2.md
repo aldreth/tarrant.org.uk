@@ -1,12 +1,15 @@
 ---
 title: Bonfire Weekend
-description: ""
-date: 2005-11-06
-permalink: 2005/11/06/bonfire-weekend/
+description: >-
+  We went to two lovely bonfire parties this weekend. On Friday we went to John
+  and Katie\'s. They had a...
+date: '2005-11-06'
+permalink: /2005/11/06/bonfire-weekend/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 We went to two lovely bonfire parties this weekend.

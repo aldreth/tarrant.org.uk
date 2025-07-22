@@ -1,8 +1,10 @@
 ---
 title: Fantastic Trip to London
-description: ""
-date: 2005-07-14
-permalink: 2005/07/14/fantastic-trip-to-london/
+description: >-
+  We\'ve just got back from a two night trip to London - more scorching hot
+  weather! We went down by...
+date: '2005-07-14'
+permalink: /2005/07/14/fantastic-trip-to-london/
 tags:
   - Edward & Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 9
     author: Jane
     author_email: jtheadom@aol.com
-    author_url: ""
-    date: 2005-07-15 23:46:59 +0100
-    date_gmt: 2005-07-15 23:46:59 +0100
+    author_url: ''
+    date: '2005-07-15 23:46:59 +0100'
+    date_gmt: '2005-07-15 23:46:59 +0100'
     content: >
       It was fantastic to see you both! My kitchen units have now arrived and
       the living room is full of cardboard boxes and chaos!
@@ -25,6 +27,7 @@ comments:
       Love Jane
 
       xxx
+type: Blog
 ---
 
 We\'ve just got back from a two night trip to London - more scorching

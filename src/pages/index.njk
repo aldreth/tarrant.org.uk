@@ -14,6 +14,9 @@ description: "A family blog covering the last few years of Cindy Tarrant's life,
       <a href="{{ item.data.permalink }}">{{ item.data.title }}</a>
     </{{ headingLevel }}>
     <span slot="date"><time datetime="{{ definedDate | toIsoString }}"> {{ definedDate | formatDate('MMMM D, YYYY') }} </time></span>
+    <div slot="type" webc:nokeep>
+      <span class="button" data-small-button data-button-variant={{ "secondary" if item.data.type == "Blog" else ("tertiary" if item.data.type =="Diary" else "primary") }}>{{ item.data.type }}</span>
+    </div>
     {% if showTags and item.data.tags.length > 1 %}
       <div slot="tag" webc:nokeep>
         {% for tag in item.data.tags %}

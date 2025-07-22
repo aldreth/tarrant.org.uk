@@ -1,12 +1,15 @@
 ---
 title: Scan Result
-description: ""
-date: 2004-05-25
-permalink: 2004/05/25/scan-result/
+description: >-
+  Cindy and I went to the hospital to get the results of a recent CT scan, and
+  they were very...
+date: '2004-05-25'
+permalink: /2004/05/25/scan-result/
 tags:
   - Cindy
 author: Edward
 comments: []
+type: Blog
 ---
 
 Cindy and I went to the hospital to get the results of a recent CT scan,

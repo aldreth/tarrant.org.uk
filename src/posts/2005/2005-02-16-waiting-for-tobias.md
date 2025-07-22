@@ -1,12 +1,15 @@
 ---
 title: Waiting for Tobias
-description: ""
-date: 2005-02-16
-permalink: 2005/02/16/waiting-for-tobias/
+description: >-
+  John and Rose have gone to bed. Cindy is having a nap because she\'s
+  exhausted. Toby is on a coach...
+date: '2005-02-16'
+permalink: /2005/02/16/waiting-for-tobias/
 tags:
   - Days with the Children
 author: Edward
 comments: []
+type: Blog
 ---
 
 John and Rose have gone to bed. Cindy is having a nap because she\'s

@@ -1,13 +1,16 @@
 ---
 title: Lunch with Kath
-description: ""
-date: 2006-04-25
-permalink: 2006/04/25/lunch-with-kath/
+description: >-
+  I had a lovely lunch today with Kath. The last of the Ikea gravadlax, salad
+  and a glass of wine....
+date: '2006-04-25'
+permalink: /2006/04/25/lunch-with-kath/
 tags:
   - Days with the Children
   - Edward
 author: Edward
 comments: []
+type: Blog
 ---
 
 I had a lovely lunch today with Kath. The last of the Ikea gravadlax,
