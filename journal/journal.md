@@ -141,29 +141,6 @@ So what would I want to say to you all that you do not already know.\
 Can I possibly say what I feel in a letter.\
 How much do you all remember.
 
-#### Rose, you are 8 at the moment.
-
-When I first fell ill you were about 18 months and my deepest sadness was that you would never have known me. Well here we are now knowing each other very well. But with time your memory will fade and I can only want that all the love and happiness we have had together now is well stored up and leaves you with a profound knowing that you are my "bestest girlie". I can only wonder at the young woman you will become.
-
-I can only hope that being a teenager won't be too bad. That you will be happy. I am truly sorry that I won't be there to help you, encourage you, support you. I expect at times you will feel quite cross that I went and died instead of being around to do all the mummy things for you.
-
-One time when you first realised this was possibly on the cards you cried that you were "too little to be without me". How right you were. And I feel quite cross sometimes that I won't be able to be a mum to you all. But mostly I am very sad. Some days I still cannot fathom how I arrived at this moment when I started out with Edward full of plans for a 'lifetime' as his partner and lover with our children.
-
-And now it is going to be cut short. And that's not fair. But - I can hear you say Toby - 'life's not fair'.
-
-So. Rose at 8. Rose likes making things. Paper, card, trimmings, paint, glue, cardboard boxes, bits of fabrics, collected junk from the streets.
-
-Rose likes reading and being read to. We have just finished Anne of Green Gables and are now onto Anne of Avonlea. Rose likes going to dance and gym and trampoline. Rose likes cooking, especially chocolate brownie.
-
-Rose sometimes likes to come int my bed for a little snuggle. Rose quiet often likes to sit on my lap for a hug. Rose is strong minded and knows what she likes and doesn't like. It's not easy to pull the wool over Rose's eyes. Rose still gets over the top cross when the boys tease her. Rose has a good sense of style. She definitely doesn't like frilly pretty dresses. Rose doesn't like frilly pretty dresses. Rose doesn't like getting up in the morning and sometimes can be quite grumpy. Rose will sometimes - very rarely! - rub my feet.
-
-Rose is my lovely, lovely daughter. And I love her beyond more than I could ever express in words.
-
-#### John - my John-boy.
-
-John you will be 10 in a couple of weeks and you are starting to get very excited. I think John you would not have remembered me had I died first time around with cancer.
-
-My dear John, you have packed in as many hugs and kisses and 'I love yous' to last you a life time during this phase of my illness. Well I hope they do. You are a loud vibrant boy and we certainly know you're in the house. It's ok, we like it!! The worst thing when you are ill - not very often I'm happy to say - si that you go very quiet. It's quite unnerving.
 #####################
 2005-06-04
 
