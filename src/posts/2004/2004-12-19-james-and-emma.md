@@ -1,8 +1,10 @@
 ---
 title: James and Emma
-description: ""
-date: 2004-12-19
-permalink: 2004/12/19/james-and-emma/
+description: >-
+  James and Emma came all the way up from their home near Bristol to visit us -
+  for the day!...
+date: '2004-12-19'
+permalink: /2004/12/19/james-and-emma/
 tags:
   - Days with the Children
 author: Edward

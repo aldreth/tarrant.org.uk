@@ -1,8 +1,10 @@
 ---
 title: Houses of Parliament Cleaners
-description: ""
-date: 2005-07-08
-permalink: 2005/07/08/houses-of-parliament-cleaners/
+description: >-
+  I\'ve just written to our MP about an [article][1] in today\'s Guardian, about
+  how most cleaners in the Houses of...
+date: '2005-07-08'
+permalink: /2005/07/08/houses-of-parliament-cleaners/
 tags:
   - Edward
 author: Edward

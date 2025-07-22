@@ -1,8 +1,10 @@
 ---
 title: Edward Goes Swimming
-description: ""
-date: 2005-09-07
-permalink: 2005/09/07/edward-goes-swimming/
+description: >-
+  After years of looking enviously at people who can swim front crawl
+  efficiently and smoothly, I\'ve decided to learn myself....
+date: '2005-09-07'
+permalink: /2005/09/07/edward-goes-swimming/
 tags:
   - Edward
 author: Edward

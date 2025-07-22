@@ -1,8 +1,10 @@
 ---
 title: Non Contact Time
-description: ""
-date: 2005-05-20
-permalink: 2005/05/20/non-contact-time/
+description: >-
+  We went to the West Yorkshire Playhouse to see the third of the plays that
+  we\'re seeing on the big...
+date: '2005-05-20'
+permalink: /2005/05/20/non-contact-time/
 tags:
   - Edward & Cindy
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Two Fantastic Days at the Seaside
-description: ""
-date: 2005-05-02
-permalink: 2005/05/02/two-fantastic-days-at-the-seaside/
+description: >-
+  Bank Holiday Weekend - go to the seaside! So we did. All the children now have
+  wetsuits, so they can...
+date: '2005-05-02'
+permalink: /2005/05/02/two-fantastic-days-at-the-seaside/
 tags:
   - Days with the Children
 author: Edward

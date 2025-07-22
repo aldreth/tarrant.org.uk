@@ -1,8 +1,10 @@
 ---
 title: Toby's A levels
-description: ""
-date: 2009-08-23
-permalink: 2009/08/23/tobys-a-levels/
+description: >-
+  Hooray!! Toby got his A level results last Thursday. He got an A for
+  Geography, B for Biology and B...
+date: '2009-08-23'
+permalink: /2009/08/23/tobys-a-levels/
 tags:
   - Days with the Children
 author: Edward

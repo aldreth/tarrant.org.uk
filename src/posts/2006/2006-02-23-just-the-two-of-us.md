@@ -1,8 +1,10 @@
 ---
 title: Just the Two of Us
-description: ""
-date: 2006-02-23
-permalink: 2006/02/23/just-the-two-of-us/
+description: >-
+  On Thursday night Just the two of us started, on BBC 1. I thought it was okay,
+  but the celebrities...
+date: '2006-02-23'
+permalink: /2006/02/23/just-the-two-of-us/
 tags:
   - Entertainment News
 author: John

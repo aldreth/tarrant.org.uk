@@ -1,8 +1,10 @@
 ---
 title: Grown Up Evening
-description: ""
-date: 2004-12-23
-permalink: 2004/12/23/grown-up-evening/
+description: >-
+  Last night we had Jo & Bill and Michelle & Mark round for a meal. We had a
+  fantastic time....
+date: '2004-12-23'
+permalink: /2004/12/23/grown-up-evening/
 tags:
   - Edward & Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 4
     author: Bill
     author_email: wgs3@york.ac.uk
-    author_url: ""
-    date: 2004-12-23 15:05:42 +0000
-    date_gmt: 2004-12-23 15:05:42 +0000
+    author_url: ''
+    date: '2004-12-23 15:05:42 +0000'
+    date_gmt: '2004-12-23 15:05:42 +0000'
     content: >
       Thanks for a great time,the food and company was superb. I was a bit
       disappointed that we didn't get on to house prices though...!

@@ -1,8 +1,10 @@
 ---
 title: Edward Gets a Job!!
-description: ""
-date: 2004-06-12
-permalink: 2004/06/12/edward-gets-a-job/
+description: >-
+  After what feels like an age of apply for jobs and not getting anywhere, I\'ve
+  got a job for next...
+date: '2004-06-12'
+permalink: /2004/06/12/edward-gets-a-job/
 tags:
   - Edward
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Meeting and a Play
-description: ""
-date: 2006-04-30
-permalink: 2006/04/30/meeting-and-a-play/
+description: >-
+  We went over to Swarthmore for Meeting this morning. The village Meeting House
+  had had a fire, so Meeting was...
+date: '2006-04-30'
+permalink: /2006/04/30/meeting-and-a-play/
 tags:
   - Days with the Children
 author: Edward

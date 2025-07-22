@@ -1,8 +1,10 @@
 ---
 title: All Family OK
-description: ""
-date: 2005-07-07
-permalink: 2005/07/07/all-family-ok/
+description: >-
+  Jane and Katharine and partners/child are all ok, following the bomb in London
+  [today][1]. Been exchanging phone calls and texts...
+date: '2005-07-07'
+permalink: /2005/07/07/all-family-ok/
 tags:
   - Extended Family
 author: Edward

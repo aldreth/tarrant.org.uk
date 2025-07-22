@@ -1,8 +1,10 @@
 ---
 title: Back on Treatment
-description: ""
-date: 2004-10-12
-permalink: 2004/10/12/back-on-treatment/
+description: >-
+  After a few weeks of gradually getting more wheezy, Cindy has had results of a
+  scan that show she needs...
+date: '2004-10-12'
+permalink: /2004/10/12/back-on-treatment/
 tags:
   - Cindy
 author: Edward

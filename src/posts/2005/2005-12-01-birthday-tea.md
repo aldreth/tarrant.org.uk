@@ -1,8 +1,10 @@
 ---
 title: Birthday Tea
-description: ""
-date: 2005-12-01
-permalink: 2005/12/01/birthday-tea/
+description: >-
+  We had a chinese takeaway this evening, by special request. Katharine was
+  here, and so were Lance and Mary. Delicious...
+date: '2005-12-01'
+permalink: /2005/12/01/birthday-tea/
 tags:
   - Days with the Children
 author: Edward

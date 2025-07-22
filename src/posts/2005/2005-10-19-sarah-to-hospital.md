@@ -1,8 +1,10 @@
 ---
 title: Sarah to Hospital
-description: ""
-date: 2005-10-19
-permalink: 2005/10/19/sarah-to-hospital/
+description: >-
+  I went over to Will and Sarah\'s today to take Sarah to hospital. She\'s got a
+  bad case of conjunctivitis...
+date: '2005-10-19'
+permalink: /2005/10/19/sarah-to-hospital/
 tags:
   - Extended Family
 author: Edward

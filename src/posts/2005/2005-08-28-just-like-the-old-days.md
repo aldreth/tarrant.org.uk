@@ -1,8 +1,10 @@
 ---
 title: Just Like the Old Days?
-description: ""
-date: 2005-08-28
-permalink: 2005/08/28/just-like-the-old-days/
+description: >-
+  Phil and Marcia are visiting (with Claudia and Lucas) and we\'ve just finished
+  playing cards - just like when they...
+date: '2005-08-28'
+permalink: /2005/08/28/just-like-the-old-days/
 tags:
   - Friends
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Toby Still Home
-description: ""
-date: 2005-11-09
-permalink: 2005/11/09/toby-still-home/
+description: >-
+  Toby slept from 7:30 yesterday evening till 8:30 this morning - I had to phone
+  the paper shop to say...
+date: '2005-11-09'
+permalink: /2005/11/09/toby-still-home/
 tags:
   - Days with the Children
 author: Edward

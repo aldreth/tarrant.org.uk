@@ -1,8 +1,10 @@
 ---
 title: Out of the Habit
-description: ""
-date: 2006-01-13
-permalink: 2006/01/13/out-of-the-habit/
+description: >-
+  I\'ve really got out of the habit of posting here, so I\'m going to try and
+  get going again. I...
+date: '2006-01-13'
+permalink: /2006/01/13/out-of-the-habit/
 tags:
   - Days with the Children
 author: Edward

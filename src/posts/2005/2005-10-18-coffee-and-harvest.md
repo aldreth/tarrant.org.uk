@@ -1,8 +1,10 @@
 ---
 title: Coffee and Harvest
-description: ""
-date: 2005-10-18
-permalink: 2005/10/18/coffee-and-harvest/
+description: >-
+  I had coffee with Michelle this morning at the Blakehead Bookshop and Café -
+  oh yeah and a huge plate...
+date: '2005-10-18'
+permalink: /2005/10/18/coffee-and-harvest/
 tags:
   - Days with the Children
   - Edward

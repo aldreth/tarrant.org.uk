@@ -1,8 +1,10 @@
 ---
 title: The Tasting Room
-description: ""
-date: 2005-07-06
-permalink: 2005/07/06/the-tasting-room/
+description: >-
+  Lunch today at The Tasting Room York. Here is Edward and my restaurant review.
+  Tucked away in the \'Latin Quater\'...
+date: '2005-07-06'
+permalink: /2005/07/06/the-tasting-room/
 tags:
   - Edward & Cindy
 author: Cindy

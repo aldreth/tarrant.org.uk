@@ -1,8 +1,10 @@
 ---
 title: Technology Projects
-description: ""
-date: 2005-12-09
-permalink: 2005/12/09/technology-projects/
+description: >-
+  Toby and John have both brought home technology projects this week. Toby\'s
+  was a DVD display stand that he made...
+date: '2005-12-09'
+permalink: /2005/12/09/technology-projects/
 tags:
   - Days with the Children
 author: Edward

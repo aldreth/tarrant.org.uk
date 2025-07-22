@@ -1,8 +1,10 @@
 ---
 title: Mum and Dad for the weekend
-description: ""
-date: 2005-01-18
-permalink: 2005/01/18/mum-and-dad-for-the-weekend/
+description: >-
+  Started our weekend over a cup of tea and cream doughnuts and danish pastries.
+  Caught up on family news while...
+date: '2005-01-18'
+permalink: /2005/01/18/mum-and-dad-for-the-weekend/
 tags:
   - Extended Family
 author: Cindy

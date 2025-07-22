@@ -1,8 +1,10 @@
 ---
 title: Funny Doctor
-description: ""
-date: 2004-03-21
-permalink: 2004/03/21/funny-doctor/
+description: >-
+  While Cindy was in hospital for her second lot of treatment, there was an
+  amusing incident with a young doctor....
+date: '2004-03-21'
+permalink: /2004/03/21/funny-doctor/
 tags:
   - Cindy
 author: Edward

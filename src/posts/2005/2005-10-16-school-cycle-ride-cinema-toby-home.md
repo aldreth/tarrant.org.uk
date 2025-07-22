@@ -1,8 +1,10 @@
 ---
-title: School Cycle Ride, Cinema, Toby Home
-description: ""
-date: 2005-10-16
-permalink: 2005/10/16/school-cycle-ride-cinema-toby-home/
+title: 'School Cycle Ride, Cinema, Toby Home'
+description: >-
+  John, Rose and I cycled this morning along the cycle track to Naburn on the
+  [Scarcroft HSP][1] cycle ride. Nice...
+date: '2005-10-16'
+permalink: /2005/10/16/school-cycle-ride-cinema-toby-home/
 tags:
   - Days with the Children
 author: Edward

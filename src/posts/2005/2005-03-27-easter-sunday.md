@@ -1,8 +1,10 @@
 ---
 title: Easter Sunday
-description: ""
-date: 2005-03-27
-permalink: 2005/03/27/easter-sunday/
+description: >-
+  We\'ve had a lovely lunch today with Lance and Mary. Roast Lamb - we haven\'t
+  had anything roasted for a...
+date: '2005-03-27'
+permalink: /2005/03/27/easter-sunday/
 tags:
   - Extended Family
 author: Edward

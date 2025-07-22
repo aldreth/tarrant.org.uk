@@ -1,8 +1,10 @@
 ---
 title: Easter Holiday
-description: ""
-date: 2006-02-01
-permalink: 2006/02/01/easter-holiday/
+description: >-
+  Great excitement, as I\'ve booked us a holiday in Turkey over Easter. We\'re
+  going to stay in a [hotel][1] that...
+date: '2006-02-01'
+permalink: /2006/02/01/easter-holiday/
 tags:
   - Days with the Children
 author: Edward

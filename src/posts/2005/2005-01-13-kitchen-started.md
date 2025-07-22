@@ -1,8 +1,10 @@
 ---
 title: Kitchen Started
-description: ""
-date: 2005-01-13
-permalink: 2005/01/13/kitchen-started/
+description: >-
+  Cindy & I went to Ikea today, and spent a load of money on kitchen units. So
+  things are finally...
+date: '2005-01-13'
+permalink: /2005/01/13/kitchen-started/
 tags:
   - Edward & Cindy
 author: Edward

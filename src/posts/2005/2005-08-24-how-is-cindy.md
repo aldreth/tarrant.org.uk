@@ -1,8 +1,10 @@
 ---
 title: How is Cindy?
-description: ""
-date: 2005-08-24
-permalink: 2005/08/24/how-is-cindy/
+description: >-
+  Good question, but the answer isn\'t so good. She\'s gradually getting more
+  exhausted and finding walking around more and more...
+date: '2005-08-24'
+permalink: /2005/08/24/how-is-cindy/
 tags:
   - Cindy
 author: Edward

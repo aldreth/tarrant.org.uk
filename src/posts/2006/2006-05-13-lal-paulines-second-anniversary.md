@@ -1,8 +1,10 @@
 ---
 title: Lal & Pauline's Second Anniversary
-description: ""
-date: 2006-05-13
-permalink: 2006/05/13/lal-and-paulines-second-anniversary/
+description: >-
+  We went over to Lal and Pauline\'s today. Last year they had fantastic
+  weather, but unfortunately it was grey and...
+date: '2006-05-13'
+permalink: /2006/05/13/lal-and-paulines-second-anniversary/
 tags:
   - Days with the Children
 author: Edward

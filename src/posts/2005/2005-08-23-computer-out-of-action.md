@@ -1,8 +1,10 @@
 ---
 title: Computer Out of Action!
-description: ""
-date: 2005-08-23
-permalink: 2005/08/23/computer-out-of-action/
+description: >-
+  No entries recently as the computer hasn\'t been working properly. To catch
+  up: <wpg2>wales2005</wpg2> Wales - rock climbing;excellent walk just...
+date: '2005-08-23'
+permalink: /2005/08/23/computer-out-of-action/
 tags:
   - Days with the Children
   - Edward & Cindy

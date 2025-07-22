@@ -1,8 +1,10 @@
 ---
 title: Thursday Already
-description: ""
-date: 2005-11-17
-permalink: 2005/11/17/thursday-already/
+description: >-
+  \- where does the week go? The problem with writing several days at a time, is
+  that I can\'t quite...
+date: '2005-11-17'
+permalink: /2005/11/17/thursday-already/
 tags:
   - Days with the Children
 author: Edward

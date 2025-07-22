@@ -1,8 +1,10 @@
 ---
 title: Feeling Better
-description: ""
-date: 2004-05-01
-permalink: 2004/05/01/feeling-better/
+description: >-
+  Cindy\'s been off chemo since Wednesday, and is now feeling much healthier.
+  She has spent most of the afternoon in...
+date: '2004-05-01'
+permalink: /2004/05/01/feeling-better/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 2
     author: Hanne and Richard Fenby
     author_email: rfenby@compuserve.com
-    author_url: ""
-    date: 2004-06-19 17:50:54 +0100
-    date_gmt: 2004-06-19 17:50:54 +0100
+    author_url: ''
+    date: '2004-06-19 17:50:54 +0100'
+    date_gmt: '2004-06-19 17:50:54 +0100'
     content: >
       We are so pleased to read your website. We wish you all well and hope to
       see you sometime in the near future.

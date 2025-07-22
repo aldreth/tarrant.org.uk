@@ -1,8 +1,10 @@
 ---
 title: Rose Back to School
-description: ""
-date: 2005-11-23
-permalink: 2005/11/23/rose-back-to-school/
+description: >-
+  After Thursday, Friday, Monday and Tuesday morning off school, Rose went back
+  on Tuesday morning, and had a good time....
+date: '2005-11-23'
+permalink: /2005/11/23/rose-back-to-school/
 tags:
   - Days with the Children
 author: Edward

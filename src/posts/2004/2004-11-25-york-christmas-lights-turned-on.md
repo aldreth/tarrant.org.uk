@@ -1,8 +1,10 @@
 ---
 title: York Christmas Lights Turned On
-description: ""
-date: 2004-11-25
-permalink: 2004/11/25/york-christmas-lights-turned-on/
+description: >-
+  I got back from town with the children just a couple of hours ago. We\'d been
+  into town to watch...
+date: '2004-11-25'
+permalink: /2004/11/25/york-christmas-lights-turned-on/
 tags:
   - Days with the Children
 author: Edward

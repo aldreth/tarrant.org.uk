@@ -1,8 +1,10 @@
 ---
 title: Blast from the Past
-description: ""
-date: 2006-05-02
-permalink: 2006/05/02/blast-from-the-past/
+description: >-
+  I bought a pair of Doctor Marten\'s shoes (not boots) today. They are black
+  with yellow stitching around the sole....
+date: '2006-05-02'
+permalink: /2006/05/02/blast-from-the-past/
 tags:
   - Edward
 author: Edward

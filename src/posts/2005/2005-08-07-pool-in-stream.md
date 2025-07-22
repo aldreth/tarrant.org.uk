@@ -1,8 +1,10 @@
 ---
 title: Pool in Stream
-description: ""
-date: 2005-08-07
-permalink: 2005/08/07/pool-in-stream/
+description: >-
+  We walked down to the stream in the grounds and found a waterfall with a
+  fantastic pool at the bottom...
+date: '2005-08-07'
+permalink: /2005/08/07/pool-in-stream/
 tags:
   - Extended Family
 author: Edward

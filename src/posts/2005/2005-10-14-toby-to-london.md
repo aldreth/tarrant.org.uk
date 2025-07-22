@@ -1,8 +1,10 @@
 ---
 title: Toby to London
-description: ""
-date: 2005-10-14
-permalink: 2005/10/14/toby-to-london/
+description: >-
+  Rose and I went to the station to wave off Toby. He is spending this weekend
+  in London with Jane...
+date: '2005-10-14'
+permalink: /2005/10/14/toby-to-london/
 tags:
   - Days with the Children
 author: Edward

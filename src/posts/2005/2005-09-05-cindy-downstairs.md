@@ -1,8 +1,10 @@
 ---
 title: Cindy Downstairs
-description: ""
-date: 2005-09-05
-permalink: 2005/09/05/cindy-downstairs/
+description: >-
+  Late in the afternoon, Cindy came downstairs. I pushed her in the wheelchair
+  along the landing to the stairs and...
+date: '2005-09-05'
+permalink: /2005/09/05/cindy-downstairs/
 tags:
   - Cindy
 author: Edward

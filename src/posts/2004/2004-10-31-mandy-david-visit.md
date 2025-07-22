@@ -1,8 +1,10 @@
 ---
 title: Mandy & David Visit
-description: ""
-date: 2004-10-31
-permalink: 2004/10/31/mandy-and-david-visit/
+description: >-
+  We\'ve had Mandy, David, Amy and Tom to visit for the last few days. They came
+  up on Thursday and...
+date: '2004-10-31'
+permalink: /2004/10/31/mandy-and-david-visit/
 tags:
   - Extended Family
 author: Edward

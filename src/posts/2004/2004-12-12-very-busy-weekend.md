@@ -1,8 +1,10 @@
 ---
 title: Very Busy Weekend
-description: ""
-date: 2004-12-12
-permalink: 2004/12/12/very-busy-weekend/
+description: >-
+  **Friday:** At school, John and Rose went off to the station (with the rest of
+  the school) to wave flags...
+date: '2004-12-12'
+permalink: /2004/12/12/very-busy-weekend/
 tags:
   - Days with the Children
 author: Edward

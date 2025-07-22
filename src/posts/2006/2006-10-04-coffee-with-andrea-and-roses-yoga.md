@@ -1,8 +1,10 @@
 ---
 title: Coffee with Andrea and Rose's Yoga
-description: ""
-date: 2006-10-04
-permalink: 2006/10/04/coffee-with-andrea-and-roses-yoga/
+description: >-
+  I had coffee with Andrea this morning - two hours putting the world to rights.
+  Rose went for her third...
+date: '2006-10-04'
+permalink: /2006/10/04/coffee-with-andrea-and-roses-yoga/
 tags:
   - Days with the Children
   - Edward

@@ -1,8 +1,10 @@
 ---
 title: Photos of Mandy's Birthday
-description: ""
-date: 2005-09-19
-permalink: 2005/09/19/photos-of-mandys-birthday/
+description: >-
+  I\'ve put up some photos from Mandy\'s birthday weekend here in York. There
+  are several of Cindy. <!-- [![Mandy &...
+date: '2005-09-19'
+permalink: /2005/09/19/photos-of-mandys-birthday/
 tags:
   - Days with the Children
   - Edward & Cindy

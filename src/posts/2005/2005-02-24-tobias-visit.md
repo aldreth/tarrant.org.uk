@@ -1,8 +1,10 @@
 ---
 title: Tobias' Visit
-description: ""
-date: 2005-02-24
-permalink: 2005/02/24/tobias-visit/
+description: >-
+  Toby\'s German exchange - Tobi - went home on Wednesday. I think that he had a
+  good time. He didn\'t...
+date: '2005-02-24'
+permalink: /2005/02/24/tobias-visit/
 tags:
   - Days with the Children
 author: Edward

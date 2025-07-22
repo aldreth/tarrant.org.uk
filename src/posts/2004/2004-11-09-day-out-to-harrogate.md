@@ -1,8 +1,10 @@
 ---
 title: Day Out to Harrogate
-description: ""
-date: 2004-11-09
-permalink: 2004/11/09/day-out-to-harrogate/
+description: >-
+  After I\'d dropped the children at school, Cindy and I went over to Harrogate
+  to the [Turkish Baths][1] (recently renovated)....
+date: '2004-11-09'
+permalink: /2004/11/09/day-out-to-harrogate/
 tags:
   - Cindy
 author: Edward

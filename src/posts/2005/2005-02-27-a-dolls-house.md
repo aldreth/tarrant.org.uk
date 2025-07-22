@@ -1,8 +1,10 @@
 ---
 title: A Doll's House
-description: ""
-date: 2005-02-27
-permalink: 2005/02/27/a-dolls-house/
+description: >-
+  Very good. Felt long and lots of talking, but the main actor - Tanya Moodie -
+  who was on stage...
+date: '2005-02-27'
+permalink: /2005/02/27/a-dolls-house/
 tags:
   - Edward & Cindy
 author: Edward

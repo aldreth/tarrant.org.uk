@@ -1,8 +1,10 @@
 ---
 title: Cindy Gets a Haircut
-description: ""
-date: 2005-08-29
-permalink: 2005/08/29/cindy-gets-a-haircut/
+description: >-
+  Just taken Cindy up to Brian\'s for a haircut. Her hair has gradually grown,
+  till now it looked a bit...
+date: '2005-08-29'
+permalink: /2005/08/29/cindy-gets-a-haircut/
 tags:
   - Cindy
 author: Edward

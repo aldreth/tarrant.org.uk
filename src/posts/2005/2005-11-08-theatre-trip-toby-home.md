@@ -1,8 +1,10 @@
 ---
 title: Theatre Trip & Toby Home
-description: ""
-date: 2005-11-08
-permalink: 2005/11/08/theatre-trip-and-toby-home/
+description: >-
+  Toby\'s been off school today - dreadful cold, headache and runny nose. He
+  slept for over three hours in the...
+date: '2005-11-08'
+permalink: /2005/11/08/theatre-trip-and-toby-home/
 tags:
   - Days with the Children
 author: Edward

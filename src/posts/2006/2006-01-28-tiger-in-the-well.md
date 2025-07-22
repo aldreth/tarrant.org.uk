@@ -1,8 +1,10 @@
 ---
 title: Tiger in the Well
-description: ""
-date: 2006-01-28
-permalink: 2006/01/28/tiger-in-the-well/
+description: >-
+  I read the penultimate chapter of this fantastic book to Rose last night.
+  Sally managed to escape from the cellar...
+date: '2006-01-28'
+permalink: /2006/01/28/tiger-in-the-well/
 tags:
   - Days with the Children
 author: Edward

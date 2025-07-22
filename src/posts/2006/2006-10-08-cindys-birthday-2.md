@@ -1,8 +1,10 @@
 ---
 title: Cindy's Birthday
-description: ""
-date: 2006-10-08
-permalink: 2006/10/08/cindys-birthday/
+description: >-
+  It would have been Cindy\'s birthday tomorrow so we went out for a meal with
+  Lance and Mary to celebrate....
+date: '2006-10-08'
+permalink: /2006/10/08/cindys-birthday/
 tags:
   - Cindy
   - Days with the Children

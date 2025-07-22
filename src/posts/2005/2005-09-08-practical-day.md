@@ -1,8 +1,10 @@
 ---
 title: Practical Day
-description: ""
-date: 2005-09-08
-permalink: 2005/09/08/practical-day/
+description: >-
+  Kate Hodge our MacMillan nurse came round today, to chat about practical
+  things. She\'s sorted out some extra painkillers for...
+date: '2005-09-08'
+permalink: /2005/09/08/practical-day/
 tags:
   - Days with the Children
   - Edward & Cindy
@@ -11,9 +13,9 @@ comments:
   - id: 11
     author: Phil Martin
     author_email: phil@moneypuzzle.co.uk
-    author_url: http://www.moneypuzzle.co.uk
-    date: 2005-09-12 22:43:26 +0100
-    date_gmt: 2005-09-12 22:43:26 +0100
+    author_url: 'http://www.moneypuzzle.co.uk'
+    date: '2005-09-12 22:43:26 +0100'
+    date_gmt: '2005-09-12 22:43:26 +0100'
     content: >
       Edward,
 

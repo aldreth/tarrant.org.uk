@@ -1,8 +1,10 @@
 ---
 title: Weekend in London
-description: ""
-date: 2006-02-06
-permalink: 2006/02/06/weekend-in-london/
+description: >-
+  We went to London this weekend, primarily for Eleanor Garner\'s christening -
+  of which more later. John, Rose &amp; I...
+date: '2006-02-06'
+permalink: /2006/02/06/weekend-in-london/
 tags:
   - Days with the Children
 author: Edward

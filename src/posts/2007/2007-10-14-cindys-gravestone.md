@@ -1,8 +1,10 @@
 ---
 title: Cindy's Gravestone
-description: ""
-date: 2007-10-14
-permalink: 2007/10/14/cindys-gravestone/
+description: >-
+  Well at last, Cindy\'s gravestone has been put up in the cemetery. We all went
+  this afternoon after Meeting, had...
+date: '2007-10-14'
+permalink: /2007/10/14/cindys-gravestone/
 tags:
   - Cindy
   - Days with the Children

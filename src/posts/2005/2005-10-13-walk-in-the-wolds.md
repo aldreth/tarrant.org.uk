@@ -1,8 +1,10 @@
 ---
 title: Walk in the Wolds
-description: ""
-date: 2005-10-13
-permalink: 2005/10/13/walk-in-the-wolds/
+description: >-
+  I went for a [walk][1] in the Yorkshire Wolds today with David Campbell. We
+  left after dropping children at schools...
+date: '2005-10-13'
+permalink: /2005/10/13/walk-in-the-wolds/
 tags:
   - Days with the Children
   - Edward

@@ -1,8 +1,10 @@
 ---
 title: John and Boodle
-description: ""
-date: 2006-05-21
-permalink: 2006/05/21/john-and-boodle/
+description: >-
+  ... came for supper. Very nice evening. We watched quite a lot of the
+  [Eurovision Song Contest][1], which was won...
+date: '2006-05-21'
+permalink: /2006/05/21/john-and-boodle/
 tags:
   - Days with the Children
 author: Edward

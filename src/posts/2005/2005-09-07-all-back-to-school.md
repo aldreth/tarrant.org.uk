@@ -1,8 +1,10 @@
 ---
 title: All Back to School
-description: ""
-date: 2005-09-07
-permalink: 2005/09/07/all-back-to-school/
+description: >-
+  Toby started year 10 yesterday - looking very smart in his blue T-shirt (lower
+  school wear white - he\'s really...
+date: '2005-09-07'
+permalink: /2005/09/07/all-back-to-school/
 tags:
   - Cindy
   - Days with the Children

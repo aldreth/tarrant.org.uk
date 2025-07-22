@@ -1,8 +1,10 @@
 ---
 title: Kitchen Progress
-description: ""
-date: 2005-03-29
-permalink: 2005/03/29/kitchen-progress/
+description: >-
+  Yesterday I tidied up the kitchen, rubbed down bits of woodwork, cleared up
+  plaster and so on. Today, I have...
+date: '2005-03-29'
+permalink: /2005/03/29/kitchen-progress/
 tags:
   - Kitchen
 author: Edward

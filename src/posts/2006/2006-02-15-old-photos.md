@@ -1,8 +1,10 @@
 ---
 title: Old Photos
-description: ""
-date: 2006-02-15
-permalink: 2006/02/15/old-photos/
+description: >-
+  We were looking through lots of old photos last night, and Rose wanted a copy
+  of the some of her...
+date: '2006-02-15'
+permalink: /2006/02/15/old-photos/
 tags:
   - Days with the Children
 author: Edward

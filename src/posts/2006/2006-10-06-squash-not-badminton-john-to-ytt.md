@@ -1,8 +1,10 @@
 ---
 title: Squash not Badminton - John to YTT
-description: ""
-date: 2006-10-06
-permalink: 2006/10/06/squash-not-badminton-john-to-ytt/
+description: >-
+  Yesterday I taught Luigi and Clara - for the first time this week as they\'ve
+  been in Italy. I had...
+date: '2006-10-06'
+permalink: /2006/10/06/squash-not-badminton-john-to-ytt/
 tags:
   - Days with the Children
   - Edward

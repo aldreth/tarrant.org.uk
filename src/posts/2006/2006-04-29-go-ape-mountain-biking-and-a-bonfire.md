@@ -1,8 +1,10 @@
 ---
-title: Go Ape, Mountain Biking and a Bonfire
-description: ""
-date: 2006-04-29
-permalink: 2006/04/29/go-ape-mountain-biking-and-a-bonfire/
+title: 'Go Ape, Mountain Biking and a Bonfire'
+description: >-
+  Rookhow is only 3 miles down the road from the Grizedale Forest Visitors
+  centre, so there were lots of activities...
+date: '2006-04-29'
+permalink: /2006/04/29/go-ape-mountain-biking-and-a-bonfire/
 tags:
   - Days with the Children
 author: Edward

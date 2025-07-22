@@ -1,8 +1,10 @@
 ---
 title: York Waits
-description: ""
-date: 2004-12-19
-permalink: 2004/12/19/york-waits/
+description: >-
+  After saying bye to James and Emma (we left them at ours to have some tea,
+  bathe children and go...
+date: '2004-12-19'
+permalink: /2004/12/19/york-waits/
 tags:
   - Days with the Children
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Pauline and Lal's Anniversary
-description: ""
-date: 2005-05-15
-permalink: 2005/05/15/pauline-and-lals-anniversary/
+description: >-
+  It was Lal and Pauline\'s first anniversary, so they had a party to celebrate.
+  They\'ve also done a lot to...
+date: '2005-05-15'
+permalink: /2005/05/15/pauline-and-lals-anniversary/
 tags:
   - Friends
 author: Edward

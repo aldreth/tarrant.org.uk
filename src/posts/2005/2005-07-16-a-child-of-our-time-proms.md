@@ -1,8 +1,10 @@
 ---
 title: A Child of Our Time - Proms
-description: ""
-date: 2005-07-16
-permalink: 2005/07/16/a-child-of-our-time-proms/
+description: >-
+  Last night the first [Prom][1] of the year was Michael Tippett\'s A Child of
+  Our Time. It\'s a piece I...
+date: '2005-07-16'
+permalink: /2005/07/16/a-child-of-our-time-proms/
 tags:
   - Edward & Cindy
 author: Edward

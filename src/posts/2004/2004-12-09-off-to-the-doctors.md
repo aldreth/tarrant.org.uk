@@ -1,8 +1,10 @@
 ---
 title: Off to the Doctors
-description: ""
-date: 2004-12-09
-permalink: 2004/12/09/off-to-the-doctors/
+description: >-
+  I went to the doctor again today, and he signed me off for another 8 weeks.
+  This will take me...
+date: '2004-12-09'
+permalink: /2004/12/09/off-to-the-doctors/
 tags:
   - Edward
 author: Edward

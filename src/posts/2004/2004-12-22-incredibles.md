@@ -1,8 +1,10 @@
 ---
 title: Incredibles
-description: ""
-date: 2004-12-22
-permalink: 2004/12/22/incredibles/
+description: >-
+  We went to see [The Incredibles][1] last night, or more like yesterday
+  afternoon. It was really good. The animation is...
+date: '2004-12-22'
+permalink: /2004/12/22/incredibles/
 tags:
   - Days with the Children
 author: Edward

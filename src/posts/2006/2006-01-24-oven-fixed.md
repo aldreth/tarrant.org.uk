@@ -1,8 +1,10 @@
 ---
 title: Oven Fixed
-description: ""
-date: 2006-01-24
-permalink: 2006/01/24/oven-fixed/
+description: >-
+  Fixed - well it wasn\'t actually broken! As I suspected, a button had got
+  pressed. If you hold down one...
+date: '2006-01-24'
+permalink: /2006/01/24/oven-fixed/
 tags:
   - Edward
 author: Edward

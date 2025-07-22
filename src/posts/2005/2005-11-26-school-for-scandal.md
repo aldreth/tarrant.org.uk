@@ -1,8 +1,10 @@
 ---
 title: School for Scandal
-description: ""
-date: 2005-11-26
-permalink: 2005/11/26/school-for-scandal/
+description: >-
+  I\'ve just got all the children into bed after coming back from seeing [The
+  School for Scandal][1] at York Theatre...
+date: '2005-11-26'
+permalink: /2005/11/26/school-for-scandal/
 tags:
   - Days with the Children
 author: Edward

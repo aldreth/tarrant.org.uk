@@ -1,8 +1,10 @@
 ---
 title: Cindy Tarrant. 9th October 1961 - 11 September 2005
-description: ""
-date: 2005-09-16
-permalink: 2005/09/16/cindy-tarrant-9th-october-1961-11-september-2005/
+description: >-
+  We are very sorry to have to tell you of the death of **Cindy Tarrant.**
+  <wpg2>wales2005/DSCF1258.jpg</wpg2> Cindy died calmly and...
+date: '2005-09-16'
+permalink: /2005/09/16/cindy-tarrant-9th-october-1961-11-september-2005/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 13
     author: chris thomas
     author_email: david.crane@virgin.net
-    author_url: ""
-    date: 2005-09-17 19:56:47 +0100
-    date_gmt: 2005-09-17 19:56:47 +0100
+    author_url: ''
+    date: '2005-09-17 19:56:47 +0100'
+    date_gmt: '2005-09-17 19:56:47 +0100'
     content: >-
       My best memories of Cindy are when she was pregnant with Toby when you
       came back to London - she was so excited and we used to get the baby book
@@ -27,11 +29,11 @@ comments:
       afterwards - great fun. Will try to find some Old Sarah Bonnell School
       photos to send.
   - id: 14
-    author: Mark, Michelle, Gemma, Benedict &amp; Dominic
+    author: 'Mark, Michelle, Gemma, Benedict &amp; Dominic'
     author_email: mpperry@btinternet.com
-    author_url: ""
-    date: 2005-09-18 22:31:40 +0100
-    date_gmt: 2005-09-18 22:31:40 +0100
+    author_url: ''
+    date: '2005-09-18 22:31:40 +0100'
+    date_gmt: '2005-09-18 22:31:40 +0100'
     content: >-
       Our memories of Cindy mostly involve laughing - whether lifting the mood
       of the everyday mundane tasks, or enjoying a glass of wine after a meal,
@@ -46,9 +48,9 @@ comments:
   - id: 15
     author: Jane Theadom
     author_email: jtheadom@aol.com
-    author_url: ""
-    date: 2005-10-11 00:29:22 +0100
-    date_gmt: 2005-10-11 00:29:22 +0100
+    author_url: ''
+    date: '2005-10-11 00:29:22 +0100'
+    date_gmt: '2005-10-11 00:29:22 +0100'
     content: >+
       Just read Chris' memory about Cindy being pregnant with Toby ... I
       remember Joyce discussing with me what colour outfit to knit for the new

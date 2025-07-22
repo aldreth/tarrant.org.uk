@@ -1,8 +1,10 @@
 ---
 title: New Year's Eve
-description: ""
-date: 2005-01-02
-permalink: 2005/01/02/new-years-eve/
+description: >-
+  We had Jane & Andy and Steve & Sam with Tom and Josh round on New Year\'s Eve.
+  Cindy and...
+date: '2005-01-02'
+permalink: /2005/01/02/new-years-eve/
 tags:
   - Days with the Children
   - Friends

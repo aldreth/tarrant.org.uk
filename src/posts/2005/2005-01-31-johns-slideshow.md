@@ -1,8 +1,10 @@
 ---
 title: John's Slideshow
-description: ""
-date: 2005-01-31
-permalink: 2005/01/31/johns-slideshow/
+description: >-
+  John has made a sideshow as well - [here][1]. Some of the writing is hard to
+  read - when it\'s...
+date: '2005-01-31'
+permalink: /2005/01/31/johns-slideshow/
 tags:
   - Days with the Children
 author: Edward

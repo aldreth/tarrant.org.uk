@@ -1,8 +1,10 @@
 ---
 title: Catch Up Time
-description: ""
-date: 2005-05-02
-permalink: 2005/05/02/catch-up-time/
+description: >-
+  I haven\'t posted for a while so here\'s what\'s been going on. Cindy - has
+  had her tenth chemo treatment...
+date: '2005-05-02'
+permalink: /2005/05/02/catch-up-time/
 tags:
   - Cindy
   - Days with the Children

@@ -1,8 +1,10 @@
 ---
 title: Half Term in Holland
-description: ""
-date: 2006-06-05
-permalink: 2006/06/05/half-term-in-holland/
+description: >-
+  Over half term we went to one of the Center Parcs in Holland. We drove via the
+  Eurotunnel, then stopped...
+date: '2006-06-05'
+permalink: /2006/06/05/half-term-in-holland/
 tags:
   - Days with the Children
   - Extended Family

@@ -1,8 +1,10 @@
 ---
 title: Poem from the Holmans
-description: ""
-date: 2005-10-10
-permalink: 2005/10/10/poem-from-the-holmans/
+description: >-
+  This poem is one that the Holmans chose to read at Cindy\'s funeral, but
+  didn\'t find a space to. >...
+date: '2005-10-10'
+permalink: /2005/10/10/poem-from-the-holmans/
 tags:
   - Cindy
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 23
     author: Phil Martin
     author_email: phil@moneypuzzle.co.uk
-    author_url: http://www.moneypuzzle.co.uk
-    date: 2005-10-10 21:44:44 +0100
-    date_gmt: 2005-10-10 21:44:44 +0100
+    author_url: 'http://www.moneypuzzle.co.uk'
+    date: '2005-10-10 21:44:44 +0100'
+    date_gmt: '2005-10-10 21:44:44 +0100'
     content: >-
       Edward,
 
@@ -31,9 +33,9 @@ comments:
   - id: 24
     author: Phil Martin
     author_email: phil@moneypuzzle.co.uk
-    author_url: http://www.moneypuzzle.co.uk
-    date: 2005-10-10 21:49:34 +0100
-    date_gmt: 2005-10-10 21:49:34 +0100
+    author_url: 'http://www.moneypuzzle.co.uk'
+    date: '2005-10-10 21:49:34 +0100'
+    date_gmt: '2005-10-10 21:49:34 +0100'
     content: >
       Edward,
 

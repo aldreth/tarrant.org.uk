@@ -1,8 +1,10 @@
 ---
 title: Seaside Again
-description: ""
-date: 2005-05-22
-permalink: 2005/05/22/seaside-again/
+description: >-
+  We\'ve been to Hunmanby Gap again today. Some skimming, some body boarding.
+  John jumped off a submerged rock into, over,...
+date: '2005-05-22'
+permalink: /2005/05/22/seaside-again/
 tags:
   - Days with the Children
 author: Edward

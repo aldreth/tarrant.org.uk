@@ -1,8 +1,10 @@
 ---
 title: Much Better Day
-description: ""
-date: 2005-08-31
-permalink: 2005/08/31/much-better-day/
+description: >-
+  After a really bad couple of days, today was much better. Cindy managed to get
+  up after lunch, then I...
+date: '2005-08-31'
+permalink: /2005/08/31/much-better-day/
 tags:
   - Cindy
 author: Edward

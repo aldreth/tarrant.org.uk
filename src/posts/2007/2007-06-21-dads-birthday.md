@@ -1,8 +1,10 @@
 ---
-title: "Dad's birthday "
-description: ""
-date: 2007-06-21
-permalink: 2007/06/21/dads-birthday/
+title: 'Dad''s birthday '
+description: >-
+  Dad\'s birthday yesterday. Got a nice selection of presents. A hand made
+  pillow cover from Rose (made by Rose), a...
+date: '2007-06-21'
+permalink: /2007/06/21/dads-birthday/
 tags:
   - Edward
 author: Toby

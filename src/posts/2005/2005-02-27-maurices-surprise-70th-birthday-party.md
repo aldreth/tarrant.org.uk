@@ -1,8 +1,10 @@
 ---
 title: Maurice's Surprise 70th Birthday Party
-description: ""
-date: 2005-02-27
-permalink: 2005/02/27/maurices-surprise-70th-birthday-party/
+description: >-
+  Cindy\'s dad, Maurice, was 70 on Friday and we all met up for a surprise meal.
+  He knew he was...
+date: '2005-02-27'
+permalink: /2005/02/27/maurices-surprise-70th-birthday-party/
 tags:
   - Extended Family
 author: Edward

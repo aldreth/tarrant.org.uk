@@ -1,8 +1,10 @@
 ---
 title: Rose's Photos
-description: ""
-date: 2005-10-17
-permalink: 2005/10/17/roses-photos/
+description: >-
+  Just had a film from Rose\'s camera developed. It starts with photos of last
+  year\'s Christmas tree, so it\'s been...
+date: '2005-10-17'
+permalink: /2005/10/17/roses-photos/
 tags:
   - Days with the Children
 author: Edward

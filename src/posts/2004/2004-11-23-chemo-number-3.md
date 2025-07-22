@@ -1,8 +1,10 @@
 ---
 title: Chemo Number 3
-description: ""
-date: 2004-11-23
-permalink: 2004/11/23/chemo-number-3/
+description: >-
+  Cindy went over to the Cancer Care Centre for a 9:45 appointment this morning
+  for her third round of chemo...
+date: '2004-11-23'
+permalink: /2004/11/23/chemo-number-3/
 tags:
   - Cindy
 author: Edward

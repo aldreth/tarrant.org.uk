@@ -1,8 +1,10 @@
 ---
 title: Brimham Rocks
-description: ""
-date: 2005-11-13
-permalink: 2005/11/13/brimham-rocks/
+description: >-
+  We went to [Brimham Rocks][1] today with Kath and Louis. It was a fantastic
+  day, really bright and warm (in...
+date: '2005-11-13'
+permalink: /2005/11/13/brimham-rocks/
 tags:
   - Days with the Children
 author: Edward
@@ -10,11 +12,12 @@ comments:
   - id: 27
     author: Helen
     author_email: hbarnes9uk@yahoo.co.uk
-    author_url: ""
-    date: 2005-11-15 19:57:24 +0000
-    date_gmt: 2005-11-15 19:57:24 +0000
-    content: Brimham Rocks are brilliant - Matt and Sam used to love going there
-      when we lived in York.  Glad you're all back to hectic activity this week
+    author_url: ''
+    date: '2005-11-15 19:57:24 +0000'
+    date_gmt: '2005-11-15 19:57:24 +0000'
+    content: >-
+      Brimham Rocks are brilliant - Matt and Sam used to love going there when
+      we lived in York.  Glad you're all back to hectic activity this week
       (always feel like serial under-achiever whenever read yr blog) - take care
 type: Blog
 ---

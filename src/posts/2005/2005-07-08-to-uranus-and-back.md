@@ -1,8 +1,10 @@
 ---
 title: To Uranus and Back!
-description: ""
-date: 2005-07-08
-permalink: 2005/07/08/to-uranus-and-back/
+description: >-
+  John, Rose and I have just cycled along the [planet cycle path][1] to Uranus.
+  It took about an hour and...
+date: '2005-07-08'
+permalink: /2005/07/08/to-uranus-and-back/
 tags:
   - Days with the Children
 author: Edward

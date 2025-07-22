@@ -1,8 +1,10 @@
 ---
 title: Christmas Eve
-description: ""
-date: 2004-12-24
-permalink: 2004/12/24/christmas-eve/
+description: >-
+  Last few preparations - present wrapping, turkey delivery (thanks Mark - who
+  got up at four and got ours as...
+date: '2004-12-24'
+permalink: /2004/12/24/christmas-eve/
 tags:
   - Days with the Children
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: John on the Radio
-description: ""
-date: 2006-01-23
-permalink: 2006/01/23/john-on-the-radio/
+description: >-
+  The BBC rang up on Friday asking if John would do a report for [Big Toe][1].
+  They had our phone...
+date: '2006-01-23'
+permalink: /2006/01/23/john-on-the-radio/
 tags:
   - Days with the Children
 author: Edward

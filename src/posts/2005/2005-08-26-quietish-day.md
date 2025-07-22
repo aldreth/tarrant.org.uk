@@ -1,8 +1,10 @@
 ---
 title: Quietish Day
-description: ""
-date: 2005-08-26
-permalink: 2005/08/26/quietish-day/
+description: >-
+  Nothing particular during the day - a bit of tidying up, putting away the
+  washing... Toby went off to Monk\'s...
+date: '2005-08-26'
+permalink: /2005/08/26/quietish-day/
 tags:
   - Days with the Children
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Great Yarmouth!
-description: ""
-date: 2007-06-29
-permalink: 2007/06/29/great-yarmouth/
+description: >-
+  Got back from Yarmouth last night after an exhausting journey, but having had
+  a great time. The first train journey...
+date: '2007-06-29'
+permalink: /2007/06/29/great-yarmouth/
 tags:
   - Days with the Children
 author: Toby

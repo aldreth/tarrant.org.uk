@@ -1,8 +1,10 @@
 ---
 title: Bonfire Weekend
-description: ""
-date: 2004-11-07
-permalink: 2004/11/07/bonfire-weekend/
+description: >-
+  We\'ve had a great weekend - **two** bonfire parties and visitors to stay. On
+  Friday evening we went to John...
+date: '2004-11-07'
+permalink: /2004/11/07/bonfire-weekend/
 tags:
   - Days with the Children
   - Friends

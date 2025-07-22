@@ -1,8 +1,10 @@
 ---
 title: A Film from Cindy's Camera
-description: ""
-date: 2006-02-16
-permalink: 2006/02/16/a-film-from-cindys-camera/
+description: >-
+  I finished the film that was in Cindy\'s camera this weekend in Manchester. It
+  had some photos from the summer...
+date: '2006-02-16'
+permalink: /2006/02/16/a-film-from-cindys-camera/
 tags:
   - Days with the Children
 author: Edward

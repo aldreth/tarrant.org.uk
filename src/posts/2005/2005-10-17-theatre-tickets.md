@@ -1,8 +1,10 @@
 ---
 title: Theatre Tickets
-description: ""
-date: 2005-10-17
-permalink: 2005/10/17/theatre-tickets/
+description: >-
+  Cindy & I had organised this term\'s worth of big deal tickets. I decided that
+  I didn\'t want to go...
+date: '2005-10-17'
+permalink: /2005/10/17/theatre-tickets/
 tags:
   - Edward & Cindy
   - Friends

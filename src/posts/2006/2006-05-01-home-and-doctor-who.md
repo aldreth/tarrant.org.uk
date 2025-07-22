@@ -1,8 +1,10 @@
 ---
 title: Home and Doctor Who
-description: ""
-date: 2006-05-01
-permalink: 2006/05/01/home-and-doctor-who/
+description: >-
+  It was raining this morning, after lovely weather for the rest of the weekend,
+  so we left by about 9:30...
+date: '2006-05-01'
+permalink: /2006/05/01/home-and-doctor-who/
 tags:
   - Days with the Children
 author: Edward

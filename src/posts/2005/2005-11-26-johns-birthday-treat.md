@@ -1,8 +1,10 @@
 ---
 title: John's Birthday Treat
-description: ""
-date: 2005-11-26
-permalink: 2005/11/26/johns-birthday-treat/
+description: >-
+  It\'s John\'s birthday next Thursday, and he decided to have his birthday
+  treat before his birthday. So last night he...
+date: '2005-11-26'
+permalink: /2005/11/26/johns-birthday-treat/
 tags:
   - Days with the Children
 author: Edward

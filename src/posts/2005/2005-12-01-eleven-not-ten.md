@@ -1,8 +1,10 @@
 ---
 title: Eleven Not Ten
-description: ""
-date: 2005-12-01
-permalink: 2005/12/01/eleven-not-ten/
+description: >-
+  Of course, I can\'t count. Yesterday\'s [post][1] looked back ten years to the
+  night before John was born. Of course...
+date: '2005-12-01'
+permalink: /2005/12/01/eleven-not-ten/
 tags:
   - Days with the Children
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Toby's New Job
-description: ""
-date: 2006-05-19
-permalink: 2006/05/19/tobys-new-job/
+description: >-
+  Well that didn\'t take long!! It isn\'t really a new job, because it\'ll still
+  be at the newsagent\'s. Two hours...
+date: '2006-05-19'
+permalink: /2006/05/19/tobys-new-job/
 tags:
   - Days with the Children
 author: Edward

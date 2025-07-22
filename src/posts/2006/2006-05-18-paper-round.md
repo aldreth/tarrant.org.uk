@@ -1,8 +1,10 @@
 ---
 title: Paper Round
-description: ""
-date: 2006-05-18
-permalink: 2006/05/18/paper-round/
+description: >-
+  Toby is feeling rather agrieved this morning, as the papershop where he has
+  diligently and very reliably done a paper...
+date: '2006-05-18'
+permalink: /2006/05/18/paper-round/
 tags:
   - Days with the Children
 author: Edward

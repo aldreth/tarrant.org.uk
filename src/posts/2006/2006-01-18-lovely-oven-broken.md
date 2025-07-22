@@ -1,8 +1,10 @@
 ---
 title: Lovely Oven Broken
-description: ""
-date: 2006-01-18
-permalink: 2006/01/18/lovely-oven-broken/
+description: >-
+  I used our super new oven to grill sausages on Saturday, then when I came to
+  use it to make...
+date: '2006-01-18'
+permalink: /2006/01/18/lovely-oven-broken/
 tags:
   - Days with the Children
 author: Edward

@@ -1,8 +1,10 @@
 ---
 title: Rose's Dance Show
-description: ""
-date: 2005-10-15
-permalink: 2005/10/15/roses-dance-show/
+description: >-
+  Rose\'s dance show has been taking up a lot of time the last few weekends and
+  I finally got to...
+date: '2005-10-15'
+permalink: /2005/10/15/roses-dance-show/
 tags:
   - Days with the Children
 author: Edward
@@ -10,12 +12,13 @@ comments:
   - id: 26
     author: Jayne
     author_email: warrensark@hotmail.com
-    author_url: ""
-    date: 2005-10-16 18:48:52 +0100
-    date_gmt: 2005-10-16 17:48:52 +0100
-    content: Well done Rose, sounds as though the show has gone very well - can we
-      have some photo's if possible?  look forward to seeing them - lots of love
-      to you all
+    author_url: ''
+    date: '2005-10-16 18:48:52 +0100'
+    date_gmt: '2005-10-16 17:48:52 +0100'
+    content: >-
+      Well done Rose, sounds as though the show has gone very well - can we have
+      some photo's if possible?  look forward to seeing them - lots of love to
+      you all
 type: Blog
 ---
 

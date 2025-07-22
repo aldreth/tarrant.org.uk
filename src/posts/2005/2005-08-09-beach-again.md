@@ -1,8 +1,10 @@
 ---
 title: Beach Again
-description: ""
-date: 2005-08-09
-permalink: 2005/08/09/beach-again/
+description: >-
+  Some people went off to Portmerion, but Mary and all 5 of us went off to
+  Harlech Beach again. Not...
+date: '2005-08-09'
+permalink: /2005/08/09/beach-again/
 tags:
   - Extended Family
 author: Edward

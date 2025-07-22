@@ -1,8 +1,10 @@
 ---
 title: Bright & Cold
-description: ""
-date: 2005-12-06
-permalink: 2005/12/06/bright-and-cold/
+description: >-
+  I went for a run today along the river. It was a really crisp, bright day. Two
+  minutes after leaving...
+date: '2005-12-06'
+permalink: /2005/12/06/bright-and-cold/
 tags:
   - Edward
 author: Edward

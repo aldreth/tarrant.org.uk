@@ -1,8 +1,10 @@
 ---
 title: Jayne's Birthday
-description: ""
-date: 2005-08-05
-permalink: 2005/08/05/jaynes-birthday/
+description: >-
+  We **all** (Jayne, Steve, Christopher, Pat, Maurice, Mandy, David, Amy, Tom,
+  Cindy, Me, Toby, John and Rose - Matthew AWOL)...
+date: '2005-08-05'
+permalink: /2005/08/05/jaynes-birthday/
 tags:
   - Extended Family
 author: Edward

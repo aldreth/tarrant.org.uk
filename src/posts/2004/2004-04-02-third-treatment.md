@@ -1,8 +1,10 @@
 ---
 title: Third Treatment
-description: ""
-date: 2004-04-02
-permalink: 2004/04/02/third-treatment/
+description: >-
+  Cindy started her third session as scheduled, in spite of still being tired
+  from the previous one. This time round...
+date: '2004-04-02'
+permalink: /2004/04/02/third-treatment/
 tags:
   - Cindy
 author: Edward

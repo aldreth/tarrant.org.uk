@@ -1,8 +1,10 @@
 ---
 title: Home & Shakespeare
-description: ""
-date: 2005-11-07
-permalink: 2005/11/07/home-and-shakespeare/
+description: >-
+  Rose has been at home today. Worn out and miserable this morning. We went to
+  the supermarket together - as...
+date: '2005-11-07'
+permalink: /2005/11/07/home-and-shakespeare/
 tags:
   - Days with the Children
 author: Edward

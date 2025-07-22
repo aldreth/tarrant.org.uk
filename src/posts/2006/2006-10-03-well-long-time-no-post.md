@@ -1,8 +1,10 @@
 ---
 title: Well - long time no post
-description: ""
-date: 2006-10-03
-permalink: 2006/10/03/well-long-time-no-post/
+description: >-
+  I\'ve really got out of the habit of writing here - partly because it felt as
+  though I was trying...
+date: '2006-10-03'
+permalink: /2006/10/03/well-long-time-no-post/
 tags:
   - Days with the Children
   - Edward

@@ -1,8 +1,10 @@
 ---
 title: Don Giovanni
-description: ""
-date: 2005-01-18
-permalink: 2005/01/18/don-giovanni/
+description: >-
+  We went to the opera last night with Keith and Judy. Before it started, we
+  went for a meal at...
+date: '2005-01-18'
+permalink: /2005/01/18/don-giovanni/
 tags:
   - Edward & Cindy
 author: Edward

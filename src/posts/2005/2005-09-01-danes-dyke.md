@@ -1,8 +1,10 @@
 ---
 title: Dane's Dyke
-description: ""
-date: 2005-09-01
-permalink: 2005/09/01/danes-dyke/
+description: >-
+  I went off today with the children to [Dane\'s Dyke][1] to look for fossils.
+  It\'s supposed to be good for...
+date: '2005-09-01'
+permalink: /2005/09/01/danes-dyke/
 tags:
   - Days with the Children
 author: Edward
@@ -10,9 +12,9 @@ comments:
   - id: 10
     author: Helen
     author_email: hbarnes9uk@yahoo.co.uk
-    author_url: ""
-    date: 2005-09-02 11:52:20 +0100
-    date_gmt: 2005-09-02 11:52:20 +0100
+    author_url: ''
+    date: '2005-09-02 11:52:20 +0100'
+    date_gmt: '2005-09-02 11:52:20 +0100'
     content: >
       For the bruised finger, arnica tablets and a dressing soaked in arnica
       will have a magical effect!

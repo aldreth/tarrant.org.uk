@@ -1,8 +1,10 @@
 ---
 title: Badminton
-description: ""
-date: 2004-11-12
-permalink: 2004/11/12/badminton/
+description: >-
+  I said the reiki made me feel more energetic - here\'s proof (perhaps). I beat
+  Simon at badminton (notice Simon...
+date: '2004-11-12'
+permalink: /2004/11/12/badminton/
 tags:
   - Edward
 author: Edward

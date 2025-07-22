@@ -1,8 +1,10 @@
 ---
-title: The Lion, the Witch and the Wardrobe
-description: ""
-date: 2005-01-08
-permalink: 2005/01/08/the-lion-the-witch-and-the-wardrobe/
+title: 'The Lion, the Witch and the Wardrobe'
+description: >-
+  Last night we went to see [The Lion, the Witch and the Wardrobe][1] at the
+  West Yorkshire Playhouse with Lance...
+date: '2005-01-08'
+permalink: /2005/01/08/the-lion-the-witch-and-the-wardrobe/
 tags:
   - Days with the Children
 author: Edward

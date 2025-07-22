@@ -1,8 +1,10 @@
 ---
 title: Photos added
-description: ""
-date: 2006-04-23
-permalink: 2006/04/23/photos-added/
+description: >-
+  I\'ve put some more photos on the website. There are some of John and Rose
+  ready for World Book Day,...
+date: '2006-04-23'
+permalink: /2006/04/23/photos-added/
 tags:
   - Days with the Children
 author: Edward

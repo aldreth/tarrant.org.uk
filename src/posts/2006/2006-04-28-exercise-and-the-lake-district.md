@@ -1,8 +1,10 @@
 ---
 title: Exercise and the Lake District
-description: ""
-date: 2006-04-28
-permalink: 2006/04/28/exercise-and-the-lake-district/
+description: >-
+  I had a busy day today. I spent the morning sorting out packing for the
+  Meeting trip to the Lake...
+date: '2006-04-28'
+permalink: /2006/04/28/exercise-and-the-lake-district/
 tags:
   - Days with the Children
 author: Edward
