@@ -2,7 +2,21 @@
 layout: page
 permalink: /diary/index.html
 title: Cindy's Diary
+gallery:
+  - image: ./src/pages/diary/diary-cover.jpg
+    alt: >-
+      The cover of The Royal Horticultural Society Diary for 2005.
+      A white A5 book with a red flower on the front.
+    caption: The cover of Cindy's 2005 diary
+  - image: ./src/pages/diary/diary-inside.jpg
+    alt: >-
+      A handwritten page from the diary. Seven tightly written
+      rows of text in blue or black pen. The words are squeezed 
+      into the space for each day.
+    caption: A page from Cindy's diary
 ---
+
+{% include "partials/gallery.njk" %}
 
 {% asyncEach item in collections.allDiaryPosts %}
   {% set headingLevel = "h2" %}
