@@ -2,7 +2,21 @@
 layout: page
 permalink: /blog/index.html
 title: Blog
+gallery:
+  - image: ./src/pages/blog/blog-home.png
+    alt: >-
+      The Home page of the blog in 2005. It's in shades
+      of blue. The top post is 'Technology Projects', there's a
+      picture of Toby's project.
+    caption: The Home page of the blog in 2005
+  - image: ./src/pages/blog/blog-about.png
+    alt: >-
+      The About page of the blog in 2005. It's in shades
+      of blue. There's a photo of Cindy in view in the top
+      section.
+    caption: The Home page of the blog in 2005
 ---
+{% include "partials/gallery.njk" %}
 
 {% asyncEach item in collections.allBlogPosts %}
   {% set headingLevel = "h2" %}
