@@ -15,24 +15,34 @@ if (process.env.NODE_ENV == 'development') {
 export default {
   top: [
     {
+      text: 'Posts',
+      url: '#',
+      submenu: [
+        {
+          text: 'All posts',
+          url: '/all-posts/'
+        },
+        {
+          text: 'Blog',
+          url: '/blog/'
+        },
+        {
+          text: 'Diary',
+          url: '/diary/'
+        },
+        {
+          text: 'Journal',
+          url: '/journal/'
+        }
+      ]
+    },
+    {
       text: 'About',
       url: '/about/'
     },
     {
       text: 'Contact',
       url: '/contact/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
-    },
-    {
-      text: 'Diary',
-      url: '/diary/'
-    },
-    {
-      text: 'Journal',
-      url: '/journal/'
     },
     {
       text: 'Tags',
