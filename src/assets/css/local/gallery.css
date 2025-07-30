@@ -22,7 +22,7 @@
 
 .gallery dialog + button img {
   aspect-ratio: 1;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 /* Don't indicate interactivity without JS */
@@ -38,7 +38,7 @@ is-land:not(:defined) .gallery dialog + button {
 
 .gallery dialog img {
   max-block-size: 70vh;
-  max-inline-size: 90vw;
+  /* max-inline-size: 90vw; */
   object-fit: contain;
   border: none;
 }
