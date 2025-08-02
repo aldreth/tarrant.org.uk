@@ -1,0 +1,66 @@
+.card-gallery dialog {
+  border-radius: var(--border-radius-medium);
+  inset: revert;
+}
+
+/* the image that serves as button */
+.card-gallery dialog + button {
+  all: unset;
+  cursor: pointer;
+}
+
+.card-gallery dialog + button:focus-visible {
+  outline: 3px solid var(--focus-color, currentColor);
+  outline-offset: var(--focus-offset, 0.3ch);
+}
+
+/* the close button */
+.card-gallery dialog > button {
+  margin-inline: auto;
+  display: flex;
+}
+
+.card-gallery dialog + button img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+/* Don't indicate interactivity without JS */
+is-land:not(:defined) .card-gallery dialog + button {
+  cursor: default;
+}
+
+.card-gallery dialog::backdrop {
+  background-image: var(--gradient-stripes);
+  opacity: 0.9;
+  filter: brightness(50%);
+}
+.card-gallery dialog .set {
+  display: grid;
+  grid-column-gap: var(--space-s);
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+}
+
+.card-gallery dialog .set img,
+.card-gallery dialog .set div {
+  max-block-size: 70vh;
+  /* max-inline-size: 90vw; */
+  object-fit: contain;
+  border: none;
+}
+
+[data-theme='dark'] .card-gallery dialog .set div {
+  font-size: var(--size-step-min-1);
+  color: var(--color-text);
+  overflow-y: scroll;
+}
+
+[data-theme='light'] .card-gallery dialog .set div,
+.card-gallery dialog .set div {
+  color: var(--color-bg);
+}
+
+.card-gallery dialog figcaption {
+  color: var(--color-light);
+}

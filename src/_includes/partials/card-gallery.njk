@@ -1,0 +1,38 @@
+
+<is-land on:idle>
+  <div class="card-gallery | grid mt-l-xl gutter-xs" role="list">
+    {%- for set in cardGallery -%}
+    {% set image1 = set.images[0] %}
+      <dialog class="flow modal{{ loop.index }}">
+        <div class="cluster justify-center flow-space-m gutter-s">
+          <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
+            <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
+          </button>
+          <button data-close class="button" autofocus data-button-variant="primary">
+            {{ meta.dialog.close }}
+          </button>
+          <button data-nav="next" class="button text-step-1" data-button-variant="primary">
+            <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
+          </button>
+        </div>
+        <div class="set">
+          {%- for item in set.images -%}
+            {%- image item.src, item.alt, item.caption -%}
+          {%- endfor -%}
+          <div>
+            {{ set.text | striptags(true) | escape | nl2br  }}
+          </div>
+        </div>
+      </dialog>
+      <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt -%}</button>
+    {%- endfor -%}
+  </div>
+
+  {% css "local" %}
+    {% include "css/card-gallery.css" %}
+  {% endcss %}
+
+  {% js "defer" %}
+    {% include "scripts/dialog.js" %}
+  {% endjs %}
+</is-land>
