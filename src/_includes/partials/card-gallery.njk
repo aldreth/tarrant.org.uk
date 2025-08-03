@@ -17,14 +17,14 @@
         </div>
         <div class="set">
           {%- for item in set.images -%}
-            {%- image item.src, item.alt, item.caption -%}
+            {%- image item.src, item.alt -%}
           {%- endfor -%}
           <div>
             {{ set.text | striptags(true) | escape | nl2br  }}
           </div>
         </div>
       </dialog>
-      <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt -%}</button>
+      <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt, image1.caption -%}</button>
     {%- endfor -%}
   </div>
 
