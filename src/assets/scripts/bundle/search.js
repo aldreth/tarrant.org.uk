@@ -24,6 +24,47 @@ async function ensurePagefind() {
     });
 }
 
+function renderItem(item) {
+  let {
+    url,
+    excerpt,
+    meta: {author, date, title, type}
+  } = item;
+
+  let variant;
+  switch (type) {
+    case 'Blog':
+      variant = 'secondary';
+      break;
+    case 'Diary':
+      variant = 'tertiary';
+      break;
+    default:
+      variant = 'primary';
+      break;
+  }
+
+  return `
+<custom-card clickable class="mt-s-m">
+  <h2 slot="headline" class="text-step-2">
+    <a href="${url}">${title}</a>
+  </h2>
+  <span slot="date">${date}</span>
+  <div slot="type" webc:nokeep>
+    <span class="button" data-small-button data-button-variant=${variant}>${type}</span>
+  </div>
+  <div slot="content" webc:nokeep>${excerpt}</div>
+</custom-card>
+`;
+}
+
+function renderItems(q, items) {
+  document.querySelector('#results-count').innerHTML = `${items.length} results for ${q}`;
+
+  let content = items.map(renderItem).join('');
+  document.querySelector('#results').innerHTML = content;
+}
+
 window.addEventListener('DOMContentLoaded', event => {
   ensurePagefind()
     .then(_ => {
@@ -35,6 +76,10 @@ window.addEventListener('DOMContentLoaded', event => {
 
   form.addEventListener('submit', e => {
     e.preventDefault();
+
+    // Clear current content
+    document.querySelector('#results').innerHTML = '';
+    document.querySelector('#results-count').innerHTML = '';
 
     let formData = new FormData(form);
     let q = formData.get('q');
@@ -48,7 +93,11 @@ window.addEventListener('DOMContentLoaded', event => {
 
     window.pagefind
       .search(q, {filters: {type: {any: typeFilters}}})
-      .then(search => Promise.all(search.results.map(result => result.data())).then(console.log))
+      .then(search =>
+        Promise.all(search.results.map(result => result.data()))
+          .then(data => renderItems(q, data))
+          .catch(console.error)
+      )
       .catch(console.error);
   });
 });
