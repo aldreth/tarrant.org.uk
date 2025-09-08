@@ -1,0 +1,71 @@
+---
+layout: base
+permalink: /search.html
+title: Search
+---
+
+
+<div class="region wrapper flow prose">
+  <h1 class="gradient-text">Search</h1>
+  <search id="search">
+    <form role="search" action="https://duckduckgo.com" method="GET" id="form--search">
+      <fieldset class="with-button">
+        <label for="search-for" class="hidden">Search for</label>
+        <input id="search-for" type="search" name="q" placeholder="Search" autofocus>
+        <input type="hidden" name="sites" value="tarrant.org.uk">
+        <button type="submit" class="button">Search</button>
+      </fieldset>
+
+      <div class="filter-and-results">
+        <fieldset class="types">
+          <label><input type="checkbox" name="Blog" >Blog</label>
+          <label><input type="checkbox" name="Diary">Diary</label>
+          <label><input type="checkbox" name="Journal">Journal</label>
+        </fieldset>
+        <div class="results-area">
+          <header>
+            6 results for lal
+          </header>
+          <ul class="results" id="results">
+            <li class="result">
+              <a class="result-link" href="#">Lal & Pauline's Second Anniversary</a>
+              <p class="result-excerpt">Lal & Pauline's Second Anniversary. We went over to Lal and Pauline's</p>
+              <ul class="results-tags">
+                <li class="button" data-small-button>Author: Edward</li>
+                <li class="button" data-small-button>Date: Saturday 13 July 2006</li>
+                <li class="button" data-small-button>Type: Blog</li>
+              </ul>
+            </li>
+            <li class="result">
+              <a class="result-link" href="#">Lal & Pauline's Second Anniversary</a>
+              <p class="result-excerpt">Lal & Pauline's Second Anniversary. We went over to Lal and Pauline's</p>
+              <ul class="results-tags">
+                <li class="button" data-small-button>Author: Edward</li>
+                <li class="button" data-small-button>Date: Saturday 13 July 2006</li>
+                <li class="button" data-small-button>Type: Blog</li>
+              </ul>
+            </li>
+            <li class="result">
+              <a class="result-link" href="#">Lal & Pauline's Second Anniversary</a>
+              <p class="result-excerpt">Lal & Pauline's Second Anniversary. We went over to Lal and Pauline's</p>
+              <ul class="results-tags">
+                <li class="button" data-small-button>Author: Edward</li>
+                <li class="button" data-small-button>Date: Saturday 13 July 2006</li>
+                <li class="button" data-small-button>Type: Blog</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </form>
+  </search>
+</div>
+
+
+{% css "local" %}
+  {% include "css/forms.css" %}
+  {% include "css/search.css" %}
+{% endcss %}
+{% js "defer" %}
+  {% include "scripts/search.js" %}
+{% endjs %}

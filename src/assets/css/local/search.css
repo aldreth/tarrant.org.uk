@@ -1,0 +1,44 @@
+form#form--search {
+  input#search-for {
+    width: 80%;
+  }
+
+  div.filter-and-results {
+    display: flex;
+
+    fieldset.types {
+      display: flex;
+      flex-direction: column;
+      width: fit-content;
+      font-size: smaller;
+    }
+
+    .results-area {
+      font-size: var(--size-step-min-1);
+
+      header {
+        /* color: red; */
+      }
+
+      ul {
+        list-style: none;
+
+        li::marker {
+          content: '';
+        }
+
+        &.results-tags {
+          display: flex;
+
+          gap: var(--space-s);
+
+          li {
+            --button-font-size: 12px;
+            --button-text-transform: none;
+            --button-tracking: var(--tracking-s);
+          }
+        }
+      }
+    }
+  }
+}
