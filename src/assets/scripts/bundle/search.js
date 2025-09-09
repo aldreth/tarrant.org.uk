@@ -84,6 +84,9 @@ function doSearch() {
     }
   });
 
+  // Update url
+  setWindowLocation(q, typeFilters);
+
   // Find and display results
   window.pagefind
     .search(q, {filters: {type: {any: typeFilters}}})
@@ -95,8 +98,35 @@ function doSearch() {
     .catch(console.error);
 }
 
+function setWindowLocation(q, types) {
+  const url = new URL(location);
+  url.searchParams.set('q', q);
+
+  url.searchParams.delete('types');
+  for (const type of types) {
+    url.searchParams.append('types', type);
+  }
+
+  history.pushState({}, '', url);
+}
+
+function setFormFromParams() {
+  const url = new URL(location);
+  let q = url.searchParams.get('q');
+  document.querySelector('form#search input#q').value = q;
+
+  let types = url.searchParams.getAll('types');
+
+  for (const type of types) {
+    document.querySelector(`form#search input[name="${type}"]`).checked = true;
+  }
+  doSearch();
+}
+
 window.addEventListener('DOMContentLoaded', _ => {
-  ensurePagefind().catch(e => console.error('page find error', e));
+  ensurePagefind()
+    .then(_ => setFormFromParams())
+    .catch(e => console.error('page find error', e));
 
   let form = document.querySelector('form#search');
   form.addEventListener('submit', e => {
