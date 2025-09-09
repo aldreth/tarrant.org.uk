@@ -84,18 +84,21 @@ function doSearch() {
     }
   });
 
-  // Update url
-  setWindowLocation(q, typeFilters);
+  // Only do a search if there's a query
+  if (q) {
+    // Update url
+    setWindowLocation(q, typeFilters);
 
-  // Find and display results
-  window.pagefind
-    .search(q, {filters: {type: {any: typeFilters}}})
-    .then(search =>
-      Promise.all(search.results.map(result => result.data()))
-        .then(data => renderItems(q, data))
-        .catch(console.error)
-    )
-    .catch(console.error);
+    // Find and display results
+    window.pagefind
+      .search(q, {filters: {type: {any: typeFilters}}})
+      .then(search =>
+        Promise.all(search.results.map(result => result.data()))
+          .then(data => renderItems(q, data))
+          .catch(console.error)
+      )
+      .catch(console.error);
+  }
 }
 
 function setWindowLocation(q, types) {
