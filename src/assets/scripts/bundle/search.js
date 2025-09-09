@@ -1,3 +1,5 @@
+const allTypes = ['Blog', 'Diary', 'Journal'];
+
 async function ensurePagefind() {
   if (window.pagefind) return Promise.resolve(window.pagefind);
   return import('/pagefind/pagefind.js')
@@ -66,7 +68,7 @@ function renderItems(q, items) {
   document.querySelector('#results').innerHTML = content;
 }
 
-function doSearch() {
+function doSearch(isPopEvent = false) {
   let form = document.querySelector('form#search');
 
   // Clear current content
@@ -76,27 +78,71 @@ function doSearch() {
   // Get form data
   let formData = new FormData(form);
   let q = formData.get('q');
-  const possibleFilters = ['Blog', 'Diary', 'Journal'];
-  let typeFilters = [];
-  possibleFilters.map(possibleFilter => {
+
+  let types = [];
+  allTypes.map(possibleFilter => {
     if (formData.get(possibleFilter)) {
-      typeFilters.push(possibleFilter);
+      types.push(possibleFilter);
     }
   });
 
-  // Find and display results
-  window.pagefind
-    .search(q, {filters: {type: {any: typeFilters}}})
-    .then(search =>
-      Promise.all(search.results.map(result => result.data()))
-        .then(data => renderItems(q, data))
-        .catch(console.error)
-    )
-    .catch(console.error);
+  // Only do a search if there's a query
+  if (q) {
+    // Update url unless it's a popstate event
+    if (!isPopEvent) {
+      setWindowLocation(q, types, isPopEvent);
+    }
+
+    // Find and display results
+    window.pagefind
+      .search(q, {filters: {type: {any: types}}})
+      .then(search =>
+        Promise.all(search.results.map(result => result.data()))
+          .then(data => renderItems(q, data))
+          .catch(console.error)
+      )
+      .catch(console.error);
+  }
+}
+
+function setWindowLocation(q, types) {
+  const url = new URL(location);
+  if (q) {
+    url.searchParams.set('q', q);
+  }
+
+  url.searchParams.delete('types');
+  for (const type of types) {
+    url.searchParams.append('types', type);
+  }
+
+  window.history.pushState({search: url.searchParams.toString()}, '', url);
+}
+
+function setFormFromLocation() {
+  const url = new URL(location);
+  let searchParams = url.searchParams;
+  setFormFromSearchParams(searchParams);
+}
+
+function setFormFromSearchParams(searchParams) {
+  let q = searchParams.get('q');
+  document.querySelector('form#search input#q').value = q;
+
+  let types = searchParams.getAll('types');
+
+  for (const type of allTypes) {
+    document.querySelector(`form#search input[name="${type}"]`).checked = types.includes(type);
+  }
 }
 
 window.addEventListener('DOMContentLoaded', _ => {
-  ensurePagefind().catch(e => console.error('page find error', e));
+  ensurePagefind()
+    .then(_ => {
+      setFormFromLocation();
+      doSearch();
+    })
+    .catch(e => console.error('page find error', e));
 
   let form = document.querySelector('form#search');
   form.addEventListener('submit', e => {
@@ -111,5 +157,17 @@ window.addEventListener('DOMContentLoaded', _ => {
     checkbox.addEventListener('change', _ => {
       doSearch();
     });
+  });
+
+  // Using browser back or forward button
+  window.addEventListener('popstate', event => {
+    ensurePagefind()
+      .then(_ => {
+        let searchParams = new URLSearchParams(event.state?.search ?? '');
+        setFormFromSearchParams(searchParams);
+        // Don't update history as we're navigating through history!
+        doSearch(true);
+      })
+      .catch(e => console.error('page find error', e));
   });
 });
