@@ -100,7 +100,9 @@ function doSearch() {
 
 function setWindowLocation(q, types) {
   const url = new URL(location);
-  url.searchParams.set('q', q);
+  if (q) {
+    url.searchParams.set('q', q);
+  }
 
   url.searchParams.delete('types');
   for (const type of types) {
