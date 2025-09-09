@@ -59,45 +59,57 @@ function renderItem(item) {
 }
 
 function renderItems(q, items) {
-  document.querySelector('#results-count').innerHTML = `${items.length} results for ${q}`;
+  var results = items.length == 1 ? 'result' : 'results';
+  document.querySelector('#results-count').innerHTML = `${items.length} ${results} for ${q}`;
 
   let content = items.map(renderItem).join('');
   document.querySelector('#results').innerHTML = content;
 }
 
-window.addEventListener('DOMContentLoaded', event => {
-  ensurePagefind()
-    .then(_ => {
-      console.log('page find loaded');
-    })
-    .catch(e => console.error('page find error', e));
+function doSearch() {
+  let form = document.querySelector('form#search');
 
-  let form = document.querySelector('#form--search');
+  // Clear current content
+  document.querySelector('#results').innerHTML = '';
+  document.querySelector('#results-count').innerHTML = '';
 
+  // Get form data
+  let formData = new FormData(form);
+  let q = formData.get('q');
+  const possibleFilters = ['Blog', 'Diary', 'Journal'];
+  let typeFilters = [];
+  possibleFilters.map(possibleFilter => {
+    if (formData.get(possibleFilter)) {
+      typeFilters.push(possibleFilter);
+    }
+  });
+
+  // Find and display results
+  window.pagefind
+    .search(q, {filters: {type: {any: typeFilters}}})
+    .then(search =>
+      Promise.all(search.results.map(result => result.data()))
+        .then(data => renderItems(q, data))
+        .catch(console.error)
+    )
+    .catch(console.error);
+}
+
+window.addEventListener('DOMContentLoaded', _ => {
+  ensurePagefind().catch(e => console.error('page find error', e));
+
+  let form = document.querySelector('form#search');
   form.addEventListener('submit', e => {
     e.preventDefault();
 
-    // Clear current content
-    document.querySelector('#results').innerHTML = '';
-    document.querySelector('#results-count').innerHTML = '';
+    doSearch();
+  });
 
-    let formData = new FormData(form);
-    let q = formData.get('q');
-    const possibleFilters = ['Blog', 'Diary', 'Journal'];
-    let typeFilters = [];
-    possibleFilters.map(possibleFilter => {
-      if (formData.get(possibleFilter)) {
-        typeFilters.push(possibleFilter);
-      }
+  // Submit form on post type change
+  let checkboxes = form.querySelectorAll('input[type="checkbox"]');
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', _ => {
+      doSearch();
     });
-
-    window.pagefind
-      .search(q, {filters: {type: {any: typeFilters}}})
-      .then(search =>
-        Promise.all(search.results.map(result => result.data()))
-          .then(data => renderItems(q, data))
-          .catch(console.error)
-      )
-      .catch(console.error);
   });
 });

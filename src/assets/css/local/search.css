@@ -1,10 +1,7 @@
-form#form--search {
-  input#search-for {
-    width: 80%;
-  }
-
-  div.filter-and-results {
+form#search {
+  .filter-and-results {
     display: flex;
+    flex-direction: row;
 
     fieldset.types {
       display: flex;
@@ -14,30 +11,18 @@ form#form--search {
     }
 
     .results-area {
-      font-size: var(--size-step-min-1);
+      padding-right: 0.7em;
+    }
+  }
+}
 
-      header {
-        /* color: red; */
-      }
+@media screen(ltsm) {
+  form#search {
+    .filter-and-results {
+      flex-direction: column;
 
-      ul {
-        list-style: none;
-
-        li::marker {
-          content: '';
-        }
-
-        &.results-tags {
-          display: flex;
-
-          gap: var(--space-s);
-
-          li {
-            --button-font-size: 12px;
-            --button-text-transform: none;
-            --button-tracking: var(--tracking-s);
-          }
-        }
+      .results-area {
+        padding-right: 0;
       }
     }
   }
