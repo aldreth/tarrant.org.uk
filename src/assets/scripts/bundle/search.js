@@ -1,3 +1,5 @@
+const allTypes = ['Blog', 'Diary', 'Journal'];
+
 async function ensurePagefind() {
   if (window.pagefind) return Promise.resolve(window.pagefind);
   return import('/pagefind/pagefind.js')
@@ -66,7 +68,7 @@ function renderItems(q, items) {
   document.querySelector('#results').innerHTML = content;
 }
 
-function doSearch() {
+function doSearch(isPopEvent = false) {
   let form = document.querySelector('form#search');
 
   // Clear current content
@@ -76,22 +78,24 @@ function doSearch() {
   // Get form data
   let formData = new FormData(form);
   let q = formData.get('q');
-  const possibleFilters = ['Blog', 'Diary', 'Journal'];
-  let typeFilters = [];
-  possibleFilters.map(possibleFilter => {
+
+  let types = [];
+  allTypes.map(possibleFilter => {
     if (formData.get(possibleFilter)) {
-      typeFilters.push(possibleFilter);
+      types.push(possibleFilter);
     }
   });
 
   // Only do a search if there's a query
   if (q) {
-    // Update url
-    setWindowLocation(q, typeFilters);
+    // Update url unless it's a popstate event
+    if (!isPopEvent) {
+      setWindowLocation(q, types, isPopEvent);
+    }
 
     // Find and display results
     window.pagefind
-      .search(q, {filters: {type: {any: typeFilters}}})
+      .search(q, {filters: {type: {any: types}}})
       .then(search =>
         Promise.all(search.results.map(result => result.data()))
           .then(data => renderItems(q, data))
@@ -112,25 +116,32 @@ function setWindowLocation(q, types) {
     url.searchParams.append('types', type);
   }
 
-  history.pushState({}, '', url);
+  window.history.pushState({search: url.searchParams.toString()}, '', url);
 }
 
-function setFormFromParams() {
+function setFormFromLocation() {
   const url = new URL(location);
-  let q = url.searchParams.get('q');
+  let searchParams = url.searchParams;
+  setFormFromSearchParams(searchParams);
+}
+
+function setFormFromSearchParams(searchParams) {
+  let q = searchParams.get('q');
   document.querySelector('form#search input#q').value = q;
 
-  let types = url.searchParams.getAll('types');
+  let types = searchParams.getAll('types');
 
-  for (const type of types) {
-    document.querySelector(`form#search input[name="${type}"]`).checked = true;
+  for (const type of allTypes) {
+    document.querySelector(`form#search input[name="${type}"]`).checked = types.includes(type);
   }
-  doSearch();
 }
 
 window.addEventListener('DOMContentLoaded', _ => {
   ensurePagefind()
-    .then(_ => setFormFromParams())
+    .then(_ => {
+      setFormFromLocation();
+      doSearch();
+    })
     .catch(e => console.error('page find error', e));
 
   let form = document.querySelector('form#search');
@@ -146,5 +157,17 @@ window.addEventListener('DOMContentLoaded', _ => {
     checkbox.addEventListener('change', _ => {
       doSearch();
     });
+  });
+
+  // Using browser back or forward button
+  window.addEventListener('popstate', event => {
+    ensurePagefind()
+      .then(_ => {
+        let searchParams = new URLSearchParams(event.state?.search ?? '');
+        setFormFromSearchParams(searchParams);
+        // Don't update history as we're navigating through history!
+        doSearch(true);
+      })
+      .catch(e => console.error('page find error', e));
   });
 });
