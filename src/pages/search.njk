@@ -1,0 +1,43 @@
+---
+layout: base
+permalink: /search.html
+title: Search
+---
+
+
+<div class="region wrapper flow prose">
+  <h1 class="gradient-text">Search</h1>
+  <search>
+    <form role="search" action="https://duckduckgo.com" method="GET" id="search">
+      <fieldset>
+        <label for="q" class="hidden">Search</label>
+        <input id="q" type="search" name="q" placeholder="Search" autofocus>
+        <input type="hidden" name="sites" value="tarrant.org.uk">
+        <input type="submit" value="Search" class="hidden">
+      </fieldset>
+
+      <div class="filter-and-results">
+        <fieldset class="types">
+          <label><input type="checkbox" name="Blog" >Blog</label>
+          <label><input type="checkbox" name="Diary">Diary</label>
+          <label><input type="checkbox" name="Journal">Journal</label>
+        </fieldset>
+        <div class="results-area">
+          <header id="results-count">
+          </header>
+          <div class="results" id="results">
+          </div>
+        </div>
+      </div>
+    </form>
+  </search>
+</div>
+
+
+{% css "local" %}
+  {% include "css/forms.css" %}
+  {% include "css/search.css" %}
+{% endcss %}
+{% js "defer" %}
+  {% include "scripts/search.js" %}
+{% endjs %}
