@@ -60,3 +60,18 @@ export const greenweb = {
   ],
   services: [{domain: 'netlify.com', serviceType: 'cdn'}]
 };
+export const blog = {
+  // feed links are looped over in the head. You may add more to the array.
+  feedLinks: [
+    {
+      title: 'Atom Feed',
+      url: '/feed.xml',
+      type: 'application/atom+xml'
+    },
+    {
+      title: 'JSON Feed',
+      url: '/feed.json',
+      type: 'application/json'
+    }
+  ]
+};
