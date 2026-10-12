@@ -5,9 +5,11 @@ description: "Cindy's funeral."
 layout: page
 ---
 
-Placeholder text about the funeral - edit me.
+Cindy's funeral was held on Sunday 25th September 2005 at 3pm in Friargate Friends Meeting House, Friargate, York. 
 
-## The list at the funeral
+It was very well attended.
+
+## People at the funeral
 
 {% set cardGallery = listGallery %}
 {% include "partials/card-gallery.njk" %}
