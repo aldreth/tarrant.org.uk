@@ -32,7 +32,7 @@ is-land:not(:defined) .card-gallery dialog + button {
 
 .card-gallery dialog::backdrop {
   background-image: var(--gradient-stripes);
-  opacity: 0.9;
+  opacity: 1;
   filter: brightness(50%);
 }
 .card-gallery dialog .set {
@@ -52,13 +52,13 @@ is-land:not(:defined) .card-gallery dialog + button {
 }
 
 [data-theme='dark'] .card-gallery dialog .set div {
-  font-size: var(--size-step-min-1);
   color: var(--color-text);
   overflow-y: scroll;
 }
 
 [data-theme='light'] .card-gallery dialog .set div,
 .card-gallery dialog .set div {
+  font-size: var(--size-step-min-2);
   color: var(--color-bg);
 }
 
