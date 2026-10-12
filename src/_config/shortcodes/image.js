@@ -5,9 +5,34 @@ const stringifyAttributes = attributeMap => {
   return Object.entries(attributeMap)
     .map(([attribute, value]) => {
       if (typeof value === 'undefined') return '';
-      return `${attribute}="${value}"`;
+      const escaped = String(value).replaceAll('&', '&amp;').replaceAll('"', '&quot;');
+      return `${attribute}="${escaped}"`;
     })
     .join(' ');
+};
+
+// eleventy-img mutates its shared default options, so its own in-memory cache misses on repeat calls
+const imageCache = new Map();
+
+const processImage = (src, widths, formats) => {
+  const key = JSON.stringify([src, widths, formats]);
+  if (!imageCache.has(key)) {
+    imageCache.set(
+      key,
+      Image(src, {
+        widths: [...widths],
+        formats: [...formats],
+        urlPath: '/assets/images/',
+        outputDir: './dist/assets/images/',
+        filenameFormat: (id, src, width, format, options) => {
+          const extension = path.extname(src);
+          const name = path.basename(src, extension);
+          return `${name}-${width}w.${format}`;
+        }
+      })
+    );
+  }
+  return imageCache.get(key);
 };
 
 export const imageShortcode = async (
@@ -19,24 +44,14 @@ export const imageShortcode = async (
   imageClass,
   widths = [650, 960, 1400],
   sizes = 'auto',
-  formats = ['avif', 'webp', 'jpeg']
+  formats = ['webp', 'jpeg']
 ) => {
   // Prepend "./src" if not present
   if (!src.startsWith('./src')) {
     src = `./src${src}`;
   }
 
-  const metadata = await Image(src, {
-    widths: [...widths],
-    formats: [...formats],
-    urlPath: '/assets/images/',
-    outputDir: './dist/assets/images/',
-    filenameFormat: (id, src, width, format, options) => {
-      const extension = path.extname(src);
-      const name = path.basename(src, extension);
-      return `${name}-${width}w.${format}`;
-    }
-  });
+  const metadata = await processImage(src, widths, formats);
 
   const lowsrc = metadata.jpeg[metadata.jpeg.length - 1];
 
