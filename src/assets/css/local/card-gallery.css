@@ -1,6 +1,14 @@
 .card-gallery dialog {
-  border-radius: var(--border-radius-medium);
-  inset: revert;
+  /* fit the card and sit in the middle. A radius or a clip on a transparent dialog paints a white edge */
+  border: 0;
+  background: transparent;
+  padding-block: var(--space-s);
+  padding-inline: var(--space-m);
+  margin: auto;
+  inset: 0;
+  inline-size: fit-content;
+  block-size: fit-content;
+  max-inline-size: calc(100vw - 2em);
 }
 
 /* only the body scrolls, so prev / close / next stay in view with long text */
@@ -8,7 +16,6 @@
   display: flex;
   flex-direction: column;
   max-block-size: calc(100dvh - 2em);
-  overflow: hidden;
 }
 
 .card-gallery dialog .dialog-body {
@@ -25,6 +32,35 @@
 .card-gallery dialog + button:focus-visible {
   outline: 3px solid var(--focus-color, currentColor);
   outline-offset: var(--focus-offset, 0.3ch);
+}
+
+/* a small link icon, with a check once the address is copied */
+.card-gallery dialog a[data-copy-link] {
+  display: inline-flex;
+  align-items: center;
+  color: CanvasText;
+  opacity: 0.6;
+  padding: 0.3em;
+  text-decoration: none;
+}
+
+.card-gallery dialog a[data-copy-link]:hover,
+.card-gallery dialog a[data-copy-link]:focus-visible,
+.card-gallery dialog a[data-copy-link][data-copied] {
+  opacity: 1;
+}
+
+.card-gallery dialog a[data-copy-link] svg {
+  block-size: 1.15em;
+}
+
+.card-gallery dialog a[data-copy-link] svg + svg,
+.card-gallery dialog a[data-copy-link][data-copied] svg:first-of-type {
+  display: none;
+}
+
+.card-gallery dialog a[data-copy-link][data-copied] svg + svg {
+  display: block;
 }
 
 /* the close button */
@@ -52,7 +88,7 @@ is-land:not(:defined) .card-gallery dialog + button {
   display: grid;
   grid-column-gap: var(--space-s);
   grid-auto-flow: column;
-  grid-auto-columns: 1fr;
+  grid-auto-columns: auto;
   align-items: center;
 }
 

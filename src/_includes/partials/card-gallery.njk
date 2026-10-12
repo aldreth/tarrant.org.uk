@@ -15,7 +15,10 @@
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
           {%- if set.id %}
-          <a href="#{{ set.id }}" class="button" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" data-button-variant="primary">{{ meta.dialog.copyLink }}</a>
+          <a href="#{{ set.id }}" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" title="{{ meta.dialog.copyLink }}">
+            <span class="visually-hidden">{{ meta.dialog.copyLink }}</span>
+            {% svg "misc/link" %}{% svg "misc/check" %}
+          </a>
           {%- endif %}
         </div>
         <div class="dialog-body">

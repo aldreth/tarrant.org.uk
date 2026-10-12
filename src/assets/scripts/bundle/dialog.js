@@ -39,9 +39,14 @@ galleries.forEach(gallery => {
         window.prompt('Copy this link', copyLink.href);
         return;
       }
-      const label = copyLink.textContent;
-      copyLink.textContent = copyLink.dataset.copiedLabel;
-      setTimeout(() => (copyLink.textContent = label), 2000);
+      const label = copyLink.querySelector('.visually-hidden');
+      const original = label.textContent;
+      label.textContent = copyLink.dataset.copiedLabel;
+      copyLink.dataset.copied = '';
+      setTimeout(() => {
+        label.textContent = original;
+        delete copyLink.dataset.copied;
+      }, 2000);
     });
 
     // the close event fires after prev / next has already moved the hash on, so only clear our own

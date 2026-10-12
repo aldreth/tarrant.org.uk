@@ -13,7 +13,10 @@
           <button data-nav="next" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
-          <a href="#{{ memory.id }}" class="button" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" data-button-variant="primary">{{ meta.dialog.copyLink }}</a>
+          <a href="#{{ memory.id }}" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" title="{{ meta.dialog.copyLink }}">
+            <span class="visually-hidden">{{ meta.dialog.copyLink }}</span>
+            {% svg "misc/link" %}{% svg "misc/check" %}
+          </a>
         </div>
         <div class="dialog-body flow">
         <h2 id="{{ memory.id }}" class="memory-sender">{{ memory.caption }}</h2>
