@@ -4,7 +4,7 @@
     {%- for set in cardGallery -%}
     {% set image1 = set.images[0] %}
       <dialog class="flow modal{{ loop.index }}">
-        <div class="cluster justify-center flow-space-m gutter-s">
+        <div class="cluster justify-center flow-space-m gutter-s" data-pagefind-ignore>
           <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
           </button>
@@ -14,7 +14,17 @@
           <button data-nav="next" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
+          {%- if set.id %}
+          <a href="#{{ set.id }}" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" title="{{ meta.dialog.copyLink }}">
+            <span class="visually-hidden">{{ meta.dialog.copyLink }}</span>
+            {% svg "misc/link" %}{% svg "misc/check" %}
+          </a>
+          {%- endif %}
         </div>
+        <div class="dialog-body">
+        {%- if set.id -%}
+        <h2 id="{{ set.id }}" class="visually-hidden">{{ set.title }}</h2>
+        {%- endif -%}
         <div class="set">
           {%- for item in set.images -%}
             {%- image item.src, item.alt -%}
@@ -25,8 +35,9 @@
           </div>
           {%- endif -%}
         </div>
+        </div>
       </dialog>
-      <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt, image1.caption -%}</button>
+      <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image image1.src, image1.alt, image1.caption -%}</button>
     {%- endfor -%}
   </div>
 

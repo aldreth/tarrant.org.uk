@@ -2,7 +2,8 @@
 layout: base
 ---
 
-<div class="region wrapper flow prose">
+<div class="region wrapper flow prose"
+  {%- if searchType %} data-pagefind-body data-pagefind-filter="type:{{ searchType }}" data-pagefind-meta="type:{{ searchType }}"{% endif %}>
   <h1 class="gradient-text">{{ title }}</h1>
   {{ content | safe }}
 </div>

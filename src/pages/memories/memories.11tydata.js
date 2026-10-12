@@ -31,7 +31,7 @@ const memoryFrom = slug => {
     alt: index === 0 ? `The first page of the memories from ${sender}` : `Page ${index + 1} of the memories from ${sender}`,
     text: readText(`${dir}/${path.basename(file, '.jpg')}.txt`)
   }));
-  return {caption: sender, pages};
+  return {id: `memories-${slug}`, caption: sender, pages};
 };
 
 const memoriesGallery = Object.keys(senders)

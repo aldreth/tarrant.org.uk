@@ -1,52 +1,84 @@
 // manages the behavior of modal several dialogs on a page: open / close buttons and light dismiss.
 // each gallery gets its own set of dialogs, so prev / next navigation stays within one gallery.
+// dialogs with an id'd heading are linkable: the url hash names the open dialog.
 
 const galleries = document.querySelectorAll('.gallery, .card-gallery');
+
+const dialogId = modal => modal.querySelector('h2[id]')?.id;
+
+const show = modal => {
+  modal.showModal();
+  modal.focus();
+  const id = dialogId(modal);
+  if (id) history.replaceState(history.state, '', `${location.pathname}${location.search}#${id}`);
+};
 
 galleries.forEach(gallery => {
   const modals = Array.from(gallery.querySelectorAll('dialog'));
   const openButtons = gallery.querySelectorAll('button[data-index]');
 
   openButtons.forEach((button, index) => {
-    button.addEventListener('click', () => {
-      modals[index].showModal();
-      modals[index].focus();
-    });
+    button.addEventListener('click', () => show(modals[index]));
   });
 
   modals.forEach((modal, index) => {
     const closeBtn = modal.querySelector('button[data-close]');
     const prevBtn = modal.querySelector('button[data-nav="prev"]');
     const nextBtn = modal.querySelector('button[data-nav="next"]');
+    const prev = () => modals[(index - 1 + modals.length) % modals.length];
+    const next = () => modals[(index + 1) % modals.length];
 
     closeBtn?.addEventListener('click', () => modal.close());
+
+    const copyLink = modal.querySelector('a[data-copy-link]');
+    copyLink?.addEventListener('click', async event => {
+      event.preventDefault();
+      try {
+        await navigator.clipboard.writeText(copyLink.href);
+      } catch {
+        window.prompt('Copy this link', copyLink.href);
+        return;
+      }
+      const label = copyLink.querySelector('.visually-hidden');
+      const original = label.textContent;
+      label.textContent = copyLink.dataset.copiedLabel;
+      copyLink.dataset.copied = '';
+      setTimeout(() => {
+        label.textContent = original;
+        delete copyLink.dataset.copied;
+      }, 2000);
+    });
+
+    // the close event fires after prev / next has already moved the hash on, so only clear our own
+    modal.addEventListener('close', () => {
+      const id = dialogId(modal);
+      if (id && location.hash === `#${id}`) {
+        history.replaceState(history.state, '', location.pathname + location.search);
+      }
+    });
 
     if (!prevBtn && !nextBtn) return;
 
     prevBtn?.addEventListener('click', () => {
       modal.close();
-      const prev = modals[(index - 1 + modals.length) % modals.length];
-      prev.showModal();
+      show(prev());
     });
 
     nextBtn?.addEventListener('click', () => {
       modal.close();
-      const next = modals[(index + 1) % modals.length];
-      next.showModal();
+      show(next());
     });
 
     // arrow navigation
     modal.addEventListener('keydown', event => {
       if (event.key === 'ArrowRight') {
         event.preventDefault();
-        const next = modals[(index + 1) % modals.length];
         modal.close();
-        next.showModal();
+        show(next());
       } else if (event.key === 'ArrowLeft') {
         event.preventDefault();
-        const prev = modals[(index - 1 + modals.length) % modals.length];
         modal.close();
-        prev.showModal();
+        show(prev());
       }
     });
 
@@ -67,15 +99,22 @@ galleries.forEach(gallery => {
       const diff = endX - startX;
       if (Math.abs(diff) < 50) return;
       modal.close();
-      const target =
-        diff > 0
-          ? modals[(index - 1 + modals.length) % modals.length] // swipe right → prev
-          : modals[(index + 1) % modals.length]; // swipe left → next
-      target.showModal();
-      target.focus();
+      show(diff > 0 ? prev() : next()); // swipe right → prev, swipe left → next
     }
   });
 });
+
+const openFromHash = () => {
+  if (!location.hash) return;
+  const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  const modal = target?.closest('.gallery dialog, .card-gallery dialog');
+  if (!modal || modal.open) return;
+  document.querySelectorAll('.gallery dialog[open], .card-gallery dialog[open]').forEach(open => open.close());
+  show(modal);
+};
+
+openFromHash();
+window.addEventListener('hashchange', openFromHash);
 
 window.addEventListener('click', event => {
   document.querySelectorAll('.gallery dialog, .card-gallery dialog').forEach(modal => {
