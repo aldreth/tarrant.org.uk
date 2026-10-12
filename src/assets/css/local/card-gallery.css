@@ -88,14 +88,14 @@ is-land:not(:defined) .card-gallery dialog + button {
   display: grid;
   grid-column-gap: var(--space-s);
   grid-auto-flow: column;
-  grid-auto-columns: auto;
+  grid-auto-columns: minmax(0, 1fr);
   align-items: center;
 }
 
 .card-gallery dialog .set img,
 .card-gallery dialog .set div {
   max-block-size: 70vh;
-  /* max-inline-size: 90vw; */
+  max-inline-size: 100%;
   object-fit: contain;
   border: none;
 }
