@@ -37,6 +37,10 @@ export default {
       ]
     },
     {
+      text: 'Funeral',
+      url: '/funeral/'
+    },
+    {
       text: 'About',
       url: '/about/'
     },

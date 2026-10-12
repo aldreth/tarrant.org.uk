@@ -19,9 +19,11 @@
           {%- for item in set.images -%}
             {%- image item.src, item.alt -%}
           {%- endfor -%}
+          {%- if set.text -%}
           <div>
             {{ set.text | striptags(true) | escape | nl2br  }}
           </div>
+          {%- endif -%}
         </div>
       </dialog>
       <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt, image1.caption -%}</button>
