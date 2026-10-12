@@ -1,4 +1,13 @@
-const allTypes = ['Blog', 'Diary', 'Journal'];
+const allTypes = ['Blog', 'Diary', 'Journal', 'Funeral', 'Memories'];
+const galleryTypes = ['Funeral', 'Memories'];
+
+// gallery pages hold many cards, so each matching card becomes its own result linking to its pop-up
+function expandGalleryResult(item) {
+  if (!galleryTypes.includes(item.meta.type)) return [item];
+  const cards = item.sub_results.filter(sub => sub.url.includes('#'));
+  if (!cards.length) return [item];
+  return cards.map(sub => ({...item, url: sub.url, excerpt: sub.excerpt, meta: {...item.meta, title: sub.title}}));
+}
 
 async function ensurePagefind() {
   if (window.pagefind) return Promise.resolve(window.pagefind);
@@ -51,7 +60,7 @@ function renderItem(item) {
   <h2 slot="headline" class="text-step-2">
     <a href="${url}">${title}</a>
   </h2>
-  <span slot="date">${date}</span>
+  <span slot="date">${date ?? ''}</span>
   <div slot="type" webc:nokeep>
     <span class="button" data-small-button data-button-variant=${variant}>${type}</span>
   </div>
@@ -98,7 +107,7 @@ function doSearch(isPopEvent = false) {
       .search(q, {filters: {type: {any: types}}})
       .then(search =>
         Promise.all(search.results.map(result => result.data()))
-          .then(data => renderItems(q, data))
+          .then(data => renderItems(q, data.flatMap(expandGalleryResult)))
           .catch(console.error)
       )
       .catch(console.error);

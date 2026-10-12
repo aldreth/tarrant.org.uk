@@ -9,6 +9,7 @@ form > * + * {
   border-radius: var(--border-radius-small);
   border: var(--stroke);
   color: var(--color-text);
+  background-color: var(--color-bg);
   width: 100%;
   outline: 1px solid var(--focus-color, currentColor);
   outline-offset: var(--focus-offset, 0.3ch);

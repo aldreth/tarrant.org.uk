@@ -4,7 +4,7 @@
     {%- for set in cardGallery -%}
     {% set image1 = set.images[0] %}
       <dialog class="flow modal{{ loop.index }}">
-        <div class="cluster justify-center flow-space-m gutter-s">
+        <div class="cluster justify-center flow-space-m gutter-s" data-pagefind-ignore>
           <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
           </button>
@@ -15,6 +15,9 @@
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
         </div>
+        {%- if set.id -%}
+        <h2 id="{{ set.id }}" class="visually-hidden">{{ set.title }}</h2>
+        {%- endif -%}
         <div class="set">
           {%- for item in set.images -%}
             {%- image item.src, item.alt -%}
@@ -26,7 +29,7 @@
           {%- endif -%}
         </div>
       </dialog>
-      <button data-index="{{ loop.index }}">{%- image image1.src, image1.alt, image1.caption -%}</button>
+      <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image image1.src, image1.alt, image1.caption -%}</button>
     {%- endfor -%}
   </div>
 

@@ -3,7 +3,7 @@
     {%- for memory in memoryGallery -%}
     {% set firstPage = memory.pages[0] %}
       <dialog class="flow modal{{ loop.index }}">
-        <div class="cluster justify-center flow-space-m gutter-s">
+        <div class="cluster justify-center flow-space-m gutter-s" data-pagefind-ignore>
           <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
           </button>
@@ -14,7 +14,7 @@
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
         </div>
-        <h2 class="memory-sender">{{ memory.caption }}</h2>
+        <h2 id="{{ memory.id }}" class="memory-sender">{{ memory.caption }}</h2>
         {%- for page in memory.pages -%}
           <div class="page">
             {%- image page.src, page.alt -%}
@@ -26,7 +26,7 @@
           </div>
         {%- endfor -%}
       </dialog>
-      <button data-index="{{ loop.index }}">{%- image firstPage.src, firstPage.alt, memory.caption -%}</button>
+      <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image firstPage.src, firstPage.alt, memory.caption -%}</button>
     {%- endfor -%}
   </div>
 

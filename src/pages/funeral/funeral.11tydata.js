@@ -24,6 +24,8 @@ const jpgsIn = dir =>
     });
 
 const listGallery = jpgsIn(listDir).map((file, index) => ({
+  id: `list-page-${index + 1}`,
+  title: `Page ${index + 1} of the list of people at the funeral`,
   images: [
     {
       src: `${listDir}/${file}`,
@@ -54,7 +56,9 @@ const cardsFrom = (slug, sender) => {
     else cards.push({images, text: ''});
   }
 
-  return cards.map(card => ({
+  return cards.map((card, cardIndex) => ({
+    id: cardIndex === 0 ? `card-${slug}` : `card-${slug}-${cardIndex + 1}`,
+    title: `Card from ${sender}`,
     images: card.images.map((src, index) =>
       index === 0
         ? {src, alt: `Front of the card from ${sender}`, caption: sender}
