@@ -117,6 +117,9 @@ export default async function (eleventyConfig) {
   if (process.env.ELEVENTY_RUN_MODE === 'serve') {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
+  if (process.env.ELEVENTY_RUN_MODE === 'build') {
+    eleventyConfig.on('eleventy.after', shortcodes.pruneUnusedImages);
+  }
 
   // --------------------- Passthrough File Copy
 

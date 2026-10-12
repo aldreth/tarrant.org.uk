@@ -1,5 +1,8 @@
 import Image from '@11ty/eleventy-img';
+import {readdir, rm} from 'node:fs/promises';
 import path from 'node:path';
+
+const outputDir = './dist/assets/images/';
 
 const stringifyAttributes = attributeMap => {
   return Object.entries(attributeMap)
@@ -23,16 +26,30 @@ const processImage = (src, widths, formats) => {
         widths: [...widths],
         formats: [...formats],
         urlPath: '/assets/images/',
-        outputDir: './dist/assets/images/',
+        outputDir,
         filenameFormat: (id, src, width, format, options) => {
           const extension = path.extname(src);
           const name = path.basename(src, extension);
-          return `${name}-${width}w.${format}`;
+          return `${name}-${id}-${width}w.${format}`;
         }
       })
     );
   }
   return imageCache.get(key);
+};
+
+// dist/assets/images survives `npm run clean` and is cached on Netlify, so renditions of changed or removed images would otherwise still be deployed
+export const pruneUnusedImages = async () => {
+  const used = new Set();
+  for (const metadata of await Promise.all(imageCache.values())) {
+    for (const entry of Object.values(metadata).flat()) {
+      used.add(path.basename(entry.outputPath));
+    }
+  }
+  const files = await readdir(outputDir, {withFileTypes: true});
+  const unused = files.filter(file => file.isFile() && !used.has(file.name));
+  await Promise.all(unused.map(file => rm(path.join(outputDir, file.name))));
+  if (unused.length) console.log(`[image] Removed ${unused.length} unused images`);
 };
 
 export const imageShortcode = async (
