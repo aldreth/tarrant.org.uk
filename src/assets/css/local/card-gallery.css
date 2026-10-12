@@ -3,6 +3,19 @@
   inset: revert;
 }
 
+/* only the body scrolls, so prev / close / next stay in view with long text */
+.card-gallery dialog[open] {
+  display: flex;
+  flex-direction: column;
+  max-block-size: calc(100dvh - 2em);
+  overflow: hidden;
+}
+
+.card-gallery dialog .dialog-body {
+  min-block-size: 0;
+  overflow-y: auto;
+}
+
 /* the image that serves as button */
 .card-gallery dialog + button {
   all: unset;

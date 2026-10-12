@@ -34,7 +34,9 @@ export const details = {
 export const dialog = {
   close: 'Close',
   next: 'Next',
-  previous: 'Previous'
+  previous: 'Previous',
+  copyLink: 'Copy link',
+  linkCopied: 'Link copied'
 };
 export const navigation = {
   navLabel: 'Menu',

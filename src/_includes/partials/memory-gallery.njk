@@ -13,7 +13,9 @@
           <button data-nav="next" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
+          <a href="#{{ memory.id }}" class="button" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" data-button-variant="primary">{{ meta.dialog.copyLink }}</a>
         </div>
+        <div class="dialog-body flow">
         <h2 id="{{ memory.id }}" class="memory-sender">{{ memory.caption }}</h2>
         {%- for page in memory.pages -%}
           <div class="page">
@@ -25,6 +27,7 @@
             {%- endif -%}
           </div>
         {%- endfor -%}
+        </div>
       </dialog>
       <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image firstPage.src, firstPage.alt, memory.caption -%}</button>
     {%- endfor -%}

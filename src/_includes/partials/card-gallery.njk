@@ -14,7 +14,11 @@
           <button data-nav="next" class="button text-step-1" data-button-variant="primary">
             <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
           </button>
+          {%- if set.id %}
+          <a href="#{{ set.id }}" class="button" data-copy-link data-copied-label="{{ meta.dialog.linkCopied }}" data-button-variant="primary">{{ meta.dialog.copyLink }}</a>
+          {%- endif %}
         </div>
+        <div class="dialog-body">
         {%- if set.id -%}
         <h2 id="{{ set.id }}" class="visually-hidden">{{ set.title }}</h2>
         {%- endif -%}
@@ -27,6 +31,7 @@
             {{ set.text | striptags(true) | escape | nl2br  }}
           </div>
           {%- endif -%}
+        </div>
         </div>
       </dialog>
       <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image image1.src, image1.alt, image1.caption -%}</button>

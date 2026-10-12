@@ -30,6 +30,20 @@ galleries.forEach(gallery => {
 
     closeBtn?.addEventListener('click', () => modal.close());
 
+    const copyLink = modal.querySelector('a[data-copy-link]');
+    copyLink?.addEventListener('click', async event => {
+      event.preventDefault();
+      try {
+        await navigator.clipboard.writeText(copyLink.href);
+      } catch {
+        window.prompt('Copy this link', copyLink.href);
+        return;
+      }
+      const label = copyLink.textContent;
+      copyLink.textContent = copyLink.dataset.copiedLabel;
+      setTimeout(() => (copyLink.textContent = label), 2000);
+    });
+
     // the close event fires after prev / next has already moved the hash on, so only clear our own
     modal.addEventListener('close', () => {
       const id = dialogId(modal);
