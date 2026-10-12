@@ -1,0 +1,203 @@
+Scans with no legible text (the .txt file contains only "[no legible text]"):
+023, 027, 031, 037, 039, 041, 045, 049, 055, 057, 068, 077, 084, 088, 092, 098, 106, 110, 112, 114, 116, 119, 135, 137, 146, 150, 156, 160, 162, 170, 172, 180, 185, 192, 194, 209, 213, 217, 227, 238, 241, 242, 252, 254, 256, 262, 266, 268, 270, 276, 282, 284, 294, 296, 305, 311, 314, 316, 318, 320, 326, 328, 330, 335, 337, 339, 343, 345, 350, 356, 358, 362, 369, 373, 375, 382, 384, 414
+
+Uncertain readings. Each line is the file, what was written, and the alternative.
+
+013 | courage | the letters look like "coutage"
+014 | I'm Thinking of You | a scrap may also read "Monica", and other decorative script is not legible
+020 | Pam & Ray | the join may be "+"
+024 | Judith | could be "Juelith"
+024 | Antti | could be "Autti"
+028 | Pip & Colin | could be "P.P. & Colin"
+030 | Ginnie | could be "Ginny"
+034 | Nok | the letters read N-o-k
+035 | Apt | a small monogram, could be "Apl"
+040 | poorly | looks like "pearly"
+040 | of | written as a tiny mark that looks like "d"
+044 | Jennie | could be "Jeannie"
+047 | Ruth Shearer | possible "Sheaver"
+050 | Flavian Grove | the street name is cramped
+052 | Toley | also fits "Toby"
+052 | Rae | also fits "Rose"
+054 | Vicky & Bill | the mark between the names may be "x"
+056 | Jacklin | possible "Jaclyn"
+059 | and leave | the word before "leave" may be "at"
+060 | various feast cards | a blot covers the end of the last word
+060 | Ffestiniog | there may be an extra "g"
+061 | palms | possible "Palm"
+062 | scrape | possible "scrap"
+078 | Agnis | possible "Agnes"
+081 | Jaclyn | possible "Jacky"
+081 | Ceridwy | possible "Ceridwen"
+081 | Josephine | underlined and tight against the page edge
+081 | Richard L. | the initial may be "K"
+081 | a lesson to admired | possible "a lesson to admire"
+081 | Lesley Topham | the first name may be "Kesley"
+081 | We've all | possible "We're all"
+081 | Bob Hibbs | possible "Hobs"
+083 | John & Rose | the mark before "Rose" looks like a 4
+087 | Rosemary | possible "Lorraine"
+087 | knowing lovely, loving her | possible "knowing, loving, losing her"
+089 | Anne O'Hanlon | the apostrophe is faint
+093 | alwayscall | may be "always call"
+093 | John | the middle signature is a heavy scrawl and may be another name
+093 | Rob | could be "Not"
+095 | Dear | scribbled out, and could be "Debbie"
+096 | つぎ橋 | the left column could be "続橋"
+111 | Nok | could be "Nick"
+118 | Typsey | could be "Tipsey" or "Tynsey"
+120 | Ms | "(Ms Tarrant's)" could be "Mrs"
+120 | discarded | "described" would fit the sentence
+122 | PZ104 | may be "PZ1024"
+125 | We've | could be "We're"
+127 | Agnis | possible "Agnes"
+127 | Ms. | possible "Mrs."
+129 | AL1 | the second character looks like "I"
+132 | govenors | likely "governors"
+132 | Cawood | possible "Canwood"
+138 | More | possible "Moore"
+140 | Eliott | possible "Elliott"
+142 | Jules | possible "Julie"
+143 | M Lemann 98 | possible "Leman", and the mark before 98 is unclear
+144 | Lukey | possible "Luke"
+147 | 13th Sept 2005, Gravely, great, we heard, You are, as we | these sit in a water stain. "Gravely" may be "Graveley"
+151 | album, from, See, all | the opening letters are covered by the stain
+153 | & | the sign looks like a 2
+157 | unselfishness | another noun is possible
+157 | (Mona) | the parenthetical name is hard to read
+159 | Isobel | possible "Isabel"
+161 | Sarah | the signature could be "Sauh"
+163 | Lushila | the first letter may be S, so "Sushila"
+167 | White-Friary | the mark may be a hyphen, a gap, or "Whitefriars"
+171 | Katherine + Louis | the ending of "Katherine" is unclear, and "Louis" could be "Louie"
+174 | dynamics and bar numbers | shadow hides parts of the score
+176 | you all, Jill | the last line is cut off at the bottom of the scan
+177 | Lynn | could be "Lyna" or "Lydia"
+177 | China's bird scarer | could be "Chinese bird scarer"
+177 | Steven | could be "Stephen"
+182 | Moiser Close | tightly written
+186 | Lycett Road | could be a similar spelling such as "Lysett"
+186 | 703349 | the second digit may be 0 or 6
+189 | Tessa John | may be "Tessa & John"
+191 | a really person | the left side is faded, and a word may be missing
+191 | Gracie | could be "Darcie"
+191 | Edward | a word before it, possibly "Dear", is washed out
+197 | staying further | the letters look like "stay in furthen"
+197 | Dales | could be "Daves"
+197 | on or | the sense is "on our way"
+197 | we're been | it looks like "we're", not "we've"
+201 | Eileen | could be "Ellen"
+201 | Caron | could be "Karen" or "Aaron"
+201 | Pats friends | there is no clear apostrophe, so it may be "Pat's"
+201 | (Caron & Dave & Laura, | the closing parenthesis is not clearly there
+202 | Hanna | also readable as "Anna"
+214 | Ad | may be "Ade", or cut off at the card edge
+218 | Dear lore | may be "Dear Rose"
+218 | vest | the writer's "r" looks like "v", so this may be "rest"
+218 | J. Rowland | the final stroke may be an "s"
+224 | making and/or | the line end also looked like "baking and/or"
+225 | babysit | could be "babysat"
+226 | Bme Jones | could be "Brie Jones"
+226 | Suea Sayers | could be "Svea" or "Shea Sayers"
+230 | Complin | the handwriting can look like "Couplin". The printed address spells "Complin"
+235 | Justin | the signature could be "Tristan"
+236 | MC 08 | the year could be "00"
+239 | YO24 1DD | the last two letters could be "AA"
+239 | true | in "bright + funny + true" the last word could be "kind"
+240 | bloglet | could be "booklet"
+247 | Jan Walker | the surname can look like "Neater"
+248 | Philip McGowan | faint, and the surname could be "McGown"
+249 | on Tuesday | could be "or Tuesday"
+249 | visitors | could be "visits"
+252 | dark marks at the lower left | may be a monogram, but no letters could be read
+259 | Joel | the last stroke may belong to "&", so the name could be "Joe"
+259 | Anne | the line under the names could be "Annie"
+260 | Marian Hill | the first name could be "Marion"
+261 | Anna Cornish | could be "Cornill"
+263 | Sylvia (Carter) | could be "Sybin"
+269 | worrie | could be "worry"
+271 | Rouch | a scrawl, so "Rowell", "Powell", or "Rourke" are possible
+277 | better | the "r" is unclear
+278 | Grand Vins | could be "Grands Vins"
+281 | The Borde Bookshop | could be "Border"
+281 | Greyshon family | could be "Greyson"
+289 | Mom. Daisy | could be "Mum"
+289 | You Edward. Toby / John & Rose. Are | the names are split across a floral border
+310 | reved | may be "revved" or "teared"
+310 | lights | may be "lifts"
+310 | Kathy | may be "Keith"
+312 | 647376 | the last digits are faint and may be "687376"
+315 | Alex | a short signature with only one clear look
+315 | Louise | may be "Lucie"
+317 | Hanne | uncertain
+317 | Annette | uncertain
+319 | rifle | may be "life" or a place
+319 | the dry ski slope | the marks also read as "16 day ski slope"
+319 | Oxford | may be another place name
+319 | Rosalind | may be "Rosemary"
+322 | PARIS / joie de / avoir avec toi de / je suis aujour | only fragments of the folded French could be read; the rest and the postmarks were too broken
+323 | Taunton Street | the street name is unclear
+323 | BD20 8OH | may be "8AH"
+323 | Lois | may be "Leon"
+324 | Dena | may be "Deva"
+327 | (Chris) | the name beside "Liz" is unclear
+327 | Pete | the large signature on the right is hard to read
+329 | 42 Lyner St | could be "Lymer"
+331 | how much more you all loved her | the line is cramped
+332 | should say 'pity Cindy' | the inserted words may be "pity me"
+332 | Ian, Matthew, Clare | "Ian" could be "Jon", and "Clare" could be "Claire"
+336 | Julia Callan | the surname could be "Allan"
+338 | Mike Vane | the surname could be "Ware"
+344 | Newsham | the place name is unclear
+344 | Jane | the signature could be "June"
+349 | Fiona Maude | the surname could be "Maud"
+353 | Giant Daddy Book | may read "Daddly"
+357 | Joel | the signature could be "Val"
+359 | felt walking | could be "felt making"
+359 | planned a Christmas | may read "planned to a Christmas"
+360 | BT. 03 | a small mark beside the initials is unclear
+365 | Albie | could be "Allie" or "Abbie"
+368 | Will and Sarah's | "Will" could be "Wil"
+371 | Marjolein | a tiny signature in the flowers
+372 | David Andrew | the surname may be "Andrews"
+379 | Janettammy @ bt internet.com | the spacing is unclear, and it may be "janettammy@btinternet.com"
+381 | Allyn | the last letter may be a flourish
+383 | King & Driffield | the words between "Cottage" and "East Yorks" are scrawled
+383 | Humanly | the letters look like that, though "Sunday" would fit the sentence
+383 | 01377 256673 | the last digit is rushed
+387 | ALDRETH | the street-name letters are uneven
+387 | Tel 93 440 43 36 - Fax 93 450 18 89 | small vertical print, and some digits are uncertain
+388 | Trewin | the surname could be "Trevan"
+390 | Fletcher | a small artist signature, and the surname is the unclear part
+392 | suppers | could be "supper"
+418 | Lois Candwell | could be "Louis"
+418 | Mike Auton | could be "Alton"
+418 | Heather Neal | could be "Deal"
+418 | LAL SAKI | could be "VAL SAKI"
+418 | Grayshan | could be "Grayshon" or "Grayson"
+418 | Christopher Keys | looks like "Keyr", and could be "Keogh"
+418 | Gwyn Patmore | could be "Gwynne"
+418 | Jemma wills | could be "Summer wills"
+418 | Jeremy Piercy | could be "Pierrey"
+419 | Maria Dastin | could be "Dustin"
+419 | Avril Gunnell | could be "Sommell"
+419 | Aunty | could be "Auntie"
+419 | Tessa Hindle | could be "Hundley"
+419 | lyda walker | could be "Lynda" or "Lydia Walker"
+419 | Caroline Ferry | could be "Terry"
+419 | Emma MacKinnon | could be "MacKannon"
+420 | Joanna Smithells | could be "Joanne"
+420 | Avery Smithells | could be "Avely"
+420 | Susie Naderovic | could be "Maderovic"
+420 | Rose Nichol | could be "Nicholls"
+420 | Mike Gibbs | could be "Gigi"
+421 | Caroline J.M. El-Phee | could be "Elphick"
+421 | Anna Carns | could be "Cairns"
+422 | Sally & Nathan Gile | could be "Giles"
+422 | Billy Haynes | a mark before "Haynes" could be "+"
+422 | Jill Dayley | could be "Dagley"
+422 | Sarah Culp | could be "Culy" or "Culpin"
+425 | in the Friends and love | may be "thoughts and love"
+425 | your loss enable | may be "your love enable"
+
+Kiss-mark counts and stray full stops were left as written where the only doubt was a flourish.
