@@ -1,0 +1,38 @@
+.memory-gallery dialog {
+  max-block-size: calc(100dvh - 2em);
+  overflow-y: auto;
+}
+
+.memory-gallery dialog .memory-sender {
+  text-align: center;
+  font-size: var(--size-step-2);
+}
+
+.memory-gallery dialog .page {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+  grid-column-gap: var(--space-m);
+  align-items: start;
+}
+
+.memory-gallery dialog .page img {
+  max-block-size: 80dvh;
+  inline-size: auto;
+  margin-inline: auto;
+  object-fit: contain;
+}
+
+[data-theme='dark'] .memory-gallery dialog .page div {
+  font-size: var(--size-step-min-1);
+  color: var(--color-text);
+}
+
+[data-theme='light'] .memory-gallery dialog .page div,
+.memory-gallery dialog .page div,
+.memory-gallery dialog .memory-sender {
+  color: var(--color-bg);
+}
+
+[data-theme='dark'] .memory-gallery dialog .memory-sender {
+  color: var(--color-text);
+}
