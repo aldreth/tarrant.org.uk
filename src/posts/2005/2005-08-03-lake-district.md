@@ -11,6 +11,53 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1185.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1186.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1187.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1188.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1189.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1190.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1191.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1192.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1193.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1194.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1195.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1196.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1197.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1199.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1202.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1204.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1206.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1207.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1208.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1209.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1210.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1211.jpg
+    alt: "Lake District"
+  - image: ./src/posts/2005/assets/lakedistrict2005/dscf1212.jpg
+    alt: "Lake District"
 ---
 
 We had a fantastic week in the Lake District, staying in Keswick.
@@ -33,5 +80,5 @@ Card games on a rainy afternoon.
 Fish and chips - more food.
 
 A good time was had by all.  
- <wpg2>lakedistrict2005</wpg2>
+ {% include "partials/gallery.njk" %}
 

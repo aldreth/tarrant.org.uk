@@ -2,7 +2,7 @@
 title: Cindy Tarrant. 9th October 1961 - 11 September 2005
 description: >-
   We are very sorry to have to tell you of the death of **Cindy Tarrant.**
-  <wpg2>wales2005/DSCF1258.jpg</wpg2> Cindy died calmly and...
+  Cindy died calmly and...
 date: '2005-09-16'
 permalink: /2005/09/16/cindy-tarrant-9th-october-1961-11-september-2005/
 tags:
@@ -80,13 +80,16 @@ comments:
       xxxxxx
 
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/wales2005/dscf1258.jpg
+    alt: "Cindy Tarrant"
 ---
 
 We are very sorry to have to tell you of the death of
 
 **Cindy Tarrant.**
 
-<wpg2>wales2005/DSCF1258.jpg</wpg2>
+{% include "partials/gallery.njk" %}
 
 Cindy died calmly and peacefully on Sunday 11<sup>th</sup> September
 2005 in York District Hospital.

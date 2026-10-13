@@ -29,6 +29,8 @@ gallery:
     alt: "Grown Up Evening"
   - image: ./src/posts/2004/assets/grownupeve/dscf0959.jpg
     alt: "Grown Up Evening"
+  - image: ./src/posts/2004/assets/grownupeve/dscf0960.jpg
+    alt: "Grown Up Evening"
 ---
 
 Last night we had Jo & Bill and Michelle & Mark round for a meal. We had

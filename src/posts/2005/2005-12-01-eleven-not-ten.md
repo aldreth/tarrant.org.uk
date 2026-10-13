@@ -10,6 +10,49 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/jbday2005/_25_0454.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_27_0456.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_28_0457.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_29_0458.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_30_0459.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_31_0460.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/_32_0461.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0001.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0002.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0003.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0004.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0005.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0006.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0007.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0008.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0009.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0010.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf0011.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf1385.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf1386.jpg
+    alt: "Eleven Not Ten"
+  - image: ./src/posts/2005/assets/jbday2005/dscf1387.jpg
+    alt: "Eleven Not Ten"
 ---
 
 Of course, I can\'t count. Yesterday\'s [post][1] looked back ten years
@@ -25,7 +68,7 @@ Scarcroft is being inspected by Ofsted yesterday and today. John is
 leading school council today, and showed one of the inspectors the
 school allotment yesterday. So the inspectors will probably wonder if
 any other children do anything!  
- <wpg2>jbday2005</wpg2>
+ {% include "partials/gallery.njk" %}
 
 
 

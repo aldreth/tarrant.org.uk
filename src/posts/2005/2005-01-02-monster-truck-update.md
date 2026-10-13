@@ -23,6 +23,15 @@ comments:
       lounge and diner at great speed!  hope you continue to get enjoyment from
       it and good luck with any future ebay purchases! lots of love,  Jayne
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/tobyscar/pict0064.jpg
+    alt: "Monster Truck Update!"
+  - image: ./src/posts/2005/assets/tobyscar/pict0065.jpg
+    alt: "Monster Truck Update!"
+  - image: ./src/posts/2005/assets/tobyscar/pict0066.jpg
+    alt: "Monster Truck Update!"
+  - image: ./src/posts/2005/assets/tobyscar/pict0067.jpg
+    alt: "Monster Truck Update!"
 ---
 
 Hey Toby here. Been fidilling with car over the last week or so and
@@ -42,7 +51,7 @@ have a go. Well maybe a short go! Hope you like the pics, just a few
 quick snaps of it in my kitchen. Update you soon and maybe a few pics of
 it on the knavesmire.
 
-<wpg2>tobyscar</wpg2>
+{% include "partials/gallery.njk" %}
 
 See ya  
  Toby

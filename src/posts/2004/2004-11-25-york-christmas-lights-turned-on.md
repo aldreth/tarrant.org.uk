@@ -10,6 +10,27 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/xmaslights/dscf0856.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0860.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0863.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0866.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0884.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0885.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0888.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0900.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0901.jpg
+    alt: "York Christmas Lights Turned On"
+  - image: ./src/posts/2004/assets/xmaslights/dscf0909.jpg
+    alt: "York Christmas Lights Turned On"
 ---
 
 I got back from town with the children just a couple of hours ago. We\'d
@@ -27,7 +48,7 @@ The photos are more impressionistic than realistic. It was dark and too
 far away for the flash so most of them are a bit blurred, and possibly
 look all the better for that.
 
-<wpg2>xmaslights</wpg2>
+{% include "partials/gallery.njk" %}
 
 The rest of the day - I went to yoga and the supermarket, the children
 to school and Cindy rested. She\'s ok, but has some aches and pains and

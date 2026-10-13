@@ -10,6 +10,17 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/hunmanbymay2005/pict0058.jpg
+    alt: "Two Fantastic Days at the Seaside"
+  - image: ./src/posts/2005/assets/hunmanbymay2005/pict0059.jpg
+    alt: "Two Fantastic Days at the Seaside"
+  - image: ./src/posts/2005/assets/hunmanbymay2005/pict0060.jpg
+    alt: "Two Fantastic Days at the Seaside"
+  - image: ./src/posts/2005/assets/hunmanbymay2005/pict0062.jpg
+    alt: "Two Fantastic Days at the Seaside"
+  - image: ./src/posts/2005/assets/hunmanbymay2005/pict0071.jpg
+    alt: "Two Fantastic Days at the Seaside"
 ---
 
 Bank Holiday Weekend - go to the seaside!
@@ -21,7 +32,7 @@ go in the water at all.
 We all took turns on Toby\'s body board, \"catching waves\" in the surf.
 All three of them got pretty good rides.
 
-<wpg2>hunmanbymay2005</wpg2>
+{% include "partials/gallery.njk" %}
 
 John and Rose also have skim boards - for skimming across shallow water.
 We all tried these out - Toby with great success, the rest of us just

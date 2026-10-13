@@ -15,7 +15,13 @@ gallery:
     alt: "Kitchen Photos"
   - image: ./src/posts/2005/assets/kitchenalmost/dscf1132.jpg
     alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1136.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1137.jpg
+    alt: "Kitchen Photos"
   - image: ./src/posts/2005/assets/kitchenalmost/dscf1141.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1144.jpg
     alt: "Kitchen Photos"
   - image: ./src/posts/2005/assets/kitchenalmost/dscf1146.jpg
     alt: "Kitchen Photos"

@@ -13,6 +13,10 @@ type: Blog
 gallery:
   - image: ./src/posts/2005/assets/starinn/dscf0973.jpg
     alt: "Surprise for Cindy"
+  - image: ./src/posts/2005/assets/starinn/dscf0974.jpg
+    alt: "Surprise for Cindy"
+  - image: ./src/posts/2005/assets/starinn/dscf0975.jpg
+    alt: "Surprise for Cindy"
   - image: ./src/posts/2005/assets/starinn/dscf0976.jpg
     alt: "Surprise for Cindy"
   - image: ./src/posts/2005/assets/starinn/dscf0979.jpg

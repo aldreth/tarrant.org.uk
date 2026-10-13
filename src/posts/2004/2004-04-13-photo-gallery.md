@@ -11,7 +11,23 @@ author: Edward
 comments: []
 type: Blog
 gallery:
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0225.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0227.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0228.jpg
+    alt: "Photo Gallery"
   - image: ./src/posts/2004/assets/forbiddencorner/dscf0229.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0238.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0239.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0240.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0243.jpg
+    alt: "Photo Gallery"
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0244.jpg
     alt: "Photo Gallery"
 ---
 

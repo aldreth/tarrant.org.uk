@@ -2,7 +2,7 @@
 title: Cindy's Morning Tablets
 description: >-
   I thought it would be amusing to show a picture of all the tablets that Cindy
-  takes each morning! <wpg2>tablets</wpg2>...
+  takes each morning!...
 date: '2004-04-17'
 permalink: /2004/04/17/cindys-morning-tablets/
 tags:
@@ -10,12 +10,23 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/tablets/dscf0716.jpg
+    alt: "Cindy's Morning Tablets"
+  - image: ./src/posts/2004/assets/tablets/dscf0717.jpg
+    alt: "Cindy's Morning Tablets"
+  - image: ./src/posts/2004/assets/tablets/dscf0718.jpg
+    alt: "Cindy's Morning Tablets"
+  - image: ./src/posts/2004/assets/tablets/dscf0719.jpg
+    alt: "Cindy's Morning Tablets"
+  - image: ./src/posts/2004/assets/tablets/dscf0720.jpg
+    alt: "Cindy's Morning Tablets"
 ---
 
 I thought it would be amusing to show a picture of all the tablets that
 Cindy takes each morning!
 
-<wpg2>tablets</wpg2>
+{% include "partials/gallery.njk" %}
 
 The blue one is Echinacea - 400mg.  
  The red smarty sized one is a boots multivitamin, mineral and iron,  

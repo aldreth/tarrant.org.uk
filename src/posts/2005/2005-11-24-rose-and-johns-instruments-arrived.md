@@ -10,6 +10,17 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/instruments/_33_0462.jpg
+    alt: "Rose and John's Instruments Arrived"
+  - image: ./src/posts/2005/assets/instruments/_34_0463.jpg
+    alt: "Rose and John's Instruments Arrived"
+  - image: ./src/posts/2005/assets/instruments/_35_0464.jpg
+    alt: "Rose and John's Instruments Arrived"
+  - image: ./src/posts/2005/assets/instruments/_36_0465.jpg
+    alt: "Rose and John's Instruments Arrived"
+  - image: ./src/posts/2005/assets/instruments/_37_0466.jpg
+    alt: "Rose and John's Instruments Arrived"
 ---
 
 I picked up Rose\'s flute and John\'s saxophone on Tuesday and today is
@@ -20,5 +31,5 @@ we got it wrong. He has of course been posing with it, standing on a
 chair in the kitchen waving it around this morning for instance. Perhaps
 this evening he\'ll actually be able to make a note.
 
-<wpg2>instruments</wpg2>
+{% include "partials/gallery.njk" %}
 

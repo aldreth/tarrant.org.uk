@@ -29,6 +29,15 @@ comments:
 
       love from Liz    
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/whitby12-9-2005/dscf1343.jpg
+    alt: "Friday to Friday"
+  - image: ./src/posts/2005/assets/whitby12-9-2005/dscf1344.jpg
+    alt: "Friday to Friday"
+  - image: ./src/posts/2005/assets/whitby12-9-2005/dscf1348.jpg
+    alt: "Friday to Friday"
+  - image: ./src/posts/2005/assets/whitby12-9-2005/dscf1352.jpg
+    alt: "Friday to Friday"
 ---
 
 *Written on Saturday 10th.*
@@ -120,7 +129,7 @@ went to Whitby with Mandy and David. I didn\'t want the children to go
 into school, and I wanted to get out somewhere. Whitby was somewhere
 Cindy always enjoyed visiting, so I thought it would be nice.
 
-<wpg2>whitby12-9-2005</wpg2>
+{% include "partials/gallery.njk" %}
 
 I\'ve never been to Whitby on a day like that - it was very hot and
 sunny, the sea was like a millpond. Normally, it\'s grey, windy,with

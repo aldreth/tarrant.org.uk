@@ -11,8 +11,15 @@ author: Edward
 comments: []
 type: Blog
 gallery:
+  - image: ./src/posts/2005/assets/seasidefeb05/dscf1025.jpg
+    alt: "Needlework, Truck Driving, Seaside and Chinese"
   - image: ./src/posts/2005/assets/seasidefeb05/pict0002.jpg
     alt: "Needlework, Truck Driving, Seaside and Chinese"
+chineseparade:
+  - image: ./src/posts/2005/assets/chineseparade/pict0006.jpg
+    alt: "Chinese New Year parade"
+  - image: ./src/posts/2005/assets/chineseparade/pict0007.jpg
+    alt: "Chinese New Year parade"
 ---
 
 Wednesday of half-term holiday -
@@ -41,7 +48,8 @@ chips before we came home, as is traditional when you go to the seaside.
 
 In the evening we went into town to see York\'s Chinese New Year parade.
 
-<wpg2>chineseparade</wpg2>
+{% set gallery = chineseparade %}
+{% include "partials/gallery.njk" %}
 
 
 

@@ -41,6 +41,8 @@ gallery:
     alt: "Kitchen Starts!"
   - image: ./src/posts/2005/assets/kitchen/dscf1083.jpg
     alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1084.jpg
+    alt: "Kitchen Starts"
   - image: ./src/posts/2005/assets/kitchen/dscf1087.jpg
     alt: "Kitchen Starts!"
 ---

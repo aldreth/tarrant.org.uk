@@ -31,8 +31,12 @@ gallery:
     alt: "Rae's, 1987 - from Glen Everton"
   - image: ./src/posts/2005/assets/cindyphotos/the_cobb_lyme_1987.jpg
     alt: "The Cobb, Lyme Regis, 1987 - from Glen Everton"
+  - image: ./src/posts/2005/assets/cindyphotos/wales_004.jpg
+    alt: "Family in Wales"
   - image: ./src/posts/2005/assets/cindyphotos/wales_037.jpg
     alt: "Family in Wales - photo from Will & Sarah"
+  - image: ./src/posts/2005/assets/cindyphotos/wales_040.jpg
+    alt: "Family in Wales"
 ---
 
 Here\'s the first photo of Cindy that anyone has sent - from [Simon

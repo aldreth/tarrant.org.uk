@@ -11,6 +11,10 @@ type: Blog
 gallery:
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0753.jpg
     alt: "Pauline & Lal's Wedding"
+  - image: ./src/posts/2004/assets/paulinelalwed/dscf0754.jpg
+    alt: "Pauline & Lal's Wedding"
+  - image: ./src/posts/2004/assets/paulinelalwed/dscf0755.jpg
+    alt: "Pauline & Lal's Wedding"
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0756.jpg
     alt: "Pauline & Lal's Wedding"
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0757.jpg
@@ -20,6 +24,12 @@ gallery:
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0769.jpg
     alt: "Pauline & Lal's Wedding"
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0770.jpg
+    alt: "Pauline & Lal's Wedding"
+  - image: ./src/posts/2004/assets/paulinelalwed/dscf0771.jpg
+    alt: "Pauline & Lal's Wedding"
+  - image: ./src/posts/2004/assets/paulinelalwed/dscf0773.jpg
+    alt: "Pauline & Lal's Wedding"
+  - image: ./src/posts/2004/assets/paulinelalwed/dscf0776.jpg
     alt: "Pauline & Lal's Wedding"
   - image: ./src/posts/2004/assets/paulinelalwed/dscf0787.jpg
     alt: "Pauline & Lal's Wedding"

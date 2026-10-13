@@ -10,6 +10,15 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/xmasday2004/pict0054.jpg
+    alt: "Christmas Round Up"
+  - image: ./src/posts/2004/assets/xmasday2004/pict0058.jpg
+    alt: "Christmas Round Up"
+  - image: ./src/posts/2004/assets/xmasday2004/pict0060.jpg
+    alt: "Christmas Round Up"
+  - image: ./src/posts/2004/assets/xmasday2004/pict0062.jpg
+    alt: "Christmas Round Up"
 ---
 
 A lovely Christmas.
@@ -21,7 +30,7 @@ everyone\'s presents, so was deliberately the last person to finish
 opening his own, John was busy taking photos with the new camera that he
 got for his birthday.
 
-<wpg2>xmasday2004</wpg2>
+{% include "partials/gallery.njk" %}
 
 Lance came out of hospital on Christmas morning, which was slightly
 earlier than expected. He seems to be doing really well.

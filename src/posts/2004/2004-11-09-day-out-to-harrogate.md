@@ -10,6 +10,13 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/cindybetty/dscf0845.jpg
+    alt: "Day Out to Harrogate"
+  - image: ./src/posts/2004/assets/cindybetty/dscf0846.jpg
+    alt: "Day Out to Harrogate"
+  - image: ./src/posts/2004/assets/cindybetty/dscf0847.jpg
+    alt: "Day Out to Harrogate"
 ---
 
 After I\'d dropped the children at school, Cindy and I went over to
@@ -20,7 +27,7 @@ her time either in the coolest dry room or relaxing on the day beds. We
 left earlier than we might have done otherwise, but it did mean that we
 arrived in Betty\'s just before the queue started.
 
-<wpg2>cindybetty</wpg2>
+{% include "partials/gallery.njk" %}
 
 We had a lovely lunch, as you can probably see from the photos - rosti
 with smoked salmon for her, and rosti with scrambled egg, mushrooms and

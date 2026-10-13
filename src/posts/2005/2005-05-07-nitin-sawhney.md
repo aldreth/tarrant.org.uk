@@ -10,6 +10,17 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/sage/dscf1154.jpg
+    alt: "Nitin Sawhney"
+  - image: ./src/posts/2005/assets/sage/dscf1155.jpg
+    alt: "Nitin Sawhney"
+  - image: ./src/posts/2005/assets/sage/dscf1156.jpg
+    alt: "Nitin Sawhney"
+  - image: ./src/posts/2005/assets/sage/dscf1157.jpg
+    alt: "Nitin Sawhney"
+  - image: ./src/posts/2005/assets/sage/dscf1158.jpg
+    alt: "Nitin Sawhney"
 ---
 
 Yesterday evening, Cindy and I went to Gateshead to see [Nitin
@@ -19,7 +30,7 @@ It\'s a fantastic building and a brilliant concert hall. It is very
 comfortable and has fantastic acoustics, but it was a slightly strange
 venue for a \"pop\" concert.
 
-<wpg2>sage</wpg2>
+{% include "partials/gallery.njk" %}
 
 Because it was all seating, everyone was sitting down most of the time
 and listening very reverently with clapping after the end of each song -

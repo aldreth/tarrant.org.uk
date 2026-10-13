@@ -18,6 +18,8 @@ gallery:
     alt: "Bonfire Weekend"
   - image: ./src/posts/2004/assets/lpnov04/dscf0836.jpg
     alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0837.jpg
+    alt: "Bonfire Weekend"
   - image: ./src/posts/2004/assets/lpnov04/dscf0839.jpg
     alt: "Bonfire Weekend"
   - image: ./src/posts/2004/assets/lpnov04/dscf0840.jpg

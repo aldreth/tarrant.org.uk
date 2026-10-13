@@ -10,6 +10,19 @@ tags:
 author: Cindy
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0963.jpg
+    alt: "Mum and Dad for the weekend"
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0966.jpg
+    alt: "Mum and Dad for the weekend"
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0967.jpg
+    alt: "Mum and Dad for the weekend"
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0969.jpg
+    alt: "Mum and Dad for the weekend"
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0970.jpg
+    alt: "Mum and Dad for the weekend"
+  - image: ./src/posts/2005/assets/pmvisit2005/dscf0971.jpg
+    alt: "Mum and Dad for the weekend"
 ---
 
 Started our weekend over a cup of tea and cream doughnuts and danish
@@ -54,5 +67,5 @@ from Nanny and it is doubtful that the oversized fur coat will make it
 out of the house as John and Rose are having far too much fun with it.
 It seems to be doubling up as a bath robe at the moment.
 
-<wpg2>pmvisit2005</wpg2>
+{% include "partials/gallery.njk" %}
 

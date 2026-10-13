@@ -11,16 +11,44 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2007/assets/cindygravestone/img_0896.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0897.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0898.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0899.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0900.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0901.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0902.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0903.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0904.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0905.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0906.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0907.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0908.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0909.jpg
+    alt: "Cindy's Gravestone"
+  - image: ./src/posts/2007/assets/cindygravestone/img_0910.jpg
+    alt: "Cindy's Gravestone"
 ---
 
 Well at last, Cindy\'s gravestone has been put up in the cemetery. We
 all went this afternoon after Meeting, had a look at it and lit some
 candles Pat and Maurice had sent for Cindy\'s anniversary and birthday.
 
-<!-- TODO: gallery -->
-<div>
-<wpg2>1748</wpg2>
-</div>
+{% include "partials/gallery.njk" %}
 
 The text says:
 

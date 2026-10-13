@@ -11,6 +11,26 @@ author: Cindy
 comments: []
 type: Blog
 gallery:
+  - image: ./src/posts/2004/assets/rubywed/dscf0722.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0723.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0724.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0726.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0727.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0728.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0729.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0730.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0731.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0732.jpg
+    alt: "40th Wedding Anniversary"
   - image: ./src/posts/2004/assets/rubywed/dscf0733.jpg
     alt: "40th Wedding Anniversary"
   - image: ./src/posts/2004/assets/rubywed/dscf0734.jpg
@@ -32,6 +52,8 @@ gallery:
   - image: ./src/posts/2004/assets/rubywed/dscf0742.jpg
     alt: "40th Wedding Anniversary"
   - image: ./src/posts/2004/assets/rubywed/dscf0743.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0744.jpg
     alt: "40th Wedding Anniversary"
   - image: ./src/posts/2004/assets/rubywed/dscf0745.jpg
     alt: "40th Wedding Anniversary"

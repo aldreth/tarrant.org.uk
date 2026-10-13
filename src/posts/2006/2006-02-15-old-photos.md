@@ -11,6 +11,10 @@ author: Edward
 comments: []
 type: Blog
 gallery:
+  - image: ./src/posts/2006/assets/oldphotos/cindy-edward-yard.jpg
+    alt: "Cindy and Edward"
+  - image: ./src/posts/2006/assets/oldphotos/cindy-rose.jpg
+    alt: "Cindy and Rose"
   - image: ./src/posts/2006/assets/oldphotos/john-handstand.jpg
     alt: "John preparing to do a handstand or more likely a somersault"
   - image: ./src/posts/2006/assets/oldphotos/john-oldemor.jpg
