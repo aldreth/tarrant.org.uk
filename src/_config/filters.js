@@ -3,6 +3,7 @@ import {markdownFormat} from './filters/markdown-format.js';
 import {shuffleArray} from './filters/sort-random.js';
 import {sortAlphabetically} from './filters/sort-alphabetic.js';
 import {splitlines} from './filters/splitlines.js';
+import {commentParagraphs, decodeText} from './filters/comment-text.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
 import {postPermalink} from './filters/post-permalink.js';
@@ -13,6 +14,8 @@ export default {
   formatDate,
   markdownFormat,
   splitlines,
+  commentParagraphs,
+  decodeText,
   striptags,
   shuffleArray,
   sortAlphabetically,
