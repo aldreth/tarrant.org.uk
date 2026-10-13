@@ -31,6 +31,13 @@ comments:
     content: |
       'Happy Birthday' Cindy ~ always in my thoughts, with love from, Jayne
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/treeclimbing/cnv00021.jpg
+    alt: "Cindy's Birthday"
+  - image: ./src/posts/2005/assets/treeclimbing/cnv00023.jpg
+    alt: "Cindy's Birthday"
+  - image: ./src/posts/2005/assets/treeclimbing/cnv00024.jpg
+    alt: "Cindy's Birthday"
 ---
 
 Today would have been Cindy\'s 44<sup>th</sup> birthday.
@@ -42,5 +49,5 @@ David, Mimi and Jocelyn Campbell. Have climbed trees, run around, had
 scones and generally enjoyed ourselves. Toby has been working very hard
 on his graphics project and then went out with Tom Robinson.
 
-<wpg2>treeclimbing</wpg2>
+{% include "partials/gallery.njk" %}
 

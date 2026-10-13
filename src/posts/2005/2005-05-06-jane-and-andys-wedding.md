@@ -10,10 +10,15 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/janewedding/pict0002.jpg
+    alt: "Jane and Andy's Wedding"
+  - image: ./src/posts/2005/assets/janewedding/pict0008.jpg
+    alt: "Jane and Andy's Wedding"
 ---
 
 Jane and Andy got married in York Registry Office, followed by a party
 at Lance and Mary\'s on April 23<sup>rd</sup>.
 
-<wpg2>janewedding</wpg2>
+{% include "partials/gallery.njk" %}
 

@@ -11,6 +11,17 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2006/assets/holland/dsc00518.jpg
+    alt: "Half Term in Holland"
+  - image: ./src/posts/2006/assets/holland/dsc00519.jpg
+    alt: "Half Term in Holland"
+  - image: ./src/posts/2006/assets/holland/dsc00520.jpg
+    alt: "Half Term in Holland"
+  - image: ./src/posts/2006/assets/holland/dsc00533.jpg
+    alt: "Half Term in Holland"
+  - image: ./src/posts/2006/assets/holland/dsc00600.jpg
+    alt: "Half Term in Holland"
 ---
 
 Over half term we went to one of the Center Parcs in Holland. We drove
@@ -32,7 +43,7 @@ worrying about bumping into anything.
 It was great spending time with Will, Sarah, Jack and Grace,
 particularly as they are leaving for Australia in September.
 
-<wpg2>holland</wpg2>
+{% include "partials/gallery.njk" %}
 
 The stop in Bruges on the way home was fantastic. Will had found an
 amazingly central hotel, we had a nice Italian meal and spent the lovely

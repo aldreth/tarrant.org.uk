@@ -10,6 +10,23 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2006/assets/london0206/pict0002.jpg
+    alt: "John with Julia Roberts"
+  - image: ./src/posts/2006/assets/london0206/pict0022.jpg
+    alt: "John with Marilyn Monroe"
+  - image: ./src/posts/2006/assets/london0206/pict0048.jpg
+    alt: "Amy"
+  - image: ./src/posts/2006/assets/london0206/pict0049.jpg
+    alt: "Edward"
+  - image: ./src/posts/2006/assets/london0206/pict0082.jpg
+    alt: "Egyptian Statue"
+  - image: ./src/posts/2006/assets/london0206/pict0094.jpg
+    alt: "London Eye"
+  - image: ./src/posts/2006/assets/london0206/pict0099.jpg
+    alt: "Big Ben"
+  - image: ./src/posts/2006/assets/london0206/pict0104.jpg
+    alt: "Platform 9 3/4"
 ---
 
 We went to London this weekend, primarily for Eleanor Garner\'s
@@ -42,7 +59,7 @@ at Egyptian things, as Rose is doing them at the moment and John did
 them last year. Then we got the six o\'clock train back to York and were
 picked up at the station by Mary. Another exhausting weekend!
 
-<wpg2>london0206</wpg2>
+{% include "partials/gallery.njk" %}
 
 
 

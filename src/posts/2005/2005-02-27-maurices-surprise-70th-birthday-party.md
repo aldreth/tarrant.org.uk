@@ -10,6 +10,29 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/maurice70/dscf1031.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1032.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1034.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1038.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1041.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1042.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1043.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1047.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1048.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1049.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
+  - image: ./src/posts/2005/assets/maurice70/dscf1054.jpg
+    alt: "Maurice's Surprise 70th Birthday Party"
 ---
 
 Cindy\'s dad, Maurice, was 70 on Friday and we all met up for a surprise
@@ -27,5 +50,5 @@ We had a nice meal in a pub near to where Pat and Maurice live -
 followed by coffee and more drinks back at their house. Didn\'t get into
 bed intil almost 2! Then drove back home this morning.
 
-<wpg2>maurice70</wpg2>
+{% include "partials/gallery.njk" %}
 

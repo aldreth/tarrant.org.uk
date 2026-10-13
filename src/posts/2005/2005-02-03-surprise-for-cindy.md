@@ -10,6 +10,15 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/starinn/dscf0973.jpg
+    alt: "Surprise for Cindy"
+  - image: ./src/posts/2005/assets/starinn/dscf0976.jpg
+    alt: "Surprise for Cindy"
+  - image: ./src/posts/2005/assets/starinn/dscf0979.jpg
+    alt: "Surprise for Cindy"
+  - image: ./src/posts/2005/assets/starinn/dscf0981.jpg
+    alt: "Surprise for Cindy"
 ---
 
 As it is getting close to time for me to go back to school, I thought
@@ -77,7 +86,7 @@ just around for you to take - it seemed extremely jealous.
 
 We went back to our room and played a few games of pool, before bedtime.
 
-<wpg2>starinn</wpg2>
+{% include "partials/gallery.njk" %}
 
 The next morning we didn\'t get up till about half nine - to try and
 give our appetites a chance to build up again after the previous day\'s

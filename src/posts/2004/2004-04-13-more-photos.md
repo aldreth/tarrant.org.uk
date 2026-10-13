@@ -10,9 +10,12 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/k-s-wedding/dscf0130.jpg
+    alt: "More Photos"
 ---
 
 To celebrate the birth of Thomas Austin Bowers on 10 April 2004, here
 are some old photos of Katharine and Simon\'s Wedding.  
- <wpg2>k-s-wedding</wpg2>
+ {% include "partials/gallery.njk" %}
 
