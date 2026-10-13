@@ -1,12 +1,4 @@
-{% set metaDescription %}
-  {%- if discover.description -%}
-    {{- discover.description -}}
-  {%- elif description -%}
-    {{- description -}}
-  {%- else -%}
-    {{- meta.siteDescription -}}
-  {%- endif -%}
-{% endset %}
+{% set metaDescription = (discover.description or description or meta.siteDescription) | trim %}
 
 <meta name="description" content="{{ metaDescription }}" />
 <meta name="theme-color" content="{{ meta.themeDark }}" media="(prefers-color-scheme: dark)" />
@@ -50,17 +42,19 @@
     {{- meta.siteName -}}
   {%- endif -%}"
 />
+{% set shareUrl = page.url | replace('.html', '/') %}
+{% set hasShareImage = (layout == 'post' or layout == 'page' or layout == 'base' or layout == 'tags') and not pagination and not eleventyExcludeFromCollections %}
 <meta
   property="og:image"
-  content="{%- if layout == 'post' -%}
-    {{- meta.url -}}/assets/og-images{{ permalink }}{{ title | slugify }}-preview.svg
+  content="{%- if hasShareImage -%}
+    {{- meta.url -}}/assets/og-images{{ shareUrl }}{{ title | slugify }}-preview.jpg
   {%- else -%}
     {{- meta.url -}}{{- meta.opengraph_default -}}
   {%- endif -%}"
 />
 <meta
   property="og:image:alt"
-  content="{%- if layout == 'post' -%}
+  content="{%- if hasShareImage -%}
     {{- title -}}
   {%- else -%}
     {{- meta.opengraph_default_alt -}}
