@@ -40,6 +40,8 @@ schema: BlogPosting
 
     {{ content | safe }}
 
+    {% include "partials/comments.njk" %}
+
     {% set typeCollection = collections.allBlogPosts if type == "Blog" else (collections.allDiaryPosts if type == "Diary" else collections.allJournalPosts) %}
     {% include "partials/post-nav.njk" %}
 
@@ -62,6 +64,7 @@ schema: BlogPosting
 
 {%- css "local" -%}
   {%- include 'css/post.css' -%}
+  {%- include 'css/comments.css' -%}
   {%- include 'css/footnotes.css' -%}
   {%- include 'css/gallery.css' -%}
 {%- endcss -%}

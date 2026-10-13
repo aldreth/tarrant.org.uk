@@ -1,0 +1,18 @@
+{% if comments and comments.length %}
+  <section class="comments" aria-labelledby="comments-heading">
+    <h2 id="comments-heading">Comments</h2>
+    <ol class="comments-list">
+      {% for comment in comments %}
+        <li>
+          <p class="comment-byline">
+            <span class="comment-name">{{ comment.author | decodeText }}</span>
+            <time datetime="{{ comment.date | toIsoString }}">{{ comment.date | formatDate("D MMMM YYYY") }}</time>
+          </p>
+          {% for paragraph in comment.content | commentParagraphs %}
+            <p>{{ paragraph }}</p>
+          {% endfor %}
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
+{% endif %}
