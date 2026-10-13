@@ -30,7 +30,7 @@ permalink: /{{year[0]}}/
           {% endfor %}
         </div>
       {% endif %}
-      <div slot="content" webc:nokeep>{{ item.data.description | markdownFormat | safe }}</div>
+      <div slot="content" webc:nokeep>{{ item.data.description | markdownFormat(item.inputPath) | safe }}</div>
     </custom-card>
 {% endeach %}
 

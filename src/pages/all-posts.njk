@@ -26,6 +26,6 @@ description: "A family blog covering the last few years of Cindy Tarrant's life,
         {% endfor %}
       </div>
     {% endif %}
-    <div slot="content" webc:nokeep>{{ item.data.description | markdownFormat | safe }}</div>
+    <div slot="content" webc:nokeep>{{ item.data.description | markdownFormat(item.inputPath) | safe }}</div>
   </custom-card>
 {% endeach %}
