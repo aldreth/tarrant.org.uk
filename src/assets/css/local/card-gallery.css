@@ -86,15 +86,13 @@ is-land:not(:defined) .card-gallery dialog + button {
 }
 .card-gallery dialog .set {
   display: grid;
-  grid-column-gap: var(--space-s);
-  grid-auto-flow: column;
-  grid-auto-columns: minmax(0, 1fr);
+  gap: var(--space-s);
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
 }
 
 .card-gallery dialog .set img,
 .card-gallery dialog .set div {
-  max-block-size: 70vh;
   max-inline-size: 100%;
   object-fit: contain;
   border: none;
@@ -102,7 +100,23 @@ is-land:not(:defined) .card-gallery dialog + button {
 
 [data-theme='dark'] .card-gallery dialog .set div {
   color: var(--color-text);
-  overflow-y: scroll;
+}
+
+@media screen(sm) {
+  .card-gallery dialog .set {
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    grid-template-columns: none;
+  }
+
+  .card-gallery dialog .set img,
+  .card-gallery dialog .set div {
+    max-block-size: 70vh;
+  }
+
+  [data-theme='dark'] .card-gallery dialog .set div {
+    overflow-y: scroll;
+  }
 }
 
 [data-theme='light'] .card-gallery dialog .set div,
