@@ -32,6 +32,17 @@ export const showInSitemap = collection => {
   return collection.getFilteredByGlob('./src/**/*.{md,njk}');
 };
 
+/** Posts, plus ordinary pages, for generated share images. Date archives and tag pages are paginated and keep the default image. */
+export const getShareImages = collection => {
+  const pages = collection.getAll().filter(item => {
+    if (!['page', 'base', 'tags'].includes(item.data.layout)) return false;
+    if (item.data.pagination) return false;
+    if (!item.data.title || !item.url) return false;
+    return true;
+  });
+  return [...collection.getFilteredByGlob('./src/posts/**/*.md'), ...pages];
+};
+
 /** All tags from all posts as a collection - excluding custom collections */
 export const tagList = collection => {
   const tagsSet = new Set();

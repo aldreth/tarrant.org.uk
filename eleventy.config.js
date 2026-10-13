@@ -25,7 +25,8 @@ import {
   getAllPostsByYearMonth,
   getAllPostsByYearMonthDay,
   showInSitemap,
-  tagList
+  tagList,
+  getShareImages
 } from './src/_config/collections.js';
 import events from './src/_config/events.js';
 import filters from './src/_config/filters.js';
@@ -35,6 +36,7 @@ import shortcodes from './src/_config/shortcodes.js';
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
+    events.markOgBuildStart();
     await events.buildAllCss();
     await events.buildAllJs();
   });
@@ -60,6 +62,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addCollection('allPostsByAuthor', getAllPostsByAuthor);
   eleventyConfig.addCollection('showInSitemap', showInSitemap);
   eleventyConfig.addCollection('tagList', tagList);
+  eleventyConfig.addCollection('shareImages', getShareImages);
 
   // ---------------------  Plugins
   eleventyConfig.addPlugin(plugins.htmlConfig);
@@ -114,10 +117,11 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
-  if (process.env.ELEVENTY_RUN_MODE === 'serve') {
-    eleventyConfig.on('eleventy.after', events.svgToJpeg);
-  }
+  // Share cards need a JPEG. SVG previews are ignored by Facebook, iMessage and Slack.
+  // Only the production build converts them: a clean dist means every preview is new,
+  // and converting hundreds of images on each dev rebuild is wasted work.
   if (process.env.ELEVENTY_RUN_MODE === 'build') {
+    eleventyConfig.on('eleventy.after', events.svgToJpeg);
     eleventyConfig.on('eleventy.after', shortcodes.pruneUnusedImages);
   }
 

@@ -5,10 +5,10 @@ background: '#b1f1fe'
 text: '#161616'
 siteUrl: 'tarrant.org.uk'
 pagination:
-  data: collections.allPosts
+  data: collections.shareImages
   size: 1
   alias: post
-permalink: '/assets/og-images/{{ post.data.permalink }}{{ post.data.title | slugify }}-preview.svg'
+permalink: '/assets/og-images{{ post.url | replace(".html", "/") }}{{ post.data.title | slugify }}-preview.svg'
 eleventyExcludeFromCollections: true
 ---
 
@@ -21,7 +21,8 @@ eleventyExcludeFromCollections: true
   xmlns:xlink="http://www.w3.org/1999/xlink"
 >
   {% set titleInLines = post.data.title | splitlines(22) %}
-  {% set descriptionInLines = post.data.description | splitlines(80) %}
+  {% set cardDescription = post.data.description or meta.siteDescription %}
+  {% set descriptionInLines = cardDescription | splitlines(80) %}
   {% set numberOfLinesInTitle = titleInLines.length  %}
   {% set numberOfLines = numberOfLinesInTitle  %}
   {% if numberOfLines == 1 %}
@@ -50,9 +51,11 @@ eleventyExcludeFromCollections: true
     fill="{{ text }}"
     letter-spacing="-1"
   >
+    {% if post.data.layout == 'post' %}
     <tspan x="160" y="{{ verticalStartingPoint - 120 }}">
       {{ post.date | formatDate('DD / MM / YYYY') }}
     </tspan>
+    {% endif %}
   </text>
 
   <!-- title -->
