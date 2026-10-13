@@ -10,6 +10,37 @@ tags:
 author: Cindy
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/rubywed/dscf0733.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0734.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0735.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0736.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0737.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0738.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0739.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0740.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0741.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0742.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0743.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0745.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0746.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0747.jpg
+    alt: "40th Wedding Anniversary"
+  - image: ./src/posts/2004/assets/rubywed/dscf0748.jpg
+    alt: "40th Wedding Anniversary"
 ---
 
 Sunday 9th May and Lance and Mary\'s 40th Wedding Anniversary. Sorted
@@ -42,5 +73,5 @@ with a 6 o clock train to catch. Simon and Katherine departed with a
 slightly grumpy Thomas and a had a good journey home. We cycled home
 soon after. A lovely celebration that I think all enjoyed.
 
-<wpg2>rubywed</wpg2>
+{% include "partials/gallery.njk" %}
 

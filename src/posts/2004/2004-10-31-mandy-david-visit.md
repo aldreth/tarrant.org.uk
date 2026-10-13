@@ -10,6 +10,21 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_005.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_006.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_007.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_009.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_010.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_011.jpg
+    alt: "Mandy & David Visit"
+  - image: ./src/posts/2004/assets/mandydavidoct04/pictures_from_digi_camera_012.jpg
+    alt: "Mandy & David Visit"
 ---
 
 We\'ve had Mandy, David, Amy and Tom to visit for the last few days.
@@ -23,7 +38,7 @@ John and Rose went off to do some shopping.
 On Saturday morning, all the adults went out for a meal at La Piazza and
 had a really lovely time - see photo.
 
-<wpg2>mandydavidoct04</wpg2>
+{% include "partials/gallery.njk" %}
 
 
 

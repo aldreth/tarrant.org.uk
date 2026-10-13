@@ -42,17 +42,16 @@ comments:
       knew it was our final time together. I am so grateful that I had this
       opportunity to say goodbye.
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/announcements/guardian-announcements.jpg
+    alt: "The announcements in the corner of the Guardian page"
+  - image: ./src/posts/2005/assets/announcements/guardian-page.jpg
+    alt: "Guardian page with the announcement of Cindy's death"
 ---
 
 Today\'s Guardian has an announcement of Cindy\'s death and funeral.
 Here\'s the page:  
- <!-- ![Whole Guardian
-Page](https://www.tarrant.org.uk/wp-content/ber_36_050921_2281367.jpg){:
-width="254" height="193"}
-
-and the bottom right hand corner has this:  
- ![Announcements](https://www.tarrant.org.uk/wp-content/ber_37_050921_2282286.jpg){:
-width="250" height="249"} -->
+ {% include "partials/gallery.njk" %}
 
 The same text is in tonight\'s York Evening Press.
 

@@ -2,7 +2,7 @@
 title: Photos of Mandy's Birthday
 description: >-
   I\'ve put up some photos from Mandy\'s birthday weekend here in York. There
-  are several of Cindy. <!-- [![Mandy &...
+  are several of Cindy.
 date: '2005-09-19'
 permalink: /2005/09/19/photos-of-mandys-birthday/
 tags:
@@ -12,13 +12,28 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_003.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_005.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_007.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_008.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_012.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_017.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_021.jpg
+    alt: "Photos of Mandy's Birthday"
+  - image: ./src/posts/2005/assets/mandy40/pictures_from_digi_camera_024.jpg
+    alt: "Photos of Mandy's Birthday"
 ---
 
 I\'ve put up some photos from Mandy\'s birthday weekend here in York.
 There are several of Cindy.
-<!-- 
-[![Mandy &
-Cindy](https://tarrant.org.uk/d/42-3/mandy40.jpg?g2_GALLERYSID=e5e1dddb92e367838451623a9b041b95)][1] -->
+{% include "partials/gallery.njk" %}
 
 There are also more photos added to the [Photos of Cindy][2] gallery.
 
@@ -32,5 +47,4 @@ I\'m tired too.
 
 
 
-[1]: https://tarrant.org.uk/v/mandy40/
 [2]: https://www.tarrant.org.uk/v/cindyphotos

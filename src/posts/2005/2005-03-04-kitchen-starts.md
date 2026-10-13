@@ -10,6 +10,39 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/kitchen/dscf1059.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1060.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1062.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1063.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1064.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1066.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1068.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1070.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1074.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1075.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1078.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1080.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1081.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1082.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1083.jpg
+    alt: "Kitchen Starts!"
+  - image: ./src/posts/2005/assets/kitchen/dscf1087.jpg
+    alt: "Kitchen Starts!"
 ---
 
 Dave came up on Sunday evening and by Monday evening we had no units in
@@ -18,7 +51,7 @@ wrecked, so much lighting needed to be done, and a tube for an extractor
 fan needed to be put in so we\'d decided total removal would be the best
 option.
 
-<wpg2>kitchen</wpg2>
+{% include "partials/gallery.njk" %}
 
 We now have a fridge, freezer, kitchen table, toaster, kettle and so on
 in the back room and not much space to move around. Cindy had been very

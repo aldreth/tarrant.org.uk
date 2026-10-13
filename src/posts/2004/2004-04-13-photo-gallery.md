@@ -10,11 +10,14 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/forbiddencorner/dscf0229.jpg
+    alt: "Photo Gallery"
 ---
 
 I\'ve just uploaded the first lot of photos to the photo gallery section
 of this site. They\'re of the Forbidden Corner in the Dales - we went
 there in May 2003.
 
-<wpg2>forbiddencorner</wpg2>
+{% include "partials/gallery.njk" %}
 

@@ -10,6 +10,9 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/seasidefeb05/pict0002.jpg
+    alt: "Needlework, Truck Driving, Seaside and Chinese"
 ---
 
 Wednesday of half-term holiday -
@@ -34,7 +37,7 @@ beach - I\'ve uploaded a video from his digital camera, to compare with
 the photos of his backflips from a couple of years ago. We had fish and
 chips before we came home, as is traditional when you go to the seaside.
 
-<wpg2>seasidefeb05</wpg2>
+{% include "partials/gallery.njk" %}
 
 In the evening we went into town to see York\'s Chinese New Year parade.
 

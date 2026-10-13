@@ -2,7 +2,7 @@
 title: Kitchen Photos
 description: >-
   I\'ve finally put up some pictures of the kitchen as it currently is. Do you
-  like the \"hob\"? <!-- [...
+  like the \"hob\"?
 date: '2005-05-06'
 permalink: /2005/05/06/kitchen-photos/
 tags:
@@ -10,15 +10,25 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1131.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1132.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1141.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1146.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1147.jpg
+    alt: "Kitchen Photos"
+  - image: ./src/posts/2005/assets/kitchenalmost/dscf1150.jpg
+    alt: "Kitchen Photos"
 ---
 
 I\'ve finally put up some pictures of the kitchen as it currently is. Do
 you like the \"hob\"?
 
-<!-- [  
- ![Almost
-Done](https://tarrant.org.uk/d/407-2/kitchenalmost.jpg?g2_GALLERYSID=e5e1dddb92e367838451623a9b041b95)][1] -->
+{% include "partials/gallery.njk" %}
 
 
 
-[1]: https://tarrant.org.uk/v/kitchen/kitchenalmost/

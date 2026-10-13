@@ -24,6 +24,11 @@ comments:
 
       Bill
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/grownupeve/dscf0958.jpg
+    alt: "Grown Up Evening"
+  - image: ./src/posts/2004/assets/grownupeve/dscf0959.jpg
+    alt: "Grown Up Evening"
 ---
 
 Last night we had Jo & Bill and Michelle & Mark round for a meal. We had
@@ -44,7 +49,7 @@ proud to show off the new [website][1] he\'s done for the school.
 
 Cindy took a couple of photos - here they are.
 
-<wpg2>grownupeve</wpg2>
+{% include "partials/gallery.njk" %}
 
 
 

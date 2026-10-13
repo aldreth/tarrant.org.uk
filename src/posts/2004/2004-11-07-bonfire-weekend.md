@@ -11,6 +11,21 @@ tags:
 author: Edward
 comments: []
 type: Blog
+gallery:
+  - image: ./src/posts/2004/assets/lpnov04/dscf0834.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0835.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0836.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0839.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0840.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0842.jpg
+    alt: "Bonfire Weekend"
+  - image: ./src/posts/2004/assets/lpnov04/dscf0843.jpg
+    alt: "Bonfire Weekend"
 ---
 
 We\'ve had a great weekend - **two** bonfire parties and visitors to
@@ -39,7 +54,7 @@ Today, we all went to Meeting, while L&P cooked lamb for us. Toby missed
 the meal, because he had to go and play football. Yet another loss for
 the Panthers.
 
-<wpg2>LPNov04</wpg2>
+{% include "partials/gallery.njk" %}
 
 
 
