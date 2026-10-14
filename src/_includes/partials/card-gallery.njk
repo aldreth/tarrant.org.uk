@@ -1,6 +1,6 @@
 
 <is-land on:idle>
-  <div class="card-gallery | grid mt-l-xl gutter-xs" role="list">
+  <div class="card-gallery{% if cardGalleryCover %} card-gallery-cover{% else %} | grid{% endif %} mt-l-xl gutter-xs" role="list">
     {%- for set in cardGallery -%}
     {% set image1 = set.images[0] %}
       <dialog class="flow modal{{ loop.index }}">
@@ -37,7 +37,9 @@
         </div>
         </div>
       </dialog>
+      {%- if not cardGalleryCover or loop.first -%}
       <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- image image1.src, image1.alt, image1.caption -%}</button>
+      {%- endif -%}
     {%- endfor -%}
   </div>
 
