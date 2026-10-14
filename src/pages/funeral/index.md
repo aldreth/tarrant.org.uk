@@ -13,7 +13,9 @@ It was very well attended.
 ## People at the funeral
 
 {% set cardGallery = listGallery %}
+{% set cardGalleryCover = true %}
 {% include "partials/card-gallery.njk" %}
+{% set cardGalleryCover = false %}
 
 ## Cards
 

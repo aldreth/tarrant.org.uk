@@ -77,6 +77,21 @@
   object-fit: cover;
 }
 
+.card-gallery-cover {
+  display: flex;
+  justify-content: center;
+}
+
+.card-gallery-cover dialog + button {
+  display: block;
+  inline-size: min(100%, 24rem);
+}
+
+.card-gallery-cover dialog + button img {
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
 /* Don't indicate interactivity without JS */
 is-land:not(:defined) .card-gallery dialog + button {
   cursor: default;
