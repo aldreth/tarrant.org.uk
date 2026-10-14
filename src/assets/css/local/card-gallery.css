@@ -6,21 +6,24 @@
   padding-inline: var(--space-m);
   margin: auto;
   inset: 0;
-  inline-size: fit-content;
-  block-size: fit-content;
-  max-inline-size: calc(100vw - 2em);
+  inline-size: calc(100vw - 2em);
+  block-size: calc(100dvh - 2em);
+  max-inline-size: none;
+  max-block-size: none;
 }
 
 /* only the body scrolls, so prev / close / next stay in view with long text */
 .card-gallery dialog[open] {
   display: flex;
   flex-direction: column;
-  max-block-size: calc(100dvh - 2em);
 }
 
 .card-gallery dialog .dialog-body {
+  margin-block-start: var(--space-s);
+  flex: 1;
   min-block-size: 0;
   overflow-y: auto;
+  container-type: size;
 }
 
 /* the image that serves as button */
@@ -89,11 +92,14 @@ is-land:not(:defined) .card-gallery dialog + button {
   gap: var(--space-s);
   grid-template-columns: minmax(0, 1fr);
   align-items: center;
+  block-size: 100%;
 }
 
 .card-gallery dialog .set img,
 .card-gallery dialog .set div {
   max-inline-size: 100%;
+  max-block-size: 100cqb;
+  margin-inline: auto;
   object-fit: contain;
   border: none;
 }
@@ -107,15 +113,11 @@ is-land:not(:defined) .card-gallery dialog + button {
     grid-auto-flow: column;
     grid-auto-columns: minmax(0, 1fr);
     grid-template-columns: none;
+    block-size: 100%;
   }
 
-  .card-gallery dialog .set img,
   .card-gallery dialog .set div {
-    max-block-size: 70vh;
-  }
-
-  [data-theme='dark'] .card-gallery dialog .set div {
-    overflow-y: scroll;
+    overflow-y: auto;
   }
 }
 
