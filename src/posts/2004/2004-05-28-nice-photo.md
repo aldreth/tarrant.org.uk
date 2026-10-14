@@ -8,12 +8,9 @@ tags:
 author: Edward
 comments: []
 type: Blog
-gallery:
-  - image: ./src/posts/2004/assets/cindymay04/cindy_tarrant.jpg
-    alt: "Cindy Tarrant"
 ---
 
 Taken before Helen Andrews\' wedding.
 
-{% include "partials/gallery.njk" %}
+![Cindy Tarrant](./assets/cindymay04/cindy_tarrant.jpg)
 

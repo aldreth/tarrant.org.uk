@@ -11,9 +11,6 @@ tags:
 author: Edward
 comments: []
 type: Blog
-gallery:
-  - image: ./src/posts/2005/assets/nyeve2004/pict10004.jpg
-    alt: "New Year's Eve"
 ---
 
 We had Jane & Andy and Steve & Sam with Tom and Josh round on New
@@ -28,5 +25,5 @@ All the children stayed up till midnight, even Rose. In fact the adults
 seemed tireder than the children. Toby, Tom and Josh would have stayed
 up for ages longer.
 
-{% include "partials/gallery.njk" %}
+![New Year's Eve](./assets/nyeve2004/pict10004.jpg)
 

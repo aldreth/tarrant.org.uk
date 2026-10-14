@@ -80,16 +80,13 @@ comments:
       xxxxxx
 
 type: Blog
-gallery:
-  - image: ./src/posts/2005/assets/wales2005/dscf1258.jpg
-    alt: "Cindy Tarrant"
 ---
 
 We are very sorry to have to tell you of the death of
 
 **Cindy Tarrant.**
 
-{% include "partials/gallery.njk" %}
+![Cindy Tarrant](./assets/wales2005/dscf1258.jpg)
 
 Cindy died calmly and peacefully on Sunday 11<sup>th</sup> September
 2005 in York District Hospital.

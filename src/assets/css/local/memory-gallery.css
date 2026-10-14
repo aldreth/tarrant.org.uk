@@ -12,6 +12,7 @@
 
 .memory-gallery dialog .page img {
   max-inline-size: 100%;
+  max-block-size: calc(100cqb - 4rem);
   inline-size: auto;
   margin-inline: auto;
   object-fit: contain;
@@ -22,10 +23,6 @@
     grid-auto-flow: column;
     grid-auto-columns: minmax(0, 1fr);
     grid-template-columns: none;
-  }
-
-  .memory-gallery dialog .page img {
-    max-block-size: 80dvh;
   }
 }
 

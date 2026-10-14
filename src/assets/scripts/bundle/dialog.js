@@ -116,8 +116,11 @@ const openFromHash = () => {
 openFromHash();
 window.addEventListener('hashchange', openFromHash);
 
+// the dialog fills the window, so its empty body counts as outside too
 window.addEventListener('click', event => {
   document.querySelectorAll('.gallery dialog, .card-gallery dialog').forEach(modal => {
-    if (event.target === modal) modal.close();
+    if (event.target === modal || (modal.contains(event.target) && event.target.matches('.dialog-body, .set'))) {
+      modal.close();
+    }
   });
 });

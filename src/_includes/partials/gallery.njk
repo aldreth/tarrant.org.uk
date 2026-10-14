@@ -1,22 +1,30 @@
+{% if gallery.length == 1 %}
+  {% set only = gallery[0] %}
+  {% image only.image, only.alt, only.caption %}
+{% elif gallery and gallery.length %}
 <is-land on:idle>
-  <div class="gallery | grid mt-l-xl gutter-xs" role="list">
+  <div class="gallery" role="list">
     {%- for item in gallery -%}
-      <dialog class="flow modal{{ loop.index }}">
-        <div class="cluster justify-center flow-space-m gutter-s">
-          <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
-            <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
-          </button>
-          <button data-close class="button" autofocus data-button-variant="primary">
-            {{ meta.dialog.close }}
-          </button>
-          <button data-nav="next" class="button text-step-1" data-button-variant="primary">
-            <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
-          </button>
+    <dialog class="flow">
+      <div class="cluster justify-center flow-space-m gutter-s" data-pagefind-ignore>
+        <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
+          <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
+        </button>
+        <button data-close class="button" autofocus data-button-variant="primary">
+          {{ meta.dialog.close }}
+        </button>
+        <button data-nav="next" class="button text-step-1" data-button-variant="primary">
+          <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
+        </button>
+      </div>
+      <div class="dialog-body">
+        <div class="set">
+          {%- image item.image, item.alt, item.caption -%}
         </div>
-        {%- image item.image, item.alt, item.caption -%}
-      </dialog>
-      <button data-index="{{ loop.index }}">{%- image item.image, item.alt -%}</button>
+      </div>
+    </dialog>
     {%- endfor -%}
+    <button data-index="1" data-pagefind-ignore>{%- image gallery[0].image, gallery[0].alt, gallery[0].caption -%}</button>
   </div>
 
   {% css "local" %}
@@ -27,3 +35,4 @@
     {% include "scripts/dialog.js" %}
   {% endjs %}
 </is-land>
+{% endif %}
