@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /galleries/index.html
+title: Galleries
+description: Photo galleries from the blog, diary and journal.
+---
+
+<div class="gallery-index | grid">
+  {% for item in collections.galleries %}
+    <a href="/galleries/{{ item.slug }}/">
+      <figure>
+        {% imageThumb item.images[0].image, "" %}
+        <figcaption>{{ item.title }}, {{ item.images.length }} photos</figcaption>
+      </figure>
+    </a>
+  {% endfor %}
+</div>
+
+{% css "local" %}
+  {% include "css/gallery.css" %}
+{% endcss %}

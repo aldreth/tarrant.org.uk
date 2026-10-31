@@ -26,7 +26,8 @@ import {
   getAllPostsByYearMonthDay,
   showInSitemap,
   tagList,
-  getShareImages
+  getShareImages,
+  getGalleries
 } from './src/_config/collections.js';
 import events from './src/_config/events.js';
 import filters from './src/_config/filters.js';
@@ -63,6 +64,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addCollection('showInSitemap', showInSitemap);
   eleventyConfig.addCollection('tagList', tagList);
   eleventyConfig.addCollection('shareImages', getShareImages);
+  eleventyConfig.addCollection('galleries', getGalleries);
 
   // ---------------------  Plugins
   eleventyConfig.addPlugin(plugins.htmlConfig);
@@ -108,6 +110,8 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('shuffle', filters.shuffleArray);
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
+  eleventyConfig.addFilter('gallerySlug', filters.gallerySlug);
+  eleventyConfig.addFilter('originalUrl', filters.originalUrl);
   eleventyConfig.addFilter('postPermalink', filters.postPermalink);
   eleventyConfig.addFilter('getYear', filters.getYear);
   eleventyConfig.addFilter('getMonth', filters.getMonth);
@@ -116,6 +120,7 @@ export default async function (eleventyConfig) {
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
   eleventyConfig.addShortcode('image', shortcodes.imageShortcode);
+  eleventyConfig.addAsyncShortcode('imageThumb', shortcodes.imageThumbShortcode);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
@@ -133,6 +138,11 @@ export default async function (eleventyConfig) {
   ['src/assets/fonts/', 'src/assets/images/template', 'src/assets/og-images'].forEach(path =>
     eleventyConfig.addPassthroughCopy(path)
   );
+
+  // Open-in-new-tab links point at these original files. Renditions stop at 1400px.
+  // Blog, diary and journal covers are the only page galleries. Other page scans stay unpublished.
+  eleventyConfig.addPassthroughCopy('src/posts/**/*.{jpg,jpeg,png,gif,webp}');
+  eleventyConfig.addPassthroughCopy('src/pages/{blog,diary,journal}/*.{jpg,jpeg,png,gif,webp}');
 
   eleventyConfig.addPassthroughCopy({
     // -- to root

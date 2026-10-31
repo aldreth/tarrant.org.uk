@@ -33,6 +33,7 @@ export const details = {
 };
 export const dialog = {
   close: 'Close',
+  openInNewTab: 'Open in a new tab',
   next: 'Next',
   previous: 'Previous',
   copyLink: 'Copy link',

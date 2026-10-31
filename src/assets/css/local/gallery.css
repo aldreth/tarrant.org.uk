@@ -1,8 +1,13 @@
-/* One cover image. Opening it shows one photo at a time, with previous and next
-   buttons. The dialog frame matches the card galleries. */
+/* A post shows one cover image, linking to the gallery page.
+   The gallery page is a grid of thumbnails. Opening one shows that photo,
+   with previous and next through the rest. The dialog frame matches the card galleries. */
 
 .gallery {
   inline-size: 100%;
+}
+
+.gallery-grid {
+  --grid-min-item-size: 10rem;
 }
 
 .gallery dialog {
@@ -39,6 +44,19 @@
   margin-inline: auto;
 }
 
+.gallery > a {
+  display: block;
+  inline-size: min(100%, 24rem);
+  margin-inline: auto;
+  text-decoration: none;
+  color: inherit;
+}
+
+.gallery > a:hover figcaption,
+.gallery > a:focus-visible figcaption {
+  text-decoration: underline;
+}
+
 .gallery dialog + button:focus-visible {
   outline: 3px solid var(--focus-color, currentColor);
   outline-offset: var(--focus-offset, 0.3ch);
@@ -50,14 +68,67 @@
 }
 
 .gallery dialog + button picture,
-.gallery dialog + button img {
+.gallery dialog + button img,
+.gallery > a picture,
+.gallery > a img {
   inline-size: 100%;
   block-size: auto;
   aspect-ratio: auto;
   object-fit: contain;
 }
 
-is-land:not(:defined) .gallery dialog + button {
+.gallery-grid dialog + button {
+  inline-size: auto;
+  margin-inline: 0;
+}
+
+.gallery-grid dialog + button picture,
+.gallery-grid dialog + button img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.gallery-frame {
+  position: relative;
+  display: inline-block;
+  max-inline-size: 100%;
+  max-block-size: 100%;
+  min-block-size: 0;
+  line-height: 0;
+}
+
+.gallery dialog .gallery-frame picture {
+  display: block;
+}
+
+.gallery-frame > .gallery-original {
+  position: absolute;
+  inset-block-end: 0.35rem;
+  inset-inline-end: 0.35rem;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem;
+  color: var(--color-light);
+  background: color-mix(in oklab, var(--color-dark) 55%, transparent);
+  border-radius: var(--border-radius-small);
+  text-decoration: none;
+  opacity: 0.8;
+  line-height: 0;
+}
+
+.gallery-frame > .gallery-original:hover,
+.gallery-frame > .gallery-original:focus-visible {
+  opacity: 1;
+}
+
+.gallery-frame > .gallery-original svg {
+  inline-size: 1em;
+  block-size: 1em;
+}
+
+is-land:not(:defined) .gallery dialog + button,
+is-land:not(:defined) .gallery-grid dialog + button {
   cursor: default;
 }
 
@@ -93,11 +164,36 @@ is-land:not(:defined) .gallery dialog + button {
   border: none;
 }
 
-.gallery dialog .set figure img {
+.gallery dialog .set figure:has(figcaption) img {
   max-block-size: calc(100cqb - 2.5em);
 }
 
 .gallery dialog figcaption {
   color: var(--color-light);
   text-align: center;
+}
+
+.gallery-index {
+  --grid-min-item-size: 14rem;
+}
+
+.gallery-index a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.gallery-index a:hover figcaption,
+.gallery-index a:focus-visible figcaption {
+  text-decoration: underline;
+}
+
+.gallery-index picture {
+  display: block;
+}
+
+.gallery-index img {
+  inline-size: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
 }

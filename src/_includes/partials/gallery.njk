@@ -2,6 +2,8 @@
   {% set only = gallery[0] %}
   {% image only.image, only.alt, only.caption %}
 {% elif gallery and gallery.length %}
+  {% set onSectionFront = page.url == "/blog/" or page.url == "/diary/" or page.url == "/journal/" %}
+  {% if onSectionFront %}
 <is-land on:idle>
   <div class="gallery" role="list">
     {%- for item in gallery -%}
@@ -19,20 +21,72 @@
       </div>
       <div class="dialog-body">
         <div class="set">
-          {%- image item.image, item.alt, item.caption -%}
+          <figure class="gallery-photo">
+            <div class="gallery-frame">
+              {%- image item.image, item.alt -%}
+              <a class="gallery-original" href="{{ item.image | originalUrl }}" target="_blank" rel="noopener" title="{{ meta.dialog.openInNewTab }}" aria-label="{{ meta.dialog.openInNewTab }}{% if item.alt %}, {{ item.alt }}{% endif %}">{% svg "misc/external" %}</a>
+            </div>
+            {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
+          </figure>
         </div>
       </div>
     </dialog>
     {%- endfor -%}
-    <button data-index="1" data-pagefind-ignore>{%- image gallery[0].image, gallery[0].alt, gallery[0].caption -%}</button>
+    <button data-index="1" data-pagefind-ignore>{%- imageThumb gallery[0].image, gallery[0].alt, gallery[0].caption, "(min-width: 30em) 24rem, 100vw" -%}</button>
   </div>
-
-  {% css "local" %}
-    {% include "css/gallery.css" %}
-  {% endcss %}
 
   {% js "defer" %}
     {% include "scripts/dialog.js" %}
   {% endjs %}
 </is-land>
+  {% elif galleryPage %}
+<is-land on:idle>
+  <div class="gallery gallery-grid | grid gutter-xs" role="list">
+    {%- for item in gallery -%}
+    <dialog class="flow">
+      <div class="cluster justify-center flow-space-m gutter-s" data-pagefind-ignore>
+        <button data-nav="prev" class="button text-step-1" data-button-variant="primary">
+          <span class="visually-hidden">{{ meta.dialog.previous }}</span>{% svg "misc/arrow-left" %}
+        </button>
+        <button data-close class="button" autofocus data-button-variant="primary">
+          {{ meta.dialog.close }}
+        </button>
+        <button data-nav="next" class="button text-step-1" data-button-variant="primary">
+          <span class="visually-hidden">{{ meta.dialog.next }}</span>{% svg "misc/arrow-right" %}
+        </button>
+      </div>
+      <div class="dialog-body">
+        <div class="set">
+          <figure class="gallery-photo">
+            <div class="gallery-frame">
+              {%- image item.image, item.alt -%}
+              <a class="gallery-original" href="{{ item.image | originalUrl }}" target="_blank" rel="noopener" title="{{ meta.dialog.openInNewTab }}" aria-label="{{ meta.dialog.openInNewTab }}{% if item.alt %}, {{ item.alt }}{% endif %}">{% svg "misc/external" %}</a>
+            </div>
+            {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
+          </figure>
+        </div>
+      </div>
+    </dialog>
+    <button data-index="{{ loop.index }}" data-pagefind-ignore>{%- imageThumb item.image, item.alt, "", "(min-width: 30em) 12rem, 46vw" -%}</button>
+    {%- endfor -%}
+  </div>
+
+  {% js "defer" %}
+    {% include "scripts/dialog.js" %}
+  {% endjs %}
+</is-land>
+  {% else %}
+    {% set photoCount = gallery.length ~ " photos" %}
+    {% set coverCaption = gallery[0].caption %}
+    {% set linkCaption = coverCaption ~ " — " ~ photoCount if coverCaption else photoCount %}
+<div class="gallery">
+  <a href="/galleries/{{ gallery | gallerySlug }}/">
+    {%- imageThumb gallery[0].image, gallery[0].alt, linkCaption, "(min-width: 30em) 24rem, 100vw" -%}
+  </a>
+</div>
+  {% endif %}
+
+  {% css "local" %}
+    {% include "css/gallery.css" %}
+  {% endcss %}
 {% endif %}

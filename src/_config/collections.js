@@ -1,6 +1,7 @@
 import _ from 'lodash';
+import {getGalleries} from './galleries.js';
 
-// import {slugifyString} from './filters/slugify';
+export {getGalleries};
 
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {

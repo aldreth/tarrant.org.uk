@@ -6,8 +6,12 @@ import {splitlines} from './filters/splitlines.js';
 import {commentParagraphs, decodeText} from './filters/comment-text.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
+import {gallerySlug} from './galleries.js';
 import {postPermalink} from './filters/post-permalink.js';
 import {getYear, getMonth, getDay} from './filters/date-part-handling.js';
+
+// Front matter stores ./src/posts/.../photo.jpg. The published file is /posts/.../photo.jpg.
+const originalUrl = src => `/${String(src).replace(/^\.\//, '').replace(/^src\//, '').replace(/^\//, '')}`;
 
 export default {
   toISOString,
@@ -20,8 +24,10 @@ export default {
   shuffleArray,
   sortAlphabetically,
   slugifyString,
+  gallerySlug,
   postPermalink,
   getYear,
   getMonth,
-  getDay
+  getDay,
+  originalUrl
 };

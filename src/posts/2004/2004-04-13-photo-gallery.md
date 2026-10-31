@@ -10,6 +10,7 @@ tags:
 author: Edward
 comments: []
 type: Blog
+galleryTitle: Forbidden Corner
 gallery:
   - image: ./src/posts/2004/assets/forbiddencorner/dscf0225.jpg
     alt: "Photo Gallery"
