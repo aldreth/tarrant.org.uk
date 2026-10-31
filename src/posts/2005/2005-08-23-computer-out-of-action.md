@@ -271,8 +271,6 @@ walesGallery:
     alt: "Wales, August 2005"
   - image: ./src/posts/2005/assets/wales2005/dscf1337.jpg
     alt: "Wales, August 2005"
-  - image: ./src/posts/2005/assets/wales2005/dscf1338.jpg
-    alt: "Wales, August 2005"
 ---
 
 No entries recently as the computer hasn\'t been working properly.
@@ -297,4 +295,3 @@ to La Piazza.
 
 At the moment James, Emma, Jacob, Sam and Hannah are staying with us.
 We\'ve been to the beach today. It was blowy and coldish, but fun.
-

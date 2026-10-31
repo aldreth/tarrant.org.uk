@@ -29,8 +29,6 @@ type: Blog
 gallery:
   - image: ./src/posts/2005/assets/cindygrave/cnv00034.jpg
     alt: "Cindy's Grave"
-  - image: ./src/posts/2005/assets/cindygrave/cnv00035.jpg
-    alt: "Cindy's Grave"
   - image: ./src/posts/2007/york_cemetery_plan.png
     alt: "Map to Cindy's grave"
 ---
