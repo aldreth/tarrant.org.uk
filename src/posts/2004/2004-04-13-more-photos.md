@@ -10,6 +10,7 @@ tags:
 author: Edward
 comments: []
 type: Blog
+galleryTitle: "Katharine and Simon's Wedding"
 gallery:
   - image: ./src/posts/2004/assets/k-s-wedding/dscf0128.jpg
     alt: "More Photos"

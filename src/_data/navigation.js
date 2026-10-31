@@ -33,6 +33,10 @@ export default {
         {
           text: 'Journal',
           url: '/journal/'
+        },
+        {
+          text: 'Galleries',
+          url: '/galleries/'
         }
       ]
     },

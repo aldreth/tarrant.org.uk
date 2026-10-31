@@ -1,0 +1,23 @@
+---
+layout: page
+pagination:
+  data: collections.galleries
+  size: 1
+  alias: galleryItem
+permalink: /galleries/{{ galleryItem.slug }}/
+eleventyComputed:
+  title: "{{ galleryItem.title | safe }}"
+  description: "{{ galleryItem.images.length }} photos"
+---
+
+<p>
+  {{ galleryItem.images.length }} photos from
+  {% for post in galleryItem.posts %}
+    {% if not loop.first %}{% if loop.last %} and {% else %}, {% endif %}{% endif %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  {%- endfor -%}.
+</p>
+
+{% set gallery = galleryItem.images %}
+{% set galleryPage = true %}
+{% include "partials/gallery.njk" %}

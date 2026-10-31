@@ -97,3 +97,10 @@ export const imageShortcode = async (
     ? `<figure slot="image"${containerClass ? ` class="${containerClass}"` : ''}>${pictureElement}<figcaption>${caption}</figcaption></figure>`
     : `<picture slot="image"${containerClass ? ` class="${containerClass}"` : ''}>${imageSources}<img ${imageAttributes}></picture>`;
 };
+
+// 480px covers a gallery-grid cell (about 10–12rem) at 2x. 800px covers the larger index cells and the 24rem post covers.
+const thumbWidths = [480, 800];
+const thumbSizes = '(min-width: 70em) 16rem, (min-width: 40em) 30vw, 46vw';
+
+export const imageThumbShortcode = async (src, alt = '', caption = '', sizes = thumbSizes) =>
+  imageShortcode(src, alt, caption, 'lazy', undefined, undefined, thumbWidths, sizes);
