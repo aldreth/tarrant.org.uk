@@ -59,9 +59,9 @@ export const imageShortcode = async (
   loading = 'lazy',
   containerClass,
   imageClass,
-  widths = [650, 960, 1400],
+  widths = [650, 1400],
   sizes = 'auto',
-  formats = ['webp', 'jpeg']
+  formats = ['webp']
 ) => {
   // Prepend "./src" if not present
   if (!src.startsWith('./src')) {
@@ -70,7 +70,9 @@ export const imageShortcode = async (
 
   const metadata = await processImage(src, widths, formats);
 
-  const lowsrc = metadata.jpeg[metadata.jpeg.length - 1];
+  // JPEG stays out of the cached renditions. The original file is still linked for a full-size view.
+  const fallback = metadata.webp || Object.values(metadata)[0];
+  const lowsrc = fallback[fallback.length - 1];
 
   const imageSources = Object.values(metadata)
     .map(imageFormat => {
